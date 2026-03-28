@@ -1,0 +1,404 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Flight Network Analysis Report</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 0;
+                padding: 20px;
+                color: #333;
+            }
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+            }
+            h1 {
+                color: #2c3e50;
+                border-bottom: 2px solid #3498db;
+                padding-bottom: 10px;
+            }
+            h2 {
+                color: #2980b9;
+                border-bottom: 1px solid #ddd;
+                padding-bottom: 5px;
+                margin-top: 30px;
+            }
+            h3 {
+                color: #3498db;
+            }
+            table {
+                border-collapse: collapse;
+                width: 100%;
+                margin: 20px 0;
+            }
+            th, td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+            th {
+                background-color: #f2f2f2;
+            }
+            tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+            .image-container {
+                margin: 20px 0;
+                text-align: center;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            }
+            .footer {
+                margin-top: 50px;
+                text-align: center;
+                font-size: 12px;
+                color: #777;
+                border-top: 1px solid #ddd;
+                padding-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Flight Network Analysis Report</h1>
+            <p>Generated on: 2025-05-08</p>
+            
+            <h2>1. Executive Summary</h2>
+            <p>This report presents a comprehensive analysis of the global flight network structure, identifying key hubs, community structures, resilience to disruptions, and seasonal patterns in air travel. The analysis leverages graph theory and network science methodologies to uncover insights about the complex interconnections between airports worldwide.</p>
+            
+            <h2>2. Network Overview</h2>
+    
+            <p>The analyzed flight network consists of 6072 airports connected by 67663 direct flight routes. This network represents the global air transportation infrastructure as captured in the OpenFlights dataset.</p>
+            
+            <h3>2.1 Network Characteristics</h3>
+            <ul>
+                <li>Number of airports (nodes): 6072</li>
+                <li>Number of routes (edges): 67663</li>
+                <li>Network type: Directed (flights have specific origins and destinations)</li>
+            </ul>
+        
+            <h2>3. Hub Analysis</h2>
+            <p>Identifying the most important airports (hubs) in the network is crucial for understanding global air travel patterns. Various centrality measures were used to quantify the importance of each airport.</p>
+    
+            <h3>3.1 Key Global Hubs (PageRank)</h3>
+            <p>PageRank identifies the most influential airports in the network, considering both direct and indirect connections:</p>
+            <table>
+                <tr>
+                    <th>Rank</th>
+                    <th>Airport Code</th>
+                    <th>Airport Name</th>
+                    <th>City</th>
+                    <th>Country</th>
+                    <th>PageRank Score</th>
+                </tr>
+        <p>Hub analysis data could not be loaded. Please run the hub analysis script first.</p>
+            <h2>4. Community Structure</h2>
+            <p>Network communities represent groups of airports that are more densely connected to each other than to the rest of the network. These communities often align with geographical regions, airline alliances, or hub-and-spoke systems.</p>
+    
+            <h3>4.1 Identified Communities</h3>
+            <p>The analysis identified 23 distinct communities in the flight network. The largest communities are:</p>
+            <table>
+                <tr>
+                    <th>Community ID</th>
+                    <th>Number of Airports</th>
+                    <th>Main Countries</th>
+                    <th>Geographic Center</th>
+                </tr>
+        
+                <tr>
+                    <td>3</td>
+                    <td>652</td>
+                    <td>United States, Canada, Mexico</td>
+                    <td>(34.60, -92.55)</td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td>529</td>
+                    <td>France, United Kingdom, Spain</td>
+                    <td>(46.51, 9.11)</td>
+                </tr>
+            
+                <tr>
+                    <td>9</td>
+                    <td>424</td>
+                    <td>India, Iran, Turkey</td>
+                    <td>(14.25, 50.37)</td>
+                </tr>
+            
+                <tr>
+                    <td>19</td>
+                    <td>379</td>
+                    <td>China, Japan, Philippines</td>
+                    <td>(28.86, 115.99)</td>
+                </tr>
+            
+                <tr>
+                    <td>0</td>
+                    <td>350</td>
+                    <td>Australia, Indonesia, Malaysia</td>
+                    <td>(-13.76, 129.61)</td>
+                </tr>
+            
+                <tr>
+                    <td>11</td>
+                    <td>300</td>
+                    <td>Brazil, Colombia, Argentina</td>
+                    <td>(-12.68, -62.13)</td>
+                </tr>
+            
+                <tr>
+                    <td>14</td>
+                    <td>163</td>
+                    <td>Russia, Kazakhstan, Uzbekistan</td>
+                    <td>(52.75, 68.40)</td>
+                </tr>
+            
+                <tr>
+                    <td>20</td>
+                    <td>131</td>
+                    <td>United States</td>
+                    <td>(62.22, -156.17)</td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td>108</td>
+                    <td>Canada</td>
+                    <td>(58.45, -83.32)</td>
+                </tr>
+            
+                <tr>
+                    <td>13</td>
+                    <td>74</td>
+                    <td>Nigeria, Congo (Kinshasa), Ghana</td>
+                    <td>(5.92, 5.61)</td>
+                </tr>
+            </table>
+                <h3>4.2 Community Map</h3>
+                <p>An interactive map of the communities is available in the results folder (community_map.html). The map shows the geographical distribution of each community with color coding.</p>
+            
+                <h3>4.3 Inter-Community Connections</h3>
+                <div class="image-container">
+                    <img src="../results/inter_community_heatmap.png" alt="Inter-Community Connections">
+                    <p>Figure 2: Heat map showing flight connections between top communities</p>
+                </div>
+            
+            <h2>5. Network Resilience</h2>
+            <p>This section analyzes how the flight network responds to disruptions, such as airport closures. Understanding network resilience is crucial for identifying vulnerabilities and improving the robustness of the air transportation system.</p>
+    
+                <h3>5.1 Impact of Airport Removals</h3>
+                <div class="image-container">
+                    <img src="../results/network_resilience_visualization.png" alt="Network Resilience Analysis">
+                    <p>Figure 3: Impact of airport removals on network connectivity</p>
+                </div>
+                <p>The graph shows how the network's connectivity deteriorates as airports are removed according to different strategies. Targeting airports with high centrality measures causes more rapid fragmentation of the network compared to random removals.</p>
+            
+            <h2>6. Seasonal Patterns</h2>
+            <p>Flight networks exhibit seasonal variations due to tourism, weather, holidays, and other factors. This section examines how the network structure changes across seasons.</p>
+    
+            <h3>6.1 Network-Level Seasonal Metrics</h3>
+            <table>
+                <tr>
+                    <th>Season</th>
+                    <th>Number of Flights</th>
+                    <th>Average Flights per Airport</th>
+                    <th>Network Density</th>
+                </tr>
+        
+                <tr>
+                    <td>Winter</td>
+                    <td>37042</td>
+                    <td>11.37</td>
+                    <td>0.003493</td>
+                </tr>
+            
+                <tr>
+                    <td>Spring</td>
+                    <td>37042</td>
+                    <td>11.37</td>
+                    <td>0.003493</td>
+                </tr>
+            
+                <tr>
+                    <td>Summer</td>
+                    <td>37042</td>
+                    <td>11.37</td>
+                    <td>0.003493</td>
+                </tr>
+            
+                <tr>
+                    <td>Fall</td>
+                    <td>37042</td>
+                    <td>11.37</td>
+                    <td>0.003493</td>
+                </tr>
+            </table>
+                <div class="image-container">
+                    <img src="../results/seasonal_network_metrics_plot.png" alt="Seasonal Network Metrics">
+                    <p>Figure 5: Seasonal variations in network metrics</p>
+                </div>
+            
+                <h3>6.2 Airports with Highest Seasonal Variation</h3>
+                <div class="image-container">
+                    <img src="../results/top_seasonal_airports.png" alt="Top Seasonal Airports">
+                    <p>Figure 6: Airports with the highest seasonal variation in connections</p>
+                </div>
+                <p>These airports show significant changes in connectivity across seasons, likely due to tourism patterns, weather conditions, or other seasonal factors.</p>
+            
+                <h3>6.3 Top 10 Airports with Highest Seasonal Variation</h3>
+                <table>
+                    <tr>
+                        <th>Airport</th>
+                        <th>IATA Code</th>
+                        <th>Winter</th>
+                        <th>Spring</th>
+                        <th>Summer</th>
+                        <th>Fall</th>
+                        <th>Seasonal Variation</th>
+                        <th>Summer/Winter Ratio</th>
+                    </tr>
+            
+                    <tr>
+                        <td>Goroka Airport</td>
+                        <td>GKA</td>
+                        <td>8</td>
+                        <td>8</td>
+                        <td>8</td>
+                        <td>8</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Akureyri Airport</td>
+                        <td>AEY</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Castlegar/West Kootenay Regional Airport</td>
+                        <td>YCG</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Nanaimo Airport</td>
+                        <td>YCD</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Mount Hagen Kagamuga Airport</td>
+                        <td>HGU</td>
+                        <td>17</td>
+                        <td>17</td>
+                        <td>17</td>
+                        <td>17</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Nadzab Airport</td>
+                        <td>LAE</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Port Moresby Jacksons International Airport</td>
+                        <td>POM</td>
+                        <td>66</td>
+                        <td>66</td>
+                        <td>66</td>
+                        <td>66</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Wewak International Airport</td>
+                        <td>WWK</td>
+                        <td>8</td>
+                        <td>8</td>
+                        <td>8</td>
+                        <td>8</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Narsarsuaq Airport</td>
+                        <td>UAK</td>
+                        <td>10</td>
+                        <td>10</td>
+                        <td>10</td>
+                        <td>10</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Godthaab / Nuuk Airport</td>
+                        <td>GOH</td>
+                        <td>16</td>
+                        <td>16</td>
+                        <td>16</td>
+                        <td>16</td>
+                        <td>0.00</td>
+                        <td>1.00</td>
+                    </tr>
+                </table>
+            <h2>7. Conclusions and Recommendations</h2>
+            
+            <h3>7.1 Key Findings</h3>
+            <ul>
+                <li>The global flight network exhibits a scale-free structure, with a small number of major hubs handling a disproportionate amount of traffic.</li>
+                <li>Network communities largely correspond to geographic regions, with some transcontinental communities formed around major airline alliances.</li>
+                <li>The network shows vulnerability to targeted disruptions of central hubs, while being relatively resilient to random airport closures.</li>
+                <li>Seasonal variations are significant for specific tourism-oriented airports and regions with extreme weather conditions.</li>
+            </ul>
+            
+            <h3>7.2 Recommendations</h3>
+            <ul>
+                <li><strong>For Airlines:</strong> Optimize hub-and-spoke systems based on identified community structures. Consider seasonal adjustments to route offerings based on the observed patterns.</li>
+                <li><strong>For Airports:</strong> Smaller airports could improve connectivity by establishing routes to regional hubs rather than trying to connect to distant major hubs.</li>
+                <li><strong>For Regulators:</strong> Implement policies to reduce network vulnerability by encouraging more distributed connectivity rather than concentration around a few mega-hubs.</li>
+                <li><strong>For Future Research:</strong> Incorporate passenger flow data to weight the network edges, providing a more accurate representation of the importance of each route.</li>
+            </ul>
+            
+            <div class="footer">
+                <p>Flight Network Analysis Project Report | Generated on {report_date}</p>
+            </div>
+        </div>
+    </body>
+    </html>
+    

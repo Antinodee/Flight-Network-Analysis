@@ -1,0 +1,3258 @@
+Airport,IATA,Winter,Spring,Summer,Fall,Seasonal Variation,Summer/Winter Ratio
+Goroka Airport,GKA,8,8,8,8,0.0,1.0
+Erie International Tom Ridge Field,ERI,6,6,6,6,0.0,1.0
+Eagle County Regional Airport,EGE,2,2,2,2,0.0,1.0
+Stokmarknes Skagen Airport,SKN,7,7,7,7,0.0,1.0
+Columbus Metropolitan Airport,CSG,2,2,2,2,0.0,1.0
+Lawton Fort Sill Regional Airport,LAW,2,2,2,2,0.0,1.0
+Flagstaff Pulliam Airport,FLG,2,2,2,2,0.0,1.0
+Joslin Field Magic Valley Regional Airport,TWF,2,2,2,2,0.0,1.0
+Martha's Vineyard Airport,MVY,8,8,8,8,0.0,1.0
+St Cloud Regional Airport,STC,4,4,4,4,0.0,1.0
+Golden Triangle Regional Airport,GTR,2,2,2,2,0.0,1.0
+Nizhny Novgorod Strigino International Airport,GOJ,30,30,30,30,0.0,1.0
+Barnstable Municipal Boardman Polando Field,HYA,5,5,5,5,0.0,1.0
+Jieyang Chaoshan International Airport,SWA,47,47,47,47,0.0,1.0
+San Pedro Airport,SPR,2,2,2,2,0.0,1.0
+Morgantown Municipal Walter L. Bill Hart Field,MGW,4,4,4,4,0.0,1.0
+Yeager Airport,CRW,12,12,12,12,0.0,1.0
+Wilkes Barre Scranton International Airport,AVP,12,12,12,12,0.0,1.0
+Bemidji Regional Airport,BJI,2,2,2,2,0.0,1.0
+Ballina Byron Gateway Airport,BNK,6,6,6,6,0.0,1.0
+Hector International Airport,FAR,20,20,20,20,0.0,1.0
+Gillette Campbell County Airport,GCC,6,6,6,6,0.0,1.0
+Bogashevo Airport,TOF,8,8,8,8,0.0,1.0
+Chumphon Airport,CJM,2,2,2,2,0.0,1.0
+Juancho E. Yrausquin Airport,SAB,3,3,3,3,0.0,1.0
+El Trompillo Airport,SRZ,8,8,8,8,0.0,1.0
+Paulatuk (Nora Aliqatchialuk Ruben) Airport,YPC,2,2,2,2,0.0,1.0
+Tanna Airport,TAH,10,10,10,10,0.0,1.0
+Kastelorizo Airport,KZS,2,2,2,2,0.0,1.0
+Marsa Alam International Airport,RMF,8,8,8,8,0.0,1.0
+Weeze Airport,NRN,76,76,76,76,0.0,1.0
+Francisco B. Reyes Airport,USU,4,4,4,4,0.0,1.0
+Bancasi Airport,BXU,4,4,4,4,0.0,1.0
+Dipolog Airport,DPL,6,6,6,6,0.0,1.0
+Laoag International Airport,LAO,2,2,2,2,0.0,1.0
+Legazpi City International Airport,LGP,4,4,4,4,0.0,1.0
+Labo Airport,OZC,4,4,4,4,0.0,1.0
+Mactan Cebu International Airport,CEB,58,58,58,58,0.0,1.0
+Porto Seguro Airport,BPS,12,12,12,12,0.0,1.0
+Brigadeiro Lysias Rodrigues Airport,PMW,6,6,6,6,0.0,1.0
+Nelson Ribeiro Guimarães Airport,CLV,4,4,4,4,0.0,1.0
+Missoula International Airport,MSO,14,14,14,14,0.0,1.0
+Blackall Airport,BKQ,2,2,2,2,0.0,1.0
+Bundaberg Airport,BDB,2,2,2,2,0.0,1.0
+Grand Canyon National Park Airport,GCN,2,2,2,2,0.0,1.0
+Kaadedhdhoo Airport,KDM,4,4,4,4,0.0,1.0
+Déline Airport,YWJ,4,4,4,4,0.0,1.0
+Tulita Airport,ZFN,4,4,4,4,0.0,1.0
+Fort Good Hope Airport,YGH,4,4,4,4,0.0,1.0
+Jiuzhai Huanglong Airport,JZH,10,10,10,10,0.0,1.0
+Cheddi Jagan International Airport,GEO,14,14,14,14,0.0,1.0
+Naxos Airport,JNX,2,2,2,2,0.0,1.0
+Talagi Airport,ARH,12,12,12,12,0.0,1.0
+Narvik Framnes Airport,NVK,2,2,2,2,0.0,1.0
+Berlevåg Airport,BVG,8,8,8,8,0.0,1.0
+Norilsk-Alykel Airport,NSK,21,21,21,21,0.0,1.0
+Anapa Vityazevo Airport,AAQ,6,6,6,6,0.0,1.0
+Joplin Regional Airport,JLN,2,2,2,2,0.0,1.0
+Lehigh Valley International Airport,ABE,18,18,18,18,0.0,1.0
+Northwest Arkansas Regional Airport,XNA,28,28,28,28,0.0,1.0
+Atyrau Airport,GUW,14,14,14,14,0.0,1.0
+Kzyl-Orda Southwest Airport,KZO,8,8,8,8,0.0,1.0
+South Bend Regional Airport,SBN,18,18,18,18,0.0,1.0
+Saratov Central Airport,RTW,10,10,10,10,0.0,1.0
+Guarani International Airport,AGT,4,4,4,4,0.0,1.0
+Novy Urengoy Airport,NUX,20,20,20,20,0.0,1.0
+Noyabrsk Airport,NOJ,10,10,10,10,0.0,1.0
+Aktau Airport,SCO,34,34,34,34,0.0,1.0
+Ukhta Airport,UCT,8,8,8,8,0.0,1.0
+Usinsk Airport,USK,4,4,4,4,0.0,1.0
+Naryan Mar Airport,NNM,6,6,6,6,0.0,1.0
+Kogalym International Airport,KGP,2,2,2,2,0.0,1.0
+Yemelyanovo Airport,KJA,61,61,61,61,0.0,1.0
+Sary-Arka Airport,KGF,12,12,12,12,0.0,1.0
+Uray Airport,URJ,6,6,6,6,0.0,1.0
+Springfield Branson National Airport,SGF,18,18,18,18,0.0,1.0
+St. Mary's Airport,ISC,6,6,6,6,0.0,1.0
+"Ørsta-Volda Airport, Hovden",HOV,8,8,8,8,0.0,1.0
+Yellowstone Regional Airport,COD,4,4,4,4,0.0,1.0
+Eugene F. Correira International Airport,OGL,2,2,2,2,0.0,1.0
+Dunhuang Airport,DNH,8,8,8,8,0.0,1.0
+Ancona Falconara Airport,AOI,20,20,20,20,0.0,1.0
+Edward Bodden Airfield,LYB,4,4,4,4,0.0,1.0
+Milas Bodrum International Airport,BJV,41,41,41,41,0.0,1.0
+Sabiha Gökçen International Airport,SAW,196,196,196,196,0.0,1.0
+University Park Airport,SCE,8,8,8,8,0.0,1.0
+Broome International Airport,BME,15,15,15,15,0.0,1.0
+Newcastle Airport,NTL,10,10,10,10,0.0,1.0
+Klagenfurt Airport,KLU,8,8,8,8,0.0,1.0
+Hammerfest Airport,HFT,16,16,16,16,0.0,1.0
+Valan Airport,HVG,5,5,5,5,0.0,1.0
+Mehamn Airport,MEH,10,10,10,10,0.0,1.0
+Vadsø Airport,VDS,14,14,14,14,0.0,1.0
+Imam Khomeini International Airport,IKA,87,87,87,87,0.0,1.0
+Mashhad International Airport,MHD,74,74,74,74,0.0,1.0
+Key Field,MEI,2,2,2,2,0.0,1.0
+Abraham Lincoln Capital Airport,SPI,4,4,4,4,0.0,1.0
+Cortez Municipal Airport,CEZ,2,2,2,2,0.0,1.0
+Yampa Valley Airport,HDN,2,2,2,2,0.0,1.0
+Liberal Mid-America Regional Airport,LBL,4,4,4,4,0.0,1.0
+Paros National Airport,PAS,2,2,2,2,0.0,1.0
+Milos Airport,MLO,2,2,2,2,0.0,1.0
+Niigata Airport,KIJ,20,20,20,20,0.0,1.0
+Bishop International Airport,FNT,16,16,16,16,0.0,1.0
+Honiara International Airport,HIR,36,36,36,36,0.0,1.0
+Faa'a International Airport,PPT,55,55,55,55,0.0,1.0
+Nauru International Airport,INU,6,6,6,6,0.0,1.0
+Funafuti International Airport,FUN,2,2,2,2,0.0,1.0
+Tolmachevo Airport,OVB,105,105,105,105,0.0,1.0
+Xieng Khouang Airport,XKH,2,2,2,2,0.0,1.0
+Bismarck Municipal Airport,BIS,10,10,10,10,0.0,1.0
+Mae Hong Son Airport,HGN,2,2,2,2,0.0,1.0
+Rapid City Regional Airport,RAP,14,14,14,14,0.0,1.0
+Mc Clellan-Palomar Airport,CLD,2,2,2,2,0.0,1.0
+Francisco Bangoy International Airport,DVO,18,18,18,18,0.0,1.0
+Victoria Harbour Seaplane Base,YWH,2,2,2,2,0.0,1.0
+Madeira Airport,FNC,60,60,60,60,0.0,1.0
+Maestro Wilson Fonseca Airport,STM,13,13,13,13,0.0,1.0
+Sihanoukville International Airport,KOS,2,2,2,2,0.0,1.0
+Hawke's Bay Airport,NPE,6,6,6,6,0.0,1.0
+Lhasa Gonggar Airport,LXA,28,28,28,28,0.0,1.0
+Redding Municipal Airport,RDD,2,2,2,2,0.0,1.0
+Mahlon Sweet Field,EUG,18,18,18,18,0.0,1.0
+Idaho Falls Regional Airport,IDA,8,8,8,8,0.0,1.0
+Rogue Valley International Medford Airport,MFR,14,14,14,14,0.0,1.0
+Roberts Field,RDM,12,12,12,12,0.0,1.0
+Quad City International Airport,MLI,20,20,20,20,0.0,1.0
+L.F. Wade International International Airport,BDA,16,16,16,16,0.0,1.0
+Sarasota Bradenton International Airport,SRQ,12,12,12,12,0.0,1.0
+St George Municipal Airport,SGU,4,4,4,4,0.0,1.0
+Toledo Express Airport,TOL,8,8,8,8,0.0,1.0
+Fort Wayne International Airport,FWA,20,20,20,20,0.0,1.0
+Decatur Airport,DEC,4,4,4,4,0.0,1.0
+The Eastern Iowa Airport,CID,22,22,22,22,0.0,1.0
+La Crosse Municipal Airport,LSE,4,4,4,4,0.0,1.0
+Central Wisconsin Airport,CWA,6,6,6,6,0.0,1.0
+General Wayne A. Downing Peoria International Airport,PIA,20,20,20,20,0.0,1.0
+Appleton International Airport,ATW,14,14,14,14,0.0,1.0
+Rochester International Airport,RST,6,6,6,6,0.0,1.0
+University of Illinois Willard Airport,CMI,4,4,4,4,0.0,1.0
+Manhattan Regional Airport,MHK,4,4,4,4,0.0,1.0
+Kingscote Airport,KGC,2,2,2,2,0.0,1.0
+Hervey Bay Airport,HVB,4,4,4,4,0.0,1.0
+Dali Airport,DLU,8,8,8,8,0.0,1.0
+Mulu Airport,MZV,8,8,8,8,0.0,1.0
+Sharm El Sheikh International Airport,SSH,37,37,37,37,0.0,1.0
+Venango Regional Airport,FKL,4,4,4,4,0.0,1.0
+Jomo Kenyatta International Airport,NBO,125,125,125,125,0.0,1.0
+El Calafate Airport,FTE,6,6,6,6,0.0,1.0
+Armidale Airport,ARM,2,2,2,2,0.0,1.0
+Grand Junction Regional Airport,GJT,12,12,12,12,0.0,1.0
+Hosea Kutako International Airport,WDH,24,24,24,24,0.0,1.0
+Yaoqiang Airport,TNA,80,80,80,80,0.0,1.0
+Kalymnos Airport,JKL,6,6,6,6,0.0,1.0
+Mae Hong Son Airport,PYY,2,2,2,2,0.0,1.0
+Dongying Shengli Airport,DOY,12,12,12,12,0.0,1.0
+Petersburg James A Johnson Airport,PSG,4,4,4,4,0.0,1.0
+Luoyang Airport,LYA,18,18,18,18,0.0,1.0
+Xuzhou Guanyin Airport,XUZ,34,34,34,34,0.0,1.0
+Lien Khuong Airport,DLI,6,6,6,6,0.0,1.0
+Dong Hoi Airport,VDH,4,4,4,4,0.0,1.0
+Rach Gia Airport,VKG,2,2,2,2,0.0,1.0
+Cà Mau Airport,CAH,2,2,2,2,0.0,1.0
+Chu Lai International Airport,VCL,4,4,4,4,0.0,1.0
+Dong Tac Airport,TBB,4,4,4,4,0.0,1.0
+Bol Airport,BWK,2,2,2,2,0.0,1.0
+Changzhou Benniu Airport,CZX,36,36,36,36,0.0,1.0
+Yaoundé Nsimalen International Airport,NSI,19,19,19,19,0.0,1.0
+Conakry International Airport,CKY,16,16,16,16,0.0,1.0
+Karlsruhe Baden-Baden Airport,FKB,36,36,36,36,0.0,1.0
+Orlando Sanford International Airport,SFB,97,97,97,97,0.0,1.0
+John Murtha Johnstown Cambria County Airport,JST,4,4,4,4,0.0,1.0
+Tumling Tar Airport,TMI,2,2,2,2,0.0,1.0
+Dhangarhi Airport,DHI,2,2,2,2,0.0,1.0
+Muan International Airport,MWX,10,10,10,10,0.0,1.0
+Astypalaia Airport,JTY,4,4,4,4,0.0,1.0
+Ikaria Airport,JIK,5,5,5,5,0.0,1.0
+Taoxian Airport,SHE,122,122,122,122,0.0,1.0
+Oudomsay Airport,ODY,2,2,2,2,0.0,1.0
+Luang Namtha Airport,LXG,2,2,2,2,0.0,1.0
+Sandakan Airport,SDK,8,8,8,8,0.0,1.0
+Yibin Caiba Airport,YBP,14,14,14,14,0.0,1.0
+Roshchino International Airport,TJM,37,37,37,37,0.0,1.0
+Akron Canton Regional Airport,CAK,22,22,22,22,0.0,1.0
+Huntsville International Carl T Jones Field,HSV,18,18,18,18,0.0,1.0
+Mid Ohio Valley Regional Airport,PKB,2,2,2,2,0.0,1.0
+Montgomery Regional (Dannelly Field) Airport,MGM,6,6,6,6,0.0,1.0
+Tri-Cities Regional TN/VA Airport,TRI,8,8,8,8,0.0,1.0
+Barkley Regional Airport,PAH,2,2,2,2,0.0,1.0
+Djibouti-Ambouli Airport,JIB,24,24,24,24,0.0,1.0
+Haikou Meilan International Airport,HAK,75,75,75,75,0.0,1.0
+Page Municipal Airport,PGA,6,6,6,6,0.0,1.0
+Utila Airport,UII,1,1,1,1,0.0,1.0
+Glacier Park International Airport,FCA,10,10,10,10,0.0,1.0
+MBS International Airport,MBS,8,8,8,8,0.0,1.0
+Greater Binghamton/Edwin A Link field,BGM,6,6,6,6,0.0,1.0
+Baghdad International Airport,BGW,26,26,26,26,0.0,1.0
+Nan Airport,NNT,4,4,4,4,0.0,1.0
+Roi Et Airport,ROI,2,2,2,2,0.0,1.0
+Buri Ram Airport,BFV,2,2,2,2,0.0,1.0
+Trat Airport,TDX,2,2,2,2,0.0,1.0
+Diosdado Macapagal International Airport,CRK,16,16,16,16,0.0,1.0
+Longjia Airport,CGQ,56,56,56,56,0.0,1.0
+California Redwood Coast-Humboldt County Airport,ACV,6,6,6,6,0.0,1.0
+Mount Isa Airport,ISA,18,18,18,18,0.0,1.0
+Hagfors Airport,HFS,4,4,4,4,0.0,1.0
+"Mo i Rana Airport, Røssvoll",MQN,9,9,9,9,0.0,1.0
+"Rørvik Airport, Ryum",RVK,6,6,6,6,0.0,1.0
+Røst Airport,RET,4,4,4,4,0.0,1.0
+Sandane Airport (Anda),SDN,4,4,4,4,0.0,1.0
+Sogndal Airport,SOG,8,8,8,8,0.0,1.0
+Svolvær Helle Airport,SVJ,6,6,6,6,0.0,1.0
+Sørkjosen Airport,SOJ,5,5,5,5,0.0,1.0
+"Vardø Airport, Svartnes",VAW,6,6,6,6,0.0,1.0
+Bydgoszcz Ignacy Jan Paderewski Airport,BZG,6,6,6,6,0.0,1.0
+Åre Östersund Airport,OSD,6,6,6,6,0.0,1.0
+Karlstad Airport,KSD,4,4,4,4,0.0,1.0
+Oranjemund Airport,OMD,2,2,2,2,0.0,1.0
+Torsby Airport,TYF,4,4,4,4,0.0,1.0
+Ängelholm-Helsingborg Airport,AGH,4,4,4,4,0.0,1.0
+Hemavan Airport,HMV,2,2,2,2,0.0,1.0
+Kruger Mpumalanga International Airport,MQP,8,8,8,8,0.0,1.0
+Chipata Airport,CIP,2,2,2,2,0.0,1.0
+Catumbela Airport,CBT,4,4,4,4,0.0,1.0
+Ngjiva Pereira Airport,VPE,12,12,12,12,0.0,1.0
+Namibe Airport,MSZ,2,2,2,2,0.0,1.0
+Chimoio Airport,VPY,2,2,2,2,0.0,1.0
+Luderitz Airport,LUD,2,2,2,2,0.0,1.0
+Namsos Høknesøra Airport,OSY,6,6,6,6,0.0,1.0
+Leknes Airport,LKN,6,6,6,6,0.0,1.0
+Donegal Airport,CFN,4,4,4,4,0.0,1.0
+Barra Airport,BRR,2,2,2,2,0.0,1.0
+Masset Airport,ZMT,2,2,2,2,0.0,1.0
+Sachigo Lake Airport,ZPB,4,4,4,4,0.0,1.0
+Round Lake (Weagamow Lake) Airport,ZRJ,5,5,5,5,0.0,1.0
+Sandy Lake Airport,ZSJ,6,6,6,6,0.0,1.0
+Churchill Falls Airport,ZUM,4,4,4,4,0.0,1.0
+Batna Airport,BLJ,8,8,8,8,0.0,1.0
+Béchar Boudghene Ben Ali Lotfi Airport,CBH,2,2,2,2,0.0,1.0
+Bordj Badji Mokhtar Airport,BMW,2,2,2,2,0.0,1.0
+Guemar Airport,ELU,2,2,2,2,0.0,1.0
+Kumasi Airport,KMS,2,2,2,2,0.0,1.0
+Heringsdorf Airport,HDF,10,10,10,10,0.0,1.0
+Robin Hood Doncaster Sheffield Airport,DSA,16,16,16,16,0.0,1.0
+Campbeltown Airport,CAL,2,2,2,2,0.0,1.0
+Eday Airport,EOI,3,3,3,3,0.0,1.0
+North Ronaldsay Airport,NRL,6,6,6,6,0.0,1.0
+Papa Westray Airport,PPW,6,6,6,6,0.0,1.0
+Stronsay Airport,SOY,4,4,4,4,0.0,1.0
+Sanday Airport,NDY,5,5,5,5,0.0,1.0
+Westray Airport,WRY,4,4,4,4,0.0,1.0
+Land's End Airport,LEQ,2,2,2,2,0.0,1.0
+Anglesey Airport,VLY,2,2,2,2,0.0,1.0
+Ondangwa Airport,OND,2,2,2,2,0.0,1.0
+Eros Airport,ERS,6,6,6,6,0.0,1.0
+Kashechewan Airport,ZKE,4,4,4,4,0.0,1.0
+Raleigh County Memorial Airport,BKW,3,3,3,3,0.0,1.0
+Diu Airport,DIU,2,2,2,2,0.0,1.0
+Aberdeen Regional Airport,ABR,2,2,2,2,0.0,1.0
+Southwest Georgia Regional Airport,ABY,2,2,2,2,0.0,1.0
+Athens Ben Epps Airport,AHN,2,2,2,2,0.0,1.0
+Waterloo Regional Airport,ALO,2,2,2,2,0.0,1.0
+Walla Walla Regional Airport,ALW,2,2,2,2,0.0,1.0
+Alpena County Regional Airport,APN,4,4,4,4,0.0,1.0
+Watertown Regional Airport,ATY,4,4,4,4,0.0,1.0
+Bradford Regional Airport,BFD,4,4,4,4,0.0,1.0
+Western Neb. Rgnl/William B. Heilig Airport,BFF,2,2,2,2,0.0,1.0
+Brunswick Golden Isles Airport,BQK,2,2,2,2,0.0,1.0
+Tshikapa Airport,TSH,4,4,4,4,0.0,1.0
+Southeast Iowa Regional Airport,BRL,4,4,4,4,0.0,1.0
+Jack Mc Namara Field Airport,CEC,4,4,4,4,0.0,1.0
+Cape Girardeau Regional Airport,CGI,2,2,2,2,0.0,1.0
+Chippewa County International Airport,CIU,2,2,2,2,0.0,1.0
+North Central West Virginia Airport,CKB,5,5,5,5,0.0,1.0
+William R Fairchild International Airport,CLM,2,2,2,2,0.0,1.0
+Houghton County Memorial Airport,CMX,2,2,2,2,0.0,1.0
+Dodge City Regional Airport,DDC,4,4,4,4,0.0,1.0
+DuBois Regional Airport,DUJ,4,4,4,4,0.0,1.0
+Chippewa Valley Regional Airport,EAU,2,2,2,2,0.0,1.0
+Arua Airport,RUA,2,2,2,2,0.0,1.0
+Bukoba Airport,BKZ,2,2,2,2,0.0,1.0
+Port Sudan New International Airport,PZU,7,7,7,7,0.0,1.0
+Nyala Airport,UYL,2,2,2,2,0.0,1.0
+Lodja Airport,LJA,1,1,1,1,0.0,1.0
+La Gomera Airport,GMZ,2,2,2,2,0.0,1.0
+Osvaldo Vieira International Airport,OXB,10,10,10,10,0.0,1.0
+Dakhla Airport,VIL,6,6,6,6,0.0,1.0
+Mogador Airport,ESU,4,4,4,4,0.0,1.0
+Hassan I Airport,EUN,6,6,6,6,0.0,1.0
+Nador International Airport,NDR,24,24,24,24,0.0,1.0
+Praia International Airport,RAI,30,30,30,30,0.0,1.0
+São Filipe Airport,SFL,2,2,2,2,0.0,1.0
+Gode Airport,GDE,2,2,2,2,0.0,1.0
+Bosaso Airport,BSA,4,4,4,4,0.0,1.0
+Aden Adde International Airport,MGQ,15,15,15,15,0.0,1.0
+Galcaio Airport,GLK,6,6,6,6,0.0,1.0
+Assiut International Airport,ATZ,10,10,10,10,0.0,1.0
+Amboseli Airport,ASV,2,2,2,2,0.0,1.0
+Lokichoggio Airport,LKG,2,2,2,2,0.0,1.0
+Malindi Airport,MYD,5,5,5,5,0.0,1.0
+Nanyuki Airport,NYK,5,5,5,5,0.0,1.0
+Gardabya Airport,SRX,4,4,4,4,0.0,1.0
+Gamal Abdel Nasser Airport,TOB,6,6,6,6,0.0,1.0
+La Abraq Airport,LAQ,4,4,4,4,0.0,1.0
+Muskrat Dam Airport,MSA,8,8,8,8,0.0,1.0
+Eastmain River Airport,ZEM,4,4,4,4,0.0,1.0
+Albert J Ellis Airport,OAJ,6,6,6,6,0.0,1.0
+Narsaq Heliport,JNS,4,4,4,4,0.0,1.0
+Tabubil Airport,TBG,6,6,6,6,0.0,1.0
+Tokua Airport,RAB,14,14,14,14,0.0,1.0
+Vanimo Airport,VAI,6,6,6,6,0.0,1.0
+Wapenamanda Airport,WBM,2,2,2,2,0.0,1.0
+Alluitsup Paa Heliport,LLU,4,4,4,4,0.0,1.0
+Neerlerit Inaat Airport,CNP,2,2,2,2,0.0,1.0
+Paamiut Heliport,JFR,4,4,4,4,0.0,1.0
+Qaqortoq Heliport,JJU,9,9,9,9,0.0,1.0
+Maniitsoq Airport,JSU,4,4,4,4,0.0,1.0
+Nanortalik Heliport,JNN,4,4,4,4,0.0,1.0
+Qaanaaq Airport,NAQ,4,4,4,4,0.0,1.0
+Kingfisher Lake Airport,KIF,4,4,4,4,0.0,1.0
+Sisimiut Airport,JHS,6,6,6,6,0.0,1.0
+Upernavik Airport,JUV,4,4,4,4,0.0,1.0
+Qaarsut Airport,JQA,4,4,4,4,0.0,1.0
+Anahim Lake Airport,YAA,2,2,2,2,0.0,1.0
+Rigolet Airport,YRG,4,4,4,4,0.0,1.0
+Whatì Airport,YLE,2,2,2,2,0.0,1.0
+Summer Beaver Airport,SUR,2,2,2,2,0.0,1.0
+Wapekeka Airport,YAX,5,5,5,5,0.0,1.0
+Wunnumin Lake Airport,WNN,5,5,5,5,0.0,1.0
+North Spirit Lake Airport,YNO,4,4,4,4,0.0,1.0
+Tari Airport,TIZ,5,5,5,5,0.0,1.0
+Misima Island Airport,MIS,3,3,3,3,0.0,1.0
+Moro Airport,MXH,5,5,5,5,0.0,1.0
+Momote Airport,MAS,10,10,10,10,0.0,1.0
+Dubuque Regional Airport,DBQ,2,2,2,2,0.0,1.0
+Uru Harbour Airport,ATD,2,2,2,2,0.0,1.0
+Fera/Maringe Airport,FRE,3,3,3,3,0.0,1.0
+Ngorangora Airport,IRA,6,6,6,6,0.0,1.0
+Santa Cruz/Graciosa Bay/Luova Airport,SCZ,2,2,2,2,0.0,1.0
+Munda Airport,MUA,8,8,8,8,0.0,1.0
+Nusatupe Airport,GZO,9,9,9,9,0.0,1.0
+Rennell/Tingoa Airport,RNL,2,2,2,2,0.0,1.0
+Marau Airport,RUS,2,2,2,2,0.0,1.0
+Suavanao Airport,VAO,4,4,4,4,0.0,1.0
+Kaghau Airport,KGE,4,4,4,4,0.0,1.0
+Ramata Airport,RBV,4,4,4,4,0.0,1.0
+Buka Airport,BUA,5,5,5,5,0.0,1.0
+Chimbu Airport,CMU,2,2,2,2,0.0,1.0
+Daru Airport,DAU,6,6,6,6,0.0,1.0
+Gurney Airport,GUR,6,6,6,6,0.0,1.0
+Girua Airport,PNP,6,6,6,6,0.0,1.0
+Kimbe Airport,HKN,6,6,6,6,0.0,1.0
+Kiunga Airport,UNG,7,7,7,7,0.0,1.0
+Kavieng Airport,KVG,6,6,6,6,0.0,1.0
+Mendi Airport,MDU,2,2,2,2,0.0,1.0
+Bearskin Lake Airport,XBE,8,8,8,8,0.0,1.0
+Ogoki Post Airport,YOG,2,2,2,2,0.0,1.0
+Bathurst Airport,ZBF,3,3,3,3,0.0,1.0
+Pikangikum Airport,YPM,7,7,7,7,0.0,1.0
+Akulivik Airport,AKV,4,4,4,4,0.0,1.0
+Waskaganish Airport,YKQ,12,12,12,12,0.0,1.0
+Aupaluk Airport,YPJ,6,6,6,6,0.0,1.0
+Kimmirut Airport,YLC,2,2,2,2,0.0,1.0
+Lansdowne House Airport,YLH,4,4,4,4,0.0,1.0
+Kangiqsualujjuaq (Georges River) Airport,XGR,2,2,2,2,0.0,1.0
+Chapais Airport,YMT,6,6,6,6,0.0,1.0
+Umiujaq Airport,YUD,6,6,6,6,0.0,1.0
+Wemindji Airport,YNC,4,4,4,4,0.0,1.0
+Inukjuak Airport,YPH,7,7,7,7,0.0,1.0
+Peawanuck Airport,YPO,2,2,2,2,0.0,1.0
+Poplar Hill Airport,YHP,4,4,4,4,0.0,1.0
+Powell River Airport,YPW,2,2,2,2,0.0,1.0
+The Pas Airport,YQD,6,6,6,6,0.0,1.0
+Rae Lakes Airport,YRA,2,2,2,2,0.0,1.0
+Red Lake Airport,YRL,14,14,14,14,0.0,1.0
+Sanikiluaq Airport,YSK,6,6,6,6,0.0,1.0
+Big Trout Lake Airport,YTL,9,9,9,9,0.0,1.0
+Deer Lake Airport,YVZ,3,3,3,3,0.0,1.0
+Webequie Airport,YWP,4,4,4,4,0.0,1.0
+Whale Cove Airport,YXN,5,5,5,5,0.0,1.0
+Salluit Airport,YZG,4,4,4,4,0.0,1.0
+Ivujivik Airport,YIK,4,4,4,4,0.0,1.0
+Chevery Airport,YHR,8,8,8,8,0.0,1.0
+Hopedale Airport,YHO,6,6,6,6,0.0,1.0
+Nemiscau Airport,YNS,4,4,4,4,0.0,1.0
+Chisasibi Airport,YKU,8,8,8,8,0.0,1.0
+Tête-à-la-Baleine Airport,ZTB,4,4,4,4,0.0,1.0
+La Tabatière Airport,ZLT,4,4,4,4,0.0,1.0
+Cat Lake Airport,YAC,4,4,4,4,0.0,1.0
+Fort Frances Municipal Airport,YAG,5,5,5,5,0.0,1.0
+Kasabonika Airport,XKS,4,4,4,4,0.0,1.0
+Kangirsuk Airport,YKG,6,6,6,6,0.0,1.0
+Attawapiskat Airport,YAT,4,4,4,4,0.0,1.0
+Lourdes de Blanc Sablon Airport,YBX,6,6,6,6,0.0,1.0
+Chesterfield Inlet Airport,YCS,6,6,6,6,0.0,1.0
+Nain Airport,YDP,4,4,4,4,0.0,1.0
+Fort Severn Airport,YER,5,5,5,5,0.0,1.0
+Fort Albany Airport,YFA,4,4,4,4,0.0,1.0
+Fort Hope Airport,YFH,6,6,6,6,0.0,1.0
+Makkovik Airport,YMN,6,6,6,6,0.0,1.0
+Igloolik Airport,YGT,6,6,6,6,0.0,1.0
+Kuujjuarapik Airport,YGW,14,14,14,14,0.0,1.0
+Gillam Airport,YGX,4,4,4,4,0.0,1.0
+Grise Fiord Airport,YGZ,2,2,2,2,0.0,1.0
+Quaqtaq Airport,YQC,4,4,4,4,0.0,1.0
+Vancouver Harbour Water Aerodrome,CXH,2,2,2,2,0.0,1.0
+Kalamazoo Battle Creek International Airport,AZO,8,8,8,8,0.0,1.0
+Gulfport Biloxi International Airport,GPT,8,8,8,8,0.0,1.0
+Central Illinois Regional Airport at Bloomington-Normal,BMI,16,16,16,16,0.0,1.0
+Miami International Airport,MIA,269,269,269,269,0.0,1.0
+Massena International Richards Field,MSS,2,2,2,2,0.0,1.0
+George Bush Intercontinental Houston Airport,IAH,337,337,337,337,0.0,1.0
+Meadows Field,BFL,10,10,10,10,0.0,1.0
+El Paso International Airport,ELP,25,25,25,25,0.0,1.0
+Valley International Airport,HRL,12,12,12,12,0.0,1.0
+Columbia Metropolitan Airport,CAE,20,20,20,20,0.0,1.0
+Pensacola Regional Airport,PNS,22,22,22,22,0.0,1.0
+William P Hobby Airport,HOU,96,96,96,96,0.0,1.0
+Pittsburgh International Airport,PIT,74,74,74,74,0.0,1.0
+Wiley Post Will Rogers Memorial Airport,BRW,13,13,13,13,0.0,1.0
+Seattle Tacoma International Airport,SEA,183,183,183,183,0.0,1.0
+Lihue Airport,LIH,22,22,22,22,0.0,1.0
+Lovell Field,CHA,16,16,16,16,0.0,1.0
+Jackson-Medgar Wiley Evers International Airport,JAN,18,18,18,18,0.0,1.0
+Long Beach /Daugherty Field/ Airport,LGB,24,24,24,24,0.0,1.0
+Williamsport Regional Airport,IPT,2,2,2,2,0.0,1.0
+Indianapolis International Airport,IND,70,70,70,70,0.0,1.0
+Westchester County Airport,HPN,30,30,30,30,0.0,1.0
+Jonesboro Municipal Airport,JBR,2,2,2,2,0.0,1.0
+Yuma MCAS/Yuma International Airport,YUM,4,4,4,4,0.0,1.0
+Cavern City Air Terminal,CNM,2,2,2,2,0.0,1.0
+Duluth International Airport,DLH,8,8,8,8,0.0,1.0
+Waimea Kohala Airport,MUE,2,2,2,2,0.0,1.0
+Capital City Airport,LAN,12,12,12,12,0.0,1.0
+Lincoln Airport,LNK,6,6,6,6,0.0,1.0
+Harrisburg International Airport,MDT,24,24,24,24,0.0,1.0
+Huron Regional Airport,HON,2,2,2,2,0.0,1.0
+Juneau International Airport,JNU,22,22,22,22,0.0,1.0
+Lafayette Regional Airport,LFT,6,6,6,6,0.0,1.0
+Newark Liberty International Airport,EWR,305,305,305,305,0.0,1.0
+Boise Air Terminal/Gowen Field,BOI,32,32,32,32,0.0,1.0
+Garden City Regional Airport,GCK,2,2,2,2,0.0,1.0
+Minot International Airport,MOT,8,8,8,8,0.0,1.0
+Dallas Love Field,DAL,45,45,45,45,0.0,1.0
+Helena Regional Airport,HLN,9,9,9,9,0.0,1.0
+Lake Charles Regional Airport,LCH,4,4,4,4,0.0,1.0
+Ellison Onizuka Kona International At Keahole Airport,KOA,22,22,22,22,0.0,1.0
+Myrtle Beach International Airport,MYR,46,46,46,46,0.0,1.0
+Nantucket Memorial Airport,ACK,12,12,12,12,0.0,1.0
+Ronald Reagan Washington National Airport,DCA,180,180,180,180,0.0,1.0
+Atlantic City International Airport,ACY,18,18,18,18,0.0,1.0
+Pueblo Memorial Airport,PUB,2,2,2,2,0.0,1.0
+Northern Maine Regional Airport at Presque Isle,PQI,2,2,2,2,0.0,1.0
+Kodiak Airport,ADQ,5,5,5,5,0.0,1.0
+Fort Lauderdale Hollywood International Airport,FLL,194,194,194,194,0.0,1.0
+Falls International Airport,INL,4,4,4,4,0.0,1.0
+Salt Lake City International Airport,SLC,181,181,181,181,0.0,1.0
+Bethel Airport,BET,32,32,32,32,0.0,1.0
+Havre City County Airport,HVR,2,2,2,2,0.0,1.0
+Cleveland Hopkins International Airport,CLE,112,112,112,112,0.0,1.0
+Sawyer International Airport,MQT,4,4,4,4,0.0,1.0
+Augusta Regional At Bush Field,AGS,6,6,6,6,0.0,1.0
+Sloulin Field International Airport,ISN,4,4,4,4,0.0,1.0
+Bill & Hillary Clinton National Airport/Adams Field,LIT,33,33,33,33,0.0,1.0
+Stewart International Airport,SWF,10,10,10,10,0.0,1.0
+Homer Airport,HOM,2,2,2,2,0.0,1.0
+Waynesville-St. Robert Regional Forney field,TBN,2,2,2,2,0.0,1.0
+Dallas Fort Worth International Airport,DFW,372,372,372,372,0.0,1.0
+Melbourne International Airport,MLB,4,4,4,4,0.0,1.0
+Austin Bergstrom International Airport,AUS,83,83,83,83,0.0,1.0
+Rickenbacker International Airport,LCK,4,4,4,4,0.0,1.0
+McGhee Tyson Airport,TYS,34,34,34,34,0.0,1.0
+Richmond International Airport,RIC,38,38,38,38,0.0,1.0
+St Louis Lambert International Airport,STL,121,121,121,121,0.0,1.0
+Sheppard Air Force Base-Wichita Falls Municipal Airport,SPS,2,2,2,2,0.0,1.0
+Cincinnati Municipal Airport Lunken Field,LUK,6,6,6,6,0.0,1.0
+Hartsfield Jackson Atlanta International Airport,ATL,433,433,433,433,0.0,1.0
+Gerald R. Ford International Airport,GRR,40,40,40,40,0.0,1.0
+Fresno Yosemite International Airport,FAT,22,22,22,22,0.0,1.0
+Imperial County Airport,IPL,4,4,4,4,0.0,1.0
+Nashville International Airport,BNA,93,93,93,93,0.0,1.0
+Laredo International Airport,LRD,6,6,6,6,0.0,1.0
+Ralph Wien Memorial Airport,OTZ,23,23,23,23,0.0,1.0
+Austin Straubel International Airport,GRB,8,8,8,8,0.0,1.0
+Midland International Airport,MAF,13,13,13,13,0.0,1.0
+Range Regional Airport,HIB,2,2,2,2,0.0,1.0
+Tampa International Airport,TPA,135,135,135,135,0.0,1.0
+Shreveport Regional Airport,SHV,10,10,10,10,0.0,1.0
+Merle K (Mudhole) Smith Airport,CDV,4,4,4,4,0.0,1.0
+Norfolk International Airport,ORF,36,36,36,36,0.0,1.0
+Southeast Texas Regional Airport,BPT,2,2,2,2,0.0,1.0
+Savannah Hilton Head International Airport,SAV,26,26,26,26,0.0,1.0
+Nome Airport,OME,29,29,29,29,0.0,1.0
+St Petersburg Clearwater International Airport,PIE,62,62,62,62,0.0,1.0
+Deadhorse Airport,SCC,10,10,10,10,0.0,1.0
+San Antonio International Airport,SAT,70,70,70,70,0.0,1.0
+Greater Rochester International Airport,ROC,36,36,36,36,0.0,1.0
+Teterboro Airport,TEB,2,2,2,2,0.0,1.0
+Raleigh Durham International Airport,RDU,78,78,78,78,0.0,1.0
+James M Cox Dayton International Airport,DAY,32,32,32,32,0.0,1.0
+Kenai Municipal Airport,ENA,2,2,2,2,0.0,1.0
+Niagara Falls International Airport,IAG,10,10,10,10,0.0,1.0
+Newport News Williamsburg International Airport,PHF,10,10,10,10,0.0,1.0
+Tucson International Airport,TUS,31,31,31,31,0.0,1.0
+Theodore Francis Green State Airport,PVD,34,34,34,34,0.0,1.0
+Salisbury Ocean City Wicomico Regional Airport,SBY,4,4,4,4,0.0,1.0
+Bob Hope Airport,BUR,24,24,24,24,0.0,1.0
+Detroit Metropolitan Wayne County Airport,DTW,269,269,269,269,0.0,1.0
+Cincinnati Northern Kentucky International Airport,CVG,94,94,94,94,0.0,1.0
+Los Angeles International Airport,LAX,295,295,295,295,0.0,1.0
+Greenville Spartanburg International Airport,GSP,40,40,40,40,0.0,1.0
+Zhengzhou Xinzheng International Airport,CGO,108,108,108,108,0.0,1.0
+Wagga Wagga City Airport,WGA,4,4,4,4,0.0,1.0
+Beijing Capital International Airport,PEK,408,408,408,408,0.0,1.0
+Dongshan Airport,HLD,18,18,18,18,0.0,1.0
+Tianjin Binhai International Airport,TSN,102,102,102,102,0.0,1.0
+Taiyuan Wusu Airport,TYN,90,90,90,90,0.0,1.0
+Guangzhou Baiyun International Airport,CAN,295,295,295,295,0.0,1.0
+Changsha Huanghua International Airport,CSX,138,138,138,138,0.0,1.0
+Guilin Liangjiang International Airport,KWL,79,79,79,79,0.0,1.0
+Nanning Wuxu Airport,NNG,88,88,88,88,0.0,1.0
+Shenzhen Bao'an International Airport,SZX,170,170,170,170,0.0,1.0
+Wuhan Tianhe International Airport,WUH,128,128,128,128,0.0,1.0
+Nanjing Lukou Airport,NKG,106,106,106,106,0.0,1.0
+Pyongyang Sunan International Airport,FNJ,8,8,8,8,0.0,1.0
+Lanzhou Zhongchuan Airport,LHW,64,64,64,64,0.0,1.0
+Xi'an Xianyang International Airport,XIY,170,170,170,170,0.0,1.0
+Chinggis Khaan International Airport,ULN,29,29,29,29,0.0,1.0
+Xishuangbanna Gasa Airport,JHG,18,18,18,18,0.0,1.0
+Kunming Changshui International Airport,KMG,186,186,186,186,0.0,1.0
+Xiamen Gaoqi International Airport,XMN,142,142,142,142,0.0,1.0
+Nanchang Changbei International Airport,KHN,76,76,76,76,0.0,1.0
+Fuzhou Changle International Airport,FOC,94,94,94,94,0.0,1.0
+Hangzhou Xiaoshan International Airport,HGH,142,142,142,142,0.0,1.0
+Tamworth Airport,TMW,2,2,2,2,0.0,1.0
+Sydney Kingsford Smith International Airport,SYD,168,168,168,168,0.0,1.0
+Norfolk Island International Airport,NLK,5,5,5,5,0.0,1.0
+Dubbo City Regional Airport,DBO,4,4,4,4,0.0,1.0
+Mackay Airport,MKY,10,10,10,10,0.0,1.0
+Proserpine Whitsunday Coast Airport,PPP,4,4,4,4,0.0,1.0
+Rockhampton Airport,ROK,6,6,6,6,0.0,1.0
+Townsville Airport,TSV,20,20,20,20,0.0,1.0
+Weipa Airport,WEI,2,2,2,2,0.0,1.0
+Avalon Airport,AVV,2,2,2,2,0.0,1.0
+Albury Airport,ABX,4,4,4,4,0.0,1.0
+Melbourne Essendon Airport,MEB,2,2,2,2,0.0,1.0
+Hobart International Airport,HBA,6,6,6,6,0.0,1.0
+Launceston Airport,LST,10,10,10,10,0.0,1.0
+Melbourne International Airport,MEL,109,109,109,109,0.0,1.0
+Adelaide International Airport,ADL,52,52,52,52,0.0,1.0
+Karratha Airport,KTA,10,10,10,10,0.0,1.0
+Kalgoorlie Boulder Airport,KGI,6,6,6,6,0.0,1.0
+Kununurra Airport,KNX,6,6,6,6,0.0,1.0
+Learmonth Airport,LEA,2,2,2,2,0.0,1.0
+Port Hedland International Airport,PHE,11,11,11,11,0.0,1.0
+Perth International Airport,PER,76,76,76,76,0.0,1.0
+Christmas Island Airport,XCH,4,4,4,4,0.0,1.0
+Canberra International Airport,CBR,12,12,12,12,0.0,1.0
+Coffs Harbour Airport,CFS,4,4,4,4,0.0,1.0
+Ningbo Lishe International Airport,NGB,76,76,76,76,0.0,1.0
+Hefei Luogang International Airport,HFE,70,70,70,70,0.0,1.0
+Memphis International Airport,MEM,63,63,63,63,0.0,1.0
+Kahului Airport,OGG,42,42,42,42,0.0,1.0
+Iliamna Airport,ILI,2,2,2,2,0.0,1.0
+Platinum Airport,PTU,1,1,1,1,0.0,1.0
+Fort Smith Regional Airport,FSM,4,4,4,4,0.0,1.0
+Grand Forks International Airport,GFK,10,10,10,10,0.0,1.0
+Hana Airport,HNM,2,2,2,2,0.0,1.0
+Ernest A. Love Field,PRC,2,2,2,2,0.0,1.0
+Trenton Mercer Airport,TTN,28,28,28,28,0.0,1.0
+General Edward Lawrence Logan International Airport,BOS,205,205,205,205,0.0,1.0
+Metropolitan Oakland International Airport,OAK,67,67,67,67,0.0,1.0
+Eppley Airfield,OMA,38,38,38,38,0.0,1.0
+Wichita Eisenhower National Airport,ICT,23,23,23,23,0.0,1.0
+Liuting Airport,TAO,108,108,108,108,0.0,1.0
+Kansas City International Airport,MCI,86,86,86,86,0.0,1.0
+Dane County Regional Truax Field,MSN,22,22,22,22,0.0,1.0
+Dillingham Airport,DLG,4,4,4,4,0.0,1.0
+Boone County Airport,HRO,4,4,4,4,0.0,1.0
+Phoenix Sky Harbor International Airport,PHX,180,180,180,180,0.0,1.0
+Bangor International Airport,BGR,12,12,12,12,0.0,1.0
+East Texas Regional Airport,GGG,2,2,2,2,0.0,1.0
+Spokane International Airport,GEG,20,20,20,20,0.0,1.0
+San Francisco International Airport,SFO,208,208,208,208,0.0,1.0
+Gainesville Regional Airport,GNV,10,10,10,10,0.0,1.0
+St George Airport,STG,4,4,4,4,0.0,1.0
+St Paul Island Airport,SNP,4,4,4,4,0.0,1.0
+Tatalina LRRS Airport,TLJ,1,1,1,1,0.0,1.0
+Fort Yukon Airport,FYU,8,8,8,8,0.0,1.0
+Shanghai Hongqiao International Airport,SHA,134,134,134,134,0.0,1.0
+Yantai Laishan Airport,YNT,46,46,46,46,0.0,1.0
+Chongqing Jiangbei International Airport,CKG,174,174,174,174,0.0,1.0
+Longdongbao Airport,KWE,94,94,94,94,0.0,1.0
+Chengdu Shuangliu International Airport,CTU,214,214,214,214,0.0,1.0
+Xichang Qingshan Airport,XIC,6,6,6,6,0.0,1.0
+Kashgar Airport,KHG,8,8,8,8,0.0,1.0
+Hotan Airport,HTN,2,2,2,2,0.0,1.0
+Ürümqi Diwopu International Airport,URC,108,108,108,108,0.0,1.0
+Taiping Airport,HRB,113,113,113,113,0.0,1.0
+Mudanjiang Hailang International Airport,MDG,12,12,12,12,0.0,1.0
+Zhoushuizi Airport,DLC,114,114,114,114,0.0,1.0
+Shanghai Pudong International Airport,PVG,299,299,299,299,0.0,1.0
+Sultan Abdul Aziz Shah International Airport,SZB,24,24,24,24,0.0,1.0
+Noto Airport,NTQ,2,2,2,2,0.0,1.0
+Borg El Arab International Airport,HBE,38,38,38,38,0.0,1.0
+Barter Island LRRS Airport,BTI,4,4,4,4,0.0,1.0
+Cape Lisburne LRRS Airport,LUR,1,1,1,1,0.0,1.0
+Point Lay LRRS Airport,PIZ,2,2,2,2,0.0,1.0
+Hilo International Airport,ITO,6,6,6,6,0.0,1.0
+Bettles Airport,BTT,6,6,6,6,0.0,1.0
+Altoona Blair County Airport,AOO,4,4,4,4,0.0,1.0
+South Arkansas Regional At Goodwin Field,ELD,5,5,5,5,0.0,1.0
+La Guardia Airport,LGA,139,139,139,139,0.0,1.0
+Lewiston Nez Perce County Airport,LWS,8,8,8,8,0.0,1.0
+Nakhon Si Thammarat Airport,NST,2,2,2,2,0.0,1.0
+Nakhon Phanom Airport,KOP,2,2,2,2,0.0,1.0
+Ubon Ratchathani Airport,UBP,4,4,4,4,0.0,1.0
+Khon Kaen Airport,KKC,4,4,4,4,0.0,1.0
+Sukhothai Airport,THS,2,2,2,2,0.0,1.0
+Ngurah Rai (Bali) International Airport,DPS,84,84,84,84,0.0,1.0
+Eleftherios Venizelos International Airport,ATH,206,206,206,206,0.0,1.0
+Chubu Centrair International Airport,NGO,85,85,85,85,0.0,1.0
+Kobe Airport,UKB,16,16,16,16,0.0,1.0
+Pullman Moscow Regional Airport,PUW,4,4,4,4,0.0,1.0
+Elmira Corning Regional Airport,ELM,10,10,10,10,0.0,1.0
+Massawa International Airport,MSW,1,1,1,1,0.0,1.0
+Ithaca Tompkins Regional Airport,ITH,6,6,6,6,0.0,1.0
+Monterey Peninsula Airport,MRY,12,12,12,12,0.0,1.0
+Santa Barbara Municipal Airport,SBA,12,12,12,12,0.0,1.0
+Daytona Beach International Airport,DAB,4,4,4,4,0.0,1.0
+Riga International Airport,RIX,136,136,136,136,0.0,1.0
+Kaunas International Airport,KUN,38,38,38,38,0.0,1.0
+Palanga International Airport,PLQ,6,6,6,6,0.0,1.0
+Vilnius International Airport,VNO,92,92,92,92,0.0,1.0
+Zvartnots International Airport,EVN,66,66,66,66,0.0,1.0
+Gyumri Shirak Airport,LWN,2,2,2,2,0.0,1.0
+Chiang Rai International Airport,CEI,6,6,6,6,0.0,1.0
+Chiang Mai International Airport,CNX,52,52,52,52,0.0,1.0
+Incheon International Airport,ICN,260,260,260,260,0.0,1.0
+Adi Sumarmo Wiryokusumo Airport,SOC,8,8,8,8,0.0,1.0
+Wolter Monginsidi Airport,KDI,4,4,4,4,0.0,1.0
+Abdul Rachman Saleh Airport,MLG,4,4,4,4,0.0,1.0
+Husein Sastranegara International Airport,BDO,18,18,18,18,0.0,1.0
+Adi Sutjipto International Airport,JOG,26,26,26,26,0.0,1.0
+Achmad Yani Airport,SRG,18,18,18,18,0.0,1.0
+Hang Nadim International Airport,BTH,34,34,34,34,0.0,1.0
+Buluh Tumbang (H A S Hanandjoeddin) Airport,TJQ,4,4,4,4,0.0,1.0
+Pangkal Pinang (Depati Amir) Airport,PGK,8,8,8,8,0.0,1.0
+Raja Haji Fisabilillah International Airport,TNJ,2,2,2,2,0.0,1.0
+Syamsudin Noor Airport,BDJ,14,14,14,14,0.0,1.0
+Iskandar Airport,PKN,14,14,14,14,0.0,1.0
+Tjilik Riwut Airport,PKY,4,4,4,4,0.0,1.0
+Maumere(Wai Oti) Airport,MOF,4,4,4,4,0.0,1.0
+Ende (H Hasan Aroeboesman) Airport,ENE,4,4,4,4,0.0,1.0
+El Tari Airport,KOE,12,12,12,12,0.0,1.0
+Komodo Airport,LBJ,4,4,4,4,0.0,1.0
+Sultan Aji Muhamad Sulaiman Airport,BPN,28,28,28,28,0.0,1.0
+Juwata Airport,TRK,10,10,10,10,0.0,1.0
+Muhammad Salahuddin Airport,BMU,4,4,4,4,0.0,1.0
+Umbu Mehang Kunda Airport,WGP,2,2,2,2,0.0,1.0
+Juanda International Airport,SUB,51,51,51,51,0.0,1.0
+Asmara International Airport,ASM,15,15,15,15,0.0,1.0
+Batumi International Airport,BUS,10,10,10,10,0.0,1.0
+Tallahassee Regional Airport,TLH,14,14,14,14,0.0,1.0
+Gallatin Field,BZN,14,14,14,14,0.0,1.0
+Ayers Rock Connellan Airport,AYQ,6,6,6,6,0.0,1.0
+Manchester-Boston Regional Airport,MHT,26,26,26,26,0.0,1.0
+Naples Municipal Airport,APF,2,2,2,2,0.0,1.0
+LTS Pulau Redang Airport,RDN,4,4,4,4,0.0,1.0
+Louisville International Standiford Field,SDF,45,45,45,45,0.0,1.0
+Charlottesville Albemarle Airport,CHO,12,12,12,12,0.0,1.0
+Roanoke–Blacksburg Regional Airport,ROA,18,18,18,18,0.0,1.0
+Blue Grass Airport,LEX,26,26,26,26,0.0,1.0
+Evansville Regional Airport,EVV,8,8,8,8,0.0,1.0
+Albuquerque International Sunport,ABQ,46,46,46,46,0.0,1.0
+Billings Logan International Airport,BIL,24,24,24,24,0.0,1.0
+Kopitnari Airport,KUT,16,16,16,16,0.0,1.0
+Bert Mooney Airport,BTM,2,2,2,2,0.0,1.0
+Cherry Capital Airport,TVC,6,6,6,6,0.0,1.0
+Mundo Maya International Airport,FRS,4,4,4,4,0.0,1.0
+Hancock County-Bar Harbor Airport,BHB,2,2,2,2,0.0,1.0
+Knox County Regional Airport,RKD,2,2,2,2,0.0,1.0
+Jackson Hole Airport,JAC,4,4,4,4,0.0,1.0
+Chicago Rockford International Airport,RFD,10,10,10,10,0.0,1.0
+Domodedovo International Airport,DME,376,376,376,376,0.0,1.0
+Sanya Phoenix International Airport,SYX,82,82,82,82,0.0,1.0
+Lijiang Airport,LJG,56,56,56,56,0.0,1.0
+Joe Foss Field Airport,FSD,18,18,18,18,0.0,1.0
+Piedmont Triad International Airport,GSO,28,28,28,28,0.0,1.0
+Asheville Regional Airport,AVL,16,16,16,16,0.0,1.0
+Tweed New Haven Airport,HVN,2,2,2,2,0.0,1.0
+Tbilisi International Airport,TBS,49,49,49,49,0.0,1.0
+Mukalla International Airport,RIY,17,17,17,17,0.0,1.0
+Ta'izz International Airport,TAI,12,12,12,12,0.0,1.0
+Hodeidah International Airport,HOD,7,7,7,7,0.0,1.0
+Aden International Airport,ADE,33,33,33,33,0.0,1.0
+Ataq Airport,AXK,2,2,2,2,0.0,1.0
+Al Ghaidah International Airport,AAY,2,2,2,2,0.0,1.0
+Sana'a International Airport,SAH,46,46,46,46,0.0,1.0
+Socotra International Airport,SCT,2,2,2,2,0.0,1.0
+Memmingen Allgau Airport,FMM,42,42,42,42,0.0,1.0
+Nevşehir Kapadokya Airport,NAV,4,4,4,4,0.0,1.0
+Ministro Pistarini International Airport,EZE,80,80,80,80,0.0,1.0
+Erbil International Airport,EBL,40,40,40,40,0.0,1.0
+Emerald Airport,EMD,2,2,2,2,0.0,1.0
+Kansai International Airport,KIX,114,114,114,114,0.0,1.0
+Tagbilaran Airport,TAG,2,2,2,2,0.0,1.0
+Ilulissat Airport,JAV,10,10,10,10,0.0,1.0
+Aasiaat Airport,JEG,6,6,6,6,0.0,1.0
+Palma De Mallorca Airport,PMI,252,252,252,252,0.0,1.0
+Darwin International Airport,DRW,40,40,40,40,0.0,1.0
+Surat Thani Airport,URT,6,6,6,6,0.0,1.0
+Naha Airport,NAH,2,2,2,2,0.0,1.0
+Suvarnabhumi Airport,BKK,242,242,242,242,0.0,1.0
+Youngstown Warren Regional Airport,YNG,8,8,8,8,0.0,1.0
+Sioux Gateway Col. Bud Day Field,SUX,2,2,2,2,0.0,1.0
+Brownsville South Padre Island International Airport,BRO,4,4,4,4,0.0,1.0
+Dothan Regional Airport,DHN,2,2,2,2,0.0,1.0
+Four Corners Regional Airport,FMN,6,6,6,6,0.0,1.0
+Corpus Christi International Airport,CRP,7,7,7,7,0.0,1.0
+Syracuse Hancock International Airport,SYR,32,32,32,32,0.0,1.0
+Chicago Midway International Airport,MDW,149,149,149,149,0.0,1.0
+Norman Y. Mineta San Jose International Airport,SJC,59,59,59,59,0.0,1.0
+Lea County Regional Airport,HOB,2,2,2,2,0.0,1.0
+Denver International Airport,DEN,335,335,335,335,0.0,1.0
+Philadelphia International Airport,PHL,243,243,243,243,0.0,1.0
+Middle Georgia Regional Airport,MCN,4,4,4,4,0.0,1.0
+Great Falls International Airport,GTF,14,14,14,14,0.0,1.0
+John Glenn Columbus International Airport,CMH,64,64,64,64,0.0,1.0
+Edward G. Pitka Sr Airport,GAL,11,11,11,11,0.0,1.0
+Texarkana Regional Webb Field,TXK,2,2,2,2,0.0,1.0
+Plattsburgh International Airport,PBG,10,10,10,10,0.0,1.0
+Ted Stevens Anchorage International Airport,ANC,68,68,68,68,0.0,1.0
+Robert Gray  Army Air Field Airport,GRK,6,6,6,6,0.0,1.0
+Bellingham International Airport,BLI,18,18,18,18,0.0,1.0
+Mobile Regional Airport,MOB,10,10,10,10,0.0,1.0
+Santa Fe Municipal Airport,SAF,6,6,6,6,0.0,1.0
+Scott AFB/Midamerica Airport,BLV,2,2,2,2,0.0,1.0
+Roswell International Air Center Airport,ROW,2,2,2,2,0.0,1.0
+Ontario International Airport,ONT,29,29,29,29,0.0,1.0
+Monroe Regional Airport,MLU,6,6,6,6,0.0,1.0
+San Diego International Airport,SAN,111,111,111,111,0.0,1.0
+Waco Regional Airport,ACT,2,2,2,2,0.0,1.0
+Augusta State Airport,AUG,2,2,2,2,0.0,1.0
+McKellar-Sipes Regional Airport,MKL,4,4,4,4,0.0,1.0
+Molokai Airport,MKK,5,5,5,5,0.0,1.0
+San Angelo Regional Mathis Field,SJT,2,2,2,2,0.0,1.0
+Chico Municipal Airport,CIC,2,2,2,2,0.0,1.0
+Burlington International Airport,BTV,20,20,20,20,0.0,1.0
+Jacksonville International Airport,JAX,52,52,52,52,0.0,1.0
+Durango La Plata County Airport,DRO,6,6,6,6,0.0,1.0
+Washington Dulles International Airport,IAD,248,248,248,248,0.0,1.0
+Easterwood Field,CLL,4,4,4,4,0.0,1.0
+General Mitchell International Airport,MKE,60,60,60,60,0.0,1.0
+Abilene Regional Airport,ABI,2,2,2,2,0.0,1.0
+Columbia Regional Airport,COU,4,4,4,4,0.0,1.0
+Portland International Airport,PDX,114,114,114,114,0.0,1.0
+Palm Beach International Airport,PBI,46,46,46,46,0.0,1.0
+Ogdensburg International Airport,OGS,2,2,2,2,0.0,1.0
+Boeing Field King County International Airport,BFI,4,4,4,4,0.0,1.0
+Daniel K Inouye International Airport,HNL,101,101,101,101,0.0,1.0
+Des Moines International Airport,DSM,34,34,34,34,0.0,1.0
+Coastal Carolina Regional Airport,EWN,4,4,4,4,0.0,1.0
+Southwest Florida International Airport,RSW,66,66,66,66,0.0,1.0
+King Salmon Airport,AKN,10,10,10,10,0.0,1.0
+Kapalua Airport,JHM,4,4,4,4,0.0,1.0
+Baltimore/Washington International Thurgood Marshall Airport,BWI,144,144,144,144,0.0,1.0
+Alexandria International Airport,AEX,6,6,6,6,0.0,1.0
+Cold Bay Airport,CDB,8,8,8,8,0.0,1.0
+Tulsa International Airport,TUL,36,36,36,36,0.0,1.0
+Sitka Rocky Gutierrez Airport,SIT,4,4,4,4,0.0,1.0
+Long Island Mac Arthur Airport,ISP,20,20,20,20,0.0,1.0
+Minneapolis-St Paul International/Wold-Chamberlain Airport,MSP,260,260,260,260,0.0,1.0
+New Castle Airport,ILG,12,12,12,12,0.0,1.0
+Unalaska Airport,DUT,6,6,6,6,0.0,1.0
+Louis Armstrong New Orleans International Airport,MSY,78,78,78,78,0.0,1.0
+Portland International Jetport Airport,PWM,14,14,14,14,0.0,1.0
+Will Rogers World Airport,OKC,42,42,42,42,0.0,1.0
+Albany International Airport,ALB,38,38,38,38,0.0,1.0
+Valdez Pioneer Field,VDZ,2,2,2,2,0.0,1.0
+John Wayne Airport-Orange County Airport,SNA,43,43,43,43,0.0,1.0
+Casper-Natrona County International Airport,CPR,6,6,6,6,0.0,1.0
+Destin-Ft Walton Beach Airport,VPS,10,10,10,10,0.0,1.0
+Key West International Airport,EYW,16,16,16,16,0.0,1.0
+Charlotte Douglas International Airport,CLT,280,280,280,280,0.0,1.0
+McCarran International Airport,LAS,266,266,266,266,0.0,1.0
+Orlando International Airport,MCO,204,204,204,204,0.0,1.0
+Florence Regional Airport,FLO,2,2,2,2,0.0,1.0
+Lanai Airport,LNY,5,5,5,5,0.0,1.0
+Tyler Pounds Regional Airport,TYR,4,4,4,4,0.0,1.0
+John F Kennedy International Airport,JFK,322,322,322,322,0.0,1.0
+Baton Rouge Metropolitan Airport,BTR,8,8,8,8,0.0,1.0
+Cheyenne Regional Jerry Olson Field,CYS,4,4,4,4,0.0,1.0
+Stockton Metropolitan Airport,SCK,2,2,2,2,0.0,1.0
+Charleston Air Force Base-International Airport,CHS,39,39,39,39,0.0,1.0
+Reno Tahoe International Airport,RNO,27,27,27,27,0.0,1.0
+Ketchikan International Airport,KTN,14,14,14,14,0.0,1.0
+Birmingham-Shuttlesworth International Airport,BHM,40,40,40,40,0.0,1.0
+Modesto City Co-Harry Sham Field,MOD,2,2,2,2,0.0,1.0
+Sacramento International Airport,SMF,57,57,57,57,0.0,1.0
+City of Colorado Springs Municipal Airport,COS,22,22,22,22,0.0,1.0
+Buffalo Niagara International Airport,BUF,40,40,40,40,0.0,1.0
+Cedar City Regional Airport,CDC,2,2,2,2,0.0,1.0
+Bradley International Airport,BDL,52,52,52,52,0.0,1.0
+Mc Allen Miller International Airport,MFE,10,10,10,10,0.0,1.0
+Lubbock Preston Smith International Airport,LBB,14,14,14,14,0.0,1.0
+Chicago O'Hare International Airport,ORD,409,409,409,409,0.0,1.0
+Fairbanks International Airport,FAI,30,30,30,30,0.0,1.0
+Watertown International Airport,ART,4,4,4,4,0.0,1.0
+Palm Springs International Airport,PSP,34,34,34,34,0.0,1.0
+Rick Husband Amarillo International Airport,AMA,11,11,11,11,0.0,1.0
+Topeka Regional Airport - Forbes Field,FOE,2,2,2,2,0.0,1.0
+Wilmington International Airport,ILM,10,10,10,10,0.0,1.0
+Elko Regional Airport,EKO,2,2,2,2,0.0,1.0
+New Bedford Regional Airport,EWB,5,5,5,5,0.0,1.0
+Fayetteville Regional Grannis Field,FAY,8,8,8,8,0.0,1.0
+Shageluk Airport,SHX,2,2,2,2,0.0,1.0
+L M Clayton Airport,OLF,2,2,2,2,0.0,1.0
+San Luis Valley Regional Bergman Field,ALS,4,4,4,4,0.0,1.0
+Canyonlands Field,CNY,2,2,2,2,0.0,1.0
+Vernal Regional Airport,VEL,2,2,2,2,0.0,1.0
+Show Low Regional Airport,SOW,4,4,4,4,0.0,1.0
+Mammoth Yosemite Airport,MMH,2,2,2,2,0.0,1.0
+Friday Harbor Airport,FRD,2,2,2,2,0.0,1.0
+Orcas Island Airport,ESD,2,2,2,2,0.0,1.0
+Emmonak Airport,EMK,6,6,6,6,0.0,1.0
+Unalakleet Airport,UNK,9,9,9,9,0.0,1.0
+Chuathbaluk Airport,CHU,1,1,1,1,0.0,1.0
+Venetie Airport,VEE,4,4,4,4,0.0,1.0
+Nuiqsut Airport,NUI,4,4,4,4,0.0,1.0
+Eek Airport,EEK,4,4,4,4,0.0,1.0
+Kasigluk Airport,KUK,1,1,1,1,0.0,1.0
+Kwethluk Airport,KWT,2,2,2,2,0.0,1.0
+Kwigillingok Airport,KWK,5,5,5,5,0.0,1.0
+Marshall Don Hunter Sr Airport,MLL,2,2,2,2,0.0,1.0
+Russian Mission Airport,RSH,6,6,6,6,0.0,1.0
+Chalkyitsik Airport,CIK,4,4,4,4,0.0,1.0
+Hughes Airport,HUS,3,3,3,3,0.0,1.0
+Huslia Airport,HSL,6,6,6,6,0.0,1.0
+Dawson Community Airport,GDV,2,2,2,2,0.0,1.0
+Mc Cook Ben Nelson Regional Airport,MCK,2,2,2,2,0.0,1.0
+Alliance Municipal Airport,AIA,2,2,2,2,0.0,1.0
+Chadron Municipal Airport,CDR,2,2,2,2,0.0,1.0
+Greenbrier Valley Airport,LWB,4,4,4,4,0.0,1.0
+Pitt Greenville Airport,PGV,2,2,2,2,0.0,1.0
+Chefornak Airport,CYF,4,4,4,4,0.0,1.0
+Branson Airport,BKG,8,8,8,8,0.0,1.0
+Tongren Fenghuang Airport,TEN,10,10,10,10,0.0,1.0
+Jinggangshan Airport,JGS,14,14,14,14,0.0,1.0
+Begishevo Airport,NBC,14,14,14,14,0.0,1.0
+Warri Airport,QRW,4,4,4,4,0.0,1.0
+Siargao Airport,IAO,2,2,2,2,0.0,1.0
+Northeast Florida Regional Airport,UST,2,2,2,2,0.0,1.0
+Charles M. Schulz Sonoma County Airport,STS,8,8,8,8,0.0,1.0
+Aspen-Pitkin Co/Sardy Field,ASE,4,4,4,4,0.0,1.0
+Ulyanovsk Baratayevka Airport,ULV,4,4,4,4,0.0,1.0
+Thief River Falls Regional Airport,TVF,2,2,2,2,0.0,1.0
+Gunnison Crested Butte Regional Airport,GUC,2,2,2,2,0.0,1.0
+Manistee Co Blacker Airport,MBL,2,2,2,2,0.0,1.0
+Charlotte County Airport,PGD,35,35,35,35,0.0,1.0
+Chautauqua County-Jamestown Airport,JHW,4,4,4,4,0.0,1.0
+Shenandoah Valley Regional Airport,SHD,3,3,3,3,0.0,1.0
+Dickinson Theodore Roosevelt Regional Airport,DIK,4,4,4,4,0.0,1.0
+Sidney - Richland Regional Airport,SDY,2,2,2,2,0.0,1.0
+Nulato Airport,NUL,5,5,5,5,0.0,1.0
+Beaver Airport,WBQ,2,2,2,2,0.0,1.0
+Wuhai Airport,WUA,8,8,8,8,0.0,1.0
+Kipnuk Airport,KPN,5,5,5,5,0.0,1.0
+Teller Airport,TLA,4,4,4,4,0.0,1.0
+Wales Airport,WAA,7,7,7,7,0.0,1.0
+White Mountain Airport,WMO,4,4,4,4,0.0,1.0
+Koyuk Alfred Adams Airport,KKA,7,7,7,7,0.0,1.0
+St Michael Airport,SMK,2,2,2,2,0.0,1.0
+Shaktoolik Airport,SKK,6,6,6,6,0.0,1.0
+Tin City Long Range Radar Station Airport,TNC,2,2,2,2,0.0,1.0
+Atka Airport,AKB,2,2,2,2,0.0,1.0
+Nikolski Air Station,IKO,2,2,2,2,0.0,1.0
+Alakanuk Airport,AUK,2,2,2,2,0.0,1.0
+False Pass Airport,KFP,2,2,2,2,0.0,1.0
+Central Airport,CEM,2,2,2,2,0.0,1.0
+Nelson Lagoon Airport,NLG,2,2,2,2,0.0,1.0
+Klawock Airport,KLW,2,2,2,2,0.0,1.0
+Quinhagak Airport,KWN,6,6,6,6,0.0,1.0
+Kotlik Airport,KOT,4,4,4,4,0.0,1.0
+Koyukuk Airport,KYU,4,4,4,4,0.0,1.0
+Scammon Bay Airport,SCM,3,3,3,3,0.0,1.0
+Kongiganak Airport,KKH,4,4,4,4,0.0,1.0
+Nikolai Airport,NIB,2,2,2,2,0.0,1.0
+Wainwright Airport,AIN,4,4,4,4,0.0,1.0
+Circle City /New/ Airport,IRC,2,2,2,2,0.0,1.0
+Golovin Airport,GLV,6,6,6,6,0.0,1.0
+Elim Airport,ELI,6,6,6,6,0.0,1.0
+Brevig Mission Airport,KTS,6,6,6,6,0.0,1.0
+Selawik Airport,WLK,2,2,2,2,0.0,1.0
+Shungnak Airport,SHG,3,3,3,3,0.0,1.0
+Visalia Municipal Airport,VIS,2,2,2,2,0.0,1.0
+Merced Regional Macready Field,MCE,2,2,2,2,0.0,1.0
+Toowoomba Airport,TWB,8,8,8,8,0.0,1.0
+Angoon Seaplane Base,AGN,1,1,1,1,0.0,1.0
+Elfin Cove Seaplane Base,ELV,1,1,1,1,0.0,1.0
+Hoonah Airport,HNH,4,4,4,4,0.0,1.0
+Metlakatla Seaplane Base,MTM,2,2,2,2,0.0,1.0
+Hydaburg Seaplane Base,HYG,2,2,2,2,0.0,1.0
+Egegik Airport,EGX,2,2,2,2,0.0,1.0
+Perryville Airport,KPV,1,1,1,1,0.0,1.0
+Pilot Point Airport,PIP,1,1,1,1,0.0,1.0
+South Naknek Nr 2 Airport,WSN,2,2,2,2,0.0,1.0
+Akhiok Airport,AKK,2,2,2,2,0.0,1.0
+Karluk Airport,KYK,1,1,1,1,0.0,1.0
+Larsen Bay Airport,KLN,2,2,2,2,0.0,1.0
+Ambler Airport,ABL,4,4,4,4,0.0,1.0
+Buckland Airport,BKC,4,4,4,4,0.0,1.0
+Bob Baker Memorial Airport,IAN,4,4,4,4,0.0,1.0
+Kobuk Airport,OBU,3,3,3,3,0.0,1.0
+Robert (Bob) Curtis Memorial Airport,ORV,4,4,4,4,0.0,1.0
+Brainerd Lakes Regional Airport,BRD,4,4,4,4,0.0,1.0
+Manzhouli Xijiao Airport,NZH,20,20,20,20,0.0,1.0
+Yuncheng Guangong Airport,YCU,36,36,36,36,0.0,1.0
+Hagerstown Regional Richard A Henson Field,HGR,4,4,4,4,0.0,1.0
+Tasiujaq Airport,YTQ,4,4,4,4,0.0,1.0
+Arctic Village Airport,ARC,2,2,2,2,0.0,1.0
+Sam Mbakwe International Airport,QOW,4,4,4,4,0.0,1.0
+Arenal Airport,FON,3,3,3,3,0.0,1.0
+Tambor Airport,TMU,3,3,3,3,0.0,1.0
+Cauayan Airport,CYZ,2,2,2,2,0.0,1.0
+Kirovsk-Apatity Airport,KVK,2,2,2,2,0.0,1.0
+Coronel Altino Machado de Oliveira Airport,GVR,2,2,2,2,0.0,1.0
+Pajala Airport,PJA,4,4,4,4,0.0,1.0
+Bella Coola Airport,QBC,3,3,3,3,0.0,1.0
+Araracuara Airport,ACR,2,2,2,2,0.0,1.0
+Burgos Airport,RGS,2,2,2,2,0.0,1.0
+Gorakhpur Airport,GOP,2,2,2,2,0.0,1.0
+Sand Point Airport,SDP,2,2,2,2,0.0,1.0
+Hami Airport,HMI,12,12,12,12,0.0,1.0
+Wuzhou Changzhoudao Airport,WUZ,6,6,6,6,0.0,1.0
+Gorgan Airport,GBT,8,8,8,8,0.0,1.0
+Ilam Airport,IIL,2,2,2,2,0.0,1.0
+Parsabade Moghan Airport,PFQ,2,2,2,2,0.0,1.0
+Tacheng Airport,TCG,2,2,2,2,0.0,1.0
+Mardin Airport,MQM,8,8,8,8,0.0,1.0
+Deering Airport,DRG,4,4,4,4,0.0,1.0
+Puvirnituq Airport,YPX,8,8,8,8,0.0,1.0
+Noatak Airport,WTK,3,3,3,3,0.0,1.0
+Savoonga Airport,SVA,4,4,4,4,0.0,1.0
+Shishmaref Airport,SHH,4,4,4,4,0.0,1.0
+Dandong Airport,DDG,6,6,6,6,0.0,1.0
+Ordos Ejin Horo Airport,DSN,36,36,36,36,0.0,1.0
+Bao'anying Airport,PZI,4,4,4,4,0.0,1.0
+Provincetown Municipal Airport,PVC,2,2,2,2,0.0,1.0
+Gustaf III Airport,SBH,13,13,13,13,0.0,1.0
+Donskoye Airport,TBW,2,2,2,2,0.0,1.0
+Erechim Airport,ERM,5,5,5,5,0.0,1.0
+Navoi Airport,NVI,6,6,6,6,0.0,1.0
+Ain Arnat Airport,QSF,8,8,8,8,0.0,1.0
+La Rochelle-Île de Ré Airport,LRH,16,16,16,16,0.0,1.0
+Phoenix-Mesa-Gateway Airport,AZA,64,64,64,64,0.0,1.0
+Anaktuvuk Pass Airport,AKP,4,4,4,4,0.0,1.0
+Anvik Airport,ANV,2,2,2,2,0.0,1.0
+Atqasuk Edward Burnell Sr Memorial Airport,ATK,4,4,4,4,0.0,1.0
+Gambell Airport,GAM,4,4,4,4,0.0,1.0
+Hooper Bay Airport,HPB,4,4,4,4,0.0,1.0
+Kaltag Airport,KAL,5,5,5,5,0.0,1.0
+St Mary's Airport,KSM,6,6,6,6,0.0,1.0
+Kivalina Airport,KVL,3,3,3,3,0.0,1.0
+Mekoryuk Airport,MYU,2,2,2,2,0.0,1.0
+Ruby Airport,RBY,5,5,5,5,0.0,1.0
+Leon Airport,LEN,2,2,2,2,0.0,1.0
+Sege Airport,EGM,7,7,7,7,0.0,1.0
+Naypyidaw Airport,NYT,4,4,4,4,0.0,1.0
+Pangborn Memorial Airport,EAT,2,2,2,2,0.0,1.0
+Choibalsan Airport,COQ,6,6,6,6,0.0,1.0
+Delta County Airport,ESC,2,2,2,2,0.0,1.0
+Yakutat Airport,YAK,4,4,4,4,0.0,1.0
+Benjamin Rivera Noriega Airport,CPX,2,2,2,2,0.0,1.0
+Williamson County Regional Airport,MWA,2,2,2,2,0.0,1.0
+Ford Airport,IMT,4,4,4,4,0.0,1.0
+Allakaket Airport,AET,5,5,5,5,0.0,1.0
+Montrose Regional Airport,MTJ,2,2,2,2,0.0,1.0
+Riverton Regional Airport,RIW,2,2,2,2,0.0,1.0
+Eastern Oregon Regional At Pendleton Airport,PDT,2,2,2,2,0.0,1.0
+Kirensk Airport,KCK,2,2,2,2,0.0,1.0
+Kangra Airport,DHM,2,2,2,2,0.0,1.0
+Ust-Kut Airport,UKX,2,2,2,2,0.0,1.0
+Rimatara Airport,RMT,4,4,4,4,0.0,1.0
+Taganrog Yuzhny Airport,TGK,2,2,2,2,0.0,1.0
+Gelendzhik Airport,GDZ,2,2,2,2,0.0,1.0
+Tunoshna Airport,IAR,2,2,2,2,0.0,1.0
+Gu-Lian Airport,OHE,6,6,6,6,0.0,1.0
+Jining Qufu Airport,JNG,18,18,18,18,0.0,1.0
+Drake Bay Airport,DRK,2,2,2,2,0.0,1.0
+Altay Air Base,AAT,2,2,2,2,0.0,1.0
+Tuzla International Airport,TZL,4,4,4,4,0.0,1.0
+Taree Airport,TRO,4,4,4,4,0.0,1.0
+Orange Airport,OAG,2,2,2,2,0.0,1.0
+Grafton Airport,GFN,2,2,2,2,0.0,1.0
+Hamadan Airport,HDM,2,2,2,2,0.0,1.0
+Igiugig Airport,IGG,1,1,1,1,0.0,1.0
+King Cove Airport,KVC,2,2,2,2,0.0,1.0
+Port Heiden Airport,PTH,1,1,1,1,0.0,1.0
+Togiak Airport,TOG,2,2,2,2,0.0,1.0
+Geneina Airport,EGN,2,2,2,2,0.0,1.0
+Long Akah Airport,LKH,4,4,4,4,0.0,1.0
+Walaha Airport,WLH,2,2,2,2,0.0,1.0
+Chaoyang Airport,CHG,4,4,4,4,0.0,1.0
+Buffalo Spring,UAS,4,4,4,4,0.0,1.0
+Bonaventure Airport,YVB,7,7,7,7,0.0,1.0
+Sialkot Airport,SKT,18,18,18,18,0.0,1.0
+Capitan Corbeta CA Curbelo International Airport,PDP,4,4,4,4,0.0,1.0
+Walvis Bay Airport,WVB,6,6,6,6,0.0,1.0
+Katima Mulilo Airport,MPA,4,4,4,4,0.0,1.0
+Anadolu Airport,AOE,2,2,2,2,0.0,1.0
+Çanakkale Airport,CKZ,2,2,2,2,0.0,1.0
+Muş Airport,MSR,6,6,6,6,0.0,1.0
+Sinop Airport,NOP,2,2,2,2,0.0,1.0
+Tekirdağ Çorlu Airport,TEQ,2,2,2,2,0.0,1.0
+Vieques Airport,VQS,4,4,4,4,0.0,1.0
+St Augustin Airport,YIF,8,8,8,8,0.0,1.0
+Sleetmute Airport,SLQ,1,1,1,1,0.0,1.0
+Minchumina Airport,LMA,2,2,2,2,0.0,1.0
+Manley Hot Springs Airport,MLY,1,1,1,1,0.0,1.0
+Daocheng Yading Airport,DCY,2,2,2,2,0.0,1.0
+Bijie Feixiong Airport,BFJ,14,14,14,14,0.0,1.0
+Lensk Airport,ULK,4,4,4,4,0.0,1.0
+Iğdır Airport,IGD,4,4,4,4,0.0,1.0
+Şanlıurfa GAP Airport,GNY,8,8,8,8,0.0,1.0
+Zafer Airport,KZR,2,2,2,2,0.0,1.0
+Busselton Regional Airport,BQB,4,4,4,4,0.0,1.0
+Yichun Mingyueshan Airport,YIC,8,8,8,8,0.0,1.0
+Sigiriya Air Force Base,GIU,6,6,6,6,0.0,1.0
+Bingöl Çeltiksuyu Airport,BGG,4,4,4,4,0.0,1.0
+Kastamonu Airport,KFS,2,2,2,2,0.0,1.0
+Gannan Xiahe Airport,GXH,4,4,4,4,0.0,1.0
+Akwa Ibom International Airport,QUO,2,2,2,2,0.0,1.0
+Comiso Airport,CIY,16,16,16,16,0.0,1.0
+Xinyuan Nalati Airport,NLT,2,2,2,2,0.0,1.0
+Ogden Hinckley Airport,OGD,2,2,2,2,0.0,1.0
+Napakiak Airport,WNA,2,2,2,2,0.0,1.0
+Napaskiak Airport,PKA,2,2,2,2,0.0,1.0
+Tingo Maria Airport,TGI,2,2,2,2,0.0,1.0
+Zhangye Ganzhou Airport,YZY,4,4,4,4,0.0,1.0
+Cacoal Airport,OAL,2,2,2,2,0.0,1.0
+Mocopulli Airport,MHC,2,2,2,2,0.0,1.0
+Tazadit Airport,OUZ,6,6,6,6,0.0,1.0
+Jiagedaqi Airport,JGD,6,6,6,6,0.0,1.0
+Sir Bani Yas Airport,XSB,4,4,4,4,0.0,1.0
+Mattala Rajapaksa International Airport,HRI,7,7,7,7,0.0,1.0
+Bodaybo Airport,ODO,2,2,2,2,0.0,1.0
+Lombok International Airport,LOP,20,20,20,20,0.0,1.0
+Handan Airport,HDG,12,12,12,12,0.0,1.0
+Modlin Airport,WMI,52,52,52,52,0.0,1.0
+Jixi Xingkaihu Airport,JXA,8,8,8,8,0.0,1.0
+Beloyarskiy Airport,EYK,8,8,8,8,0.0,1.0
+Uummannaq Heliport,UMD,2,2,2,2,0.0,1.0
+Bayannur Tianjitai Airport,RLK,6,6,6,6,0.0,1.0
+Ust-Tsylma Airport,UTS,2,2,2,2,0.0,1.0
+Gorno-Altaysk Airport,RGK,2,2,2,2,0.0,1.0
+Moma Airport,MQJ,2,2,2,2,0.0,1.0
+Lankaran International Airport,LLK,4,4,4,4,0.0,1.0
+Gabala International Airport,GBB,2,2,2,2,0.0,1.0
+Qianjiang Wulingshan Airport,JIQ,12,12,12,12,0.0,1.0
+Changbaishan Airport,NBS,8,8,8,8,0.0,1.0
+Lublin Airport,LUZ,12,12,12,12,0.0,1.0
+Lingling Airport,LLF,6,6,6,6,0.0,1.0
+Yangzhou Taizhou Airport,YTY,26,26,26,26,0.0,1.0
+Kooddoo Airport,GKK,4,4,4,4,0.0,1.0
+Termas de Río Hondo international Airport,RHD,2,2,2,2,0.0,1.0
+Kangding Airport,KGT,2,2,2,2,0.0,1.0
+Velikiy Ustyug Airport,VUS,2,2,2,2,0.0,1.0
+Asaba International Airport,ABB,4,4,4,4,0.0,1.0
+Kasama Airport,KAA,2,2,2,2,0.0,1.0
+Natuashish Airport,YNP,4,4,4,4,0.0,1.0
+El Bayadh Airport,EBH,2,2,2,2,0.0,1.0
+Iwakuni Marine Corps Air Station,IWK,2,2,2,2,0.0,1.0
+Rajiv Gandhi International Airport,HYD,64,64,64,64,0.0,1.0
+Bulolo Airport,BUL,2,2,2,2,0.0,1.0
+Nogliki Airport,NGK,2,2,2,2,0.0,1.0
+Oyo Ollombo Airport,OLL,2,2,2,2,0.0,1.0
+Palenque International Airport,PQM,2,2,2,2,0.0,1.0
+Eqalugaarsuit Heliport,QFG,1,1,1,1,0.0,1.0
+Sakkyryr Airport,SUK,2,2,2,2,0.0,1.0
+Mendeleyevo Airport,DEE,2,2,2,2,0.0,1.0
+Shakhtyorsk Airport,EKS,2,2,2,2,0.0,1.0
+Gombe Lawanti International Airport,GMO,2,2,2,2,0.0,1.0
+Jiuhuashan Airport,JUH,10,10,10,10,0.0,1.0
+Mansa Airport,MNS,2,2,2,2,0.0,1.0
+Libo Airport,LLB,2,2,2,2,0.0,1.0
+Rar Gwamar Airport,DOB,2,2,2,2,0.0,1.0
+Kasese Airport,KSE,2,2,2,2,0.0,1.0
+Istanbul Airport,IST,455,455,455,455,0.0,1.0
+Lutselk'e Airport,YSG,2,2,2,2,0.0,1.0
+La Araucanía Airport,ZCO,4,4,4,4,0.0,1.0
+New Islamabad International Airport,ISB,74,74,74,74,0.0,1.0
+Songwe Airport,MBI,2,2,2,2,0.0,1.0
+Laguindingan Airport,CGY,10,10,10,10,0.0,1.0
+King Salman Abdulaziz Airport,DWD,4,4,4,4,0.0,1.0
+Alashankou Bole (Bortala) airport,BPL,2,2,2,2,0.0,1.0
+Jinchuan Airport,JIC,8,8,8,8,0.0,1.0
+Tarko-Sale Airport,TQL,2,2,2,2,0.0,1.0
+Anshan Air Base,AOG,4,4,4,4,0.0,1.0
+Saertu Airport,DQA,4,4,4,4,0.0,1.0
+Zunyi Xinzhou Airport,ZYI,26,26,26,26,0.0,1.0
+Lindu Airport,LDS,4,4,4,4,0.0,1.0
+Anshun Huangguoshu Airport,AVA,6,6,6,6,0.0,1.0
+Betoambari Airport,BUW,2,2,2,2,0.0,1.0
+Kao Airport,KAZ,2,2,2,2,0.0,1.0
+Melangguane Airport,MNA,2,2,2,2,0.0,1.0
+Oksibil Airport,OKL,2,2,2,2,0.0,1.0
+Richmond Airport,RCM,2,2,2,2,0.0,1.0
+RAAF Base Curtin,DCN,2,2,2,2,0.0,1.0
+Erenhot Saiwusu International Airport,ERL,4,4,4,4,0.0,1.0
+Jumandy Airport,TNW,2,2,2,2,0.0,1.0
+Zhangjiakou Ningyuan Airport,ZQZ,2,2,2,2,0.0,1.0
+Arxan Yi'ershi Airport,YIE,2,2,2,2,0.0,1.0
+Hamad International Airport,DOH,234,234,234,234,0.0,1.0
+Beni Airport,BNC,4,4,4,4,0.0,1.0
+Boende Airport,BNB,2,2,2,2,0.0,1.0
+Dharavandhoo Airport,DRV,4,4,4,4,0.0,1.0
+Saumlaki/Olilit Airport,SXK,2,2,2,2,0.0,1.0
+Kongolo Airport,KOO,2,2,2,2,0.0,1.0
+Majeed Bin Abdulaziz Airport,ULH,4,4,4,4,0.0,1.0
+Keewaywin Airport,KEW,2,2,2,2,0.0,1.0
+Podkamennaya Tunguska Airport,TGP,2,2,2,2,0.0,1.0
+Ulgii Mongolei Airport,ULG,2,2,2,2,0.0,1.0
+Coari Airport,CIZ,2,2,2,2,0.0,1.0
+Barcelos Airport,BAZ,2,2,2,2,0.0,1.0
+Guanambi Airport,GNM,2,2,2,2,0.0,1.0
+Wilwal International Airport,JIJ,6,6,6,6,0.0,1.0
+Mara Serena Lodge Airstrip,MRE,3,3,3,3,0.0,1.0
+Enfidha - Hammamet International Airport,NBE,50,50,50,50,0.0,1.0
+Hatay Airport,HTY,16,16,16,16,0.0,1.0
+Raivavae Airport,RVV,4,4,4,4,0.0,1.0
+Foshan Shadi Airport,FUO,2,2,2,2,0.0,1.0
+Lleida-Alguaire Airport,ILD,2,2,2,2,0.0,1.0
+Qurghonteppa International Airport,KQT,9,9,9,9,0.0,1.0
+Turukhansk Airport,THX,2,2,2,2,0.0,1.0
+Al Najaf International Airport,NJF,17,17,17,17,0.0,1.0
+Fuyang Xiguan Airport,FUG,18,18,18,18,0.0,1.0
+Longyan Guanzhishan Airport,LCX,2,2,2,2,0.0,1.0
+Baoshan Yunduan Airport,BSD,2,2,2,2,0.0,1.0
+Xingyi Airport,ACX,10,10,10,10,0.0,1.0
+Liping Airport,HZH,4,4,4,4,0.0,1.0
+Zhijiang Airport,HJJ,4,4,4,4,0.0,1.0
+Lintsang Airfield,LNJ,2,2,2,2,0.0,1.0
+Carajás Airport,CKS,7,7,7,7,0.0,1.0
+Persian Gulf International Airport,PGU,10,10,10,10,0.0,1.0
+Romeu Zema Airport,AAX,2,2,2,2,0.0,1.0
+General Leite de Castro Airport,RVD,2,2,2,2,0.0,1.0
+Santa Terezinha Airport,JCB,6,6,6,6,0.0,1.0
+Tancredo Thomas de Faria Airport,GPB,2,2,2,2,0.0,1.0
+Postville Airport,YSO,6,6,6,6,0.0,1.0
+Kangiqsujuaq (Wakeham Bay) Airport,YWB,4,4,4,4,0.0,1.0
+Havre St Pierre Airport,YGV,4,4,4,4,0.0,1.0
+Rainbow Lake Airport,YOP,4,4,4,4,0.0,1.0
+Wekweètì Airport,YFJ,2,2,2,2,0.0,1.0
+Uyuni Airport,UYU,2,2,2,2,0.0,1.0
+Rurenabaque Airport,RBQ,4,4,4,4,0.0,1.0
+Los Colonizadores Airport,RVE,4,4,4,4,0.0,1.0
+Villa Garzón Airport,VGZ,2,2,2,2,0.0,1.0
+Cabo Frio Airport,CFB,6,6,6,6,0.0,1.0
+Presidente João Batista Figueiredo Airport,OPS,4,4,4,4,0.0,1.0
+Gurupi Airport,GRP,2,2,2,2,0.0,1.0
+Santana do Araguaia Airport,CMP,1,1,1,1,0.0,1.0
+Breves Airport,BVS,1,1,1,1,0.0,1.0
+Parintins Airport,PIN,2,2,2,2,0.0,1.0
+Barreiras Airport,BRA,4,4,4,4,0.0,1.0
+Santa Terezinha Airport,STZ,1,1,1,1,0.0,1.0
+Minaçu Airport,MQH,2,2,2,2,0.0,1.0
+Araguaína Airport,AUX,6,6,6,6,0.0,1.0
+Dourados Airport,DOU,6,6,6,6,0.0,1.0
+Maestro Marinho Franco Airport,ROO,2,2,2,2,0.0,1.0
+Yasouj Airport,YES,2,2,2,2,0.0,1.0
+Mosul International Airport,OSM,4,4,4,4,0.0,1.0
+Donoi Airport,ULZ,2,2,2,2,0.0,1.0
+Nightmute Airport,NME,2,2,2,2,0.0,1.0
+Ittoqqortoormiit Heliport,OBY,2,2,2,2,0.0,1.0
+Vinnytsia/Gavyryshivka Airport,VIN,2,2,2,2,0.0,1.0
+La Romaine Airport,ZGS,10,10,10,10,0.0,1.0
+Kegaska Airport,ZKG,4,4,4,4,0.0,1.0
+Trail Airport,YZZ,2,2,2,2,0.0,1.0
+Old Arctic Bay Airport,YAB,4,4,4,4,0.0,1.0
+Sohag International Airport,HMB,10,10,10,10,0.0,1.0
+Patos de Minas Airport,POJ,3,3,3,3,0.0,1.0
+Bauru - Arealva Airport,JTC,6,6,6,6,0.0,1.0
+Ourilândia do Norte Airport,OIA,3,3,3,3,0.0,1.0
+Redenção Airport,RDC,2,2,2,2,0.0,1.0
+São Félix do Xingu Airport,SXX,1,1,1,1,0.0,1.0
+Bonito Airport,BYO,2,2,2,2,0.0,1.0
+São Félix do Araguaia Airport,SXO,2,2,2,2,0.0,1.0
+Caçador Airport,CFC,4,4,4,4,0.0,1.0
+Eirunepé Airport,ERN,2,2,2,2,0.0,1.0
+Senadora Eunice Micheles Airport,OLC,2,2,2,2,0.0,1.0
+Tapuruquara Airport,IRZ,2,2,2,2,0.0,1.0
+Oriximiná Airport,ORX,3,3,3,3,0.0,1.0
+Gazipaşa Airport,GZP,12,12,12,12,0.0,1.0
+Hilton Head Airport,HHH,4,4,4,4,0.0,1.0
+Toksook Bay Airport,OOK,3,3,3,3,0.0,1.0
+Zona da Mata Regional Airport,IZA,4,4,4,4,0.0,1.0
+Ulaangom Airport,ULO,2,2,2,2,0.0,1.0
+Baise Youjiang Airport,AEB,6,6,6,6,0.0,1.0
+Kulob Airport,TJU,7,7,7,7,0.0,1.0
+Ravensthorpe Airport,RVT,3,3,3,3,0.0,1.0
+Provo Municipal Airport,PVU,6,6,6,6,0.0,1.0
+Los Alamos Airport,LAM,2,2,2,2,0.0,1.0
+Ulawa Airport,RNA,4,4,4,4,0.0,1.0
+Choiseul Bay Airport,CHY,3,3,3,3,0.0,1.0
+Santa Ana Airport,NNB,4,4,4,4,0.0,1.0
+Rundu Airport,NDU,4,4,4,4,0.0,1.0
+Morristown Municipal Airport,MMU,4,4,4,4,0.0,1.0
+Northwest Florida Beaches International Airport,ECP,10,10,10,10,0.0,1.0
+Mysore Airport,MYQ,2,2,2,2,0.0,1.0
+Zonguldak Airport,ONQ,4,4,4,4,0.0,1.0
+Tengchong Tuofeng Airport,TCZ,8,8,8,8,0.0,1.0
+Belbek Airport,UKS,4,4,4,4,0.0,1.0
+Yushu Batang Airport,YUS,2,2,2,2,0.0,1.0
+Lianshui Airport,HIA,24,24,24,24,0.0,1.0
+Ngari Gunsa Airport,NGQ,4,4,4,4,0.0,1.0
+Puerto Obaldia Airport,PUE,2,2,2,2,0.0,1.0
+Ukunda Airstrip,UKA,2,2,2,2,0.0,1.0
+Zhongwei Shapotou Airport,ZHY,4,4,4,4,0.0,1.0
+Al Maktoum International Airport,DWC,77,77,77,77,0.0,1.0
+Jiayuguan Airport,JGN,6,6,6,6,0.0,1.0
+Shanhaiguan Airport,SHP,8,8,8,8,0.0,1.0
+Wokal Field Glasgow International Airport,GGW,2,2,2,2,0.0,1.0
+Nagoya Airport,NKM,12,12,12,12,0.0,1.0
+Holy Cross Airport,HCR,4,4,4,4,0.0,1.0
+Haines Airport,HNS,4,4,4,4,0.0,1.0
+Kalskag Airport,KLG,6,6,6,6,0.0,1.0
+McGrath Airport,MCG,7,7,7,7,0.0,1.0
+Mountain Village Airport,MOU,2,2,2,2,0.0,1.0
+Aniak Airport,ANI,14,14,14,14,0.0,1.0
+Chevak Airport,VAK,4,4,4,4,0.0,1.0
+Wrangell Airport,WRG,4,4,4,4,0.0,1.0
+Kushiro Airport,KUH,6,6,6,6,0.0,1.0
+Saga Airport,HSG,5,5,5,5,0.0,1.0
+Iwami Airport,IWJ,2,2,2,2,0.0,1.0
+Naga Airport,WNP,2,2,2,2,0.0,1.0
+Fukushima Airport,FKS,4,4,4,4,0.0,1.0
+Odate Noshiro Airport,ONJ,2,2,2,2,0.0,1.0
+Shonai Airport,SYO,2,2,2,2,0.0,1.0
+Kunsan Air Base,KUV,2,2,2,2,0.0,1.0
+Wonju/Hoengseong Air Base (K-38/K-46),WJU,2,2,2,2,0.0,1.0
+Yangyang International Airport,YNY,2,2,2,2,0.0,1.0
+Sacheon Air Base/Airport,HIN,4,4,4,4,0.0,1.0
+Cheongju International Airport/Cheongju Air Base (K-59/G-513),CJJ,8,8,8,8,0.0,1.0
+Camiguin Airport,CGM,2,2,2,2,0.0,1.0
+Jolo Airport,JOL,2,2,2,2,0.0,1.0
+Skagway Airport,SGY,4,4,4,4,0.0,1.0
+Gustavus Airport,GST,4,4,4,4,0.0,1.0
+Adak Airport,ADK,2,2,2,2,0.0,1.0
+Sayun International Airport,GXF,8,8,8,8,0.0,1.0
+Île des Pins Airport,ILP,2,2,2,2,0.0,1.0
+Al-Jawf Domestic Airport,AJF,4,4,4,4,0.0,1.0
+Wadi Al Dawasir Airport,WAE,4,4,4,4,0.0,1.0
+Khoram Abad Airport,KHD,2,2,2,2,0.0,1.0
+Bam Airport,BXR,2,2,2,2,0.0,1.0
+Bojnord Airport,BJB,2,2,2,2,0.0,1.0
+Sabzevar National Airport,AFZ,2,2,2,2,0.0,1.0
+Noshahr Airport,NSH,4,4,4,4,0.0,1.0
+Dasht-e Naz Airport,SRY,8,8,8,8,0.0,1.0
+Lar Airport,LRR,12,12,12,12,0.0,1.0
+Ardabil Airport,ADU,4,4,4,4,0.0,1.0
+Urmia Airport,OMH,4,4,4,4,0.0,1.0
+Al Ain International Airport,AAN,4,4,4,4,0.0,1.0
+Bahawalpur Airport,BHV,7,7,7,7,0.0,1.0
+Chitral Airport,CJL,4,4,4,4,0.0,1.0
+Dalbandin Airport,DBA,2,2,2,2,0.0,1.0
+Dera Ghazi Khan Airport,DEA,5,5,5,5,0.0,1.0
+Dera Ismael Khan Airport,DSK,4,4,4,4,0.0,1.0
+Skardu Airport,KDU,2,2,2,2,0.0,1.0
+Turbat International Airport,TUK,11,11,11,11,0.0,1.0
+Sulaymaniyah International Airport,ISU,16,16,16,16,0.0,1.0
+Surigao Airport,SUG,4,4,4,4,0.0,1.0
+Basco Airport,BSO,2,2,2,2,0.0,1.0
+Tiga Airport,TGJ,4,4,4,4,0.0,1.0
+Chulman Airport,NER,8,8,8,8,0.0,1.0
+Ji-Paraná Airport,JPR,2,2,2,2,0.0,1.0
+Vance W. Amory International Airport,NEV,11,11,11,11,0.0,1.0
+Virgin Gorda Airport,VIJ,4,4,4,4,0.0,1.0
+Kokshetau Airport,KOV,4,4,4,4,0.0,1.0
+Petropavlosk South Airport,PPK,4,4,4,4,0.0,1.0
+Zhezkazgan Airport,DZN,4,4,4,4,0.0,1.0
+Ust-Kamennogorsk Airport,UKK,10,10,10,10,0.0,1.0
+Kostanay West Airport,KSN,6,6,6,6,0.0,1.0
+Ganja Airport,KVD,9,9,9,9,0.0,1.0
+Nakhchivan Airport,NAJ,2,2,2,2,0.0,1.0
+Polyarny Airport,PYJ,8,8,8,8,0.0,1.0
+Tuguegarao Airport,TUG,2,2,2,2,0.0,1.0
+Chokurdakh Airport,CKH,2,2,2,2,0.0,1.0
+Cherskiy Airport,CYX,2,2,2,2,0.0,1.0
+Tiksi Airport,IKS,2,2,2,2,0.0,1.0
+Ugolny Airport,DYR,4,4,4,4,0.0,1.0
+Zaporizhzhia International Airport,OZH,4,4,4,4,0.0,1.0
+Kharkiv International Airport,HRK,17,17,17,17,0.0,1.0
+Ivano-Frankivsk International Airport,IFO,2,2,2,2,0.0,1.0
+Uzhhorod International Airport,UDJ,2,2,2,2,0.0,1.0
+Solovki Airport,CSH,2,2,2,2,0.0,1.0
+Cherepovets Airport,CEE,14,14,14,14,0.0,1.0
+Juan Pablo Pérez Alfonso Airport,VIG,4,4,4,4,0.0,1.0
+Santa Rosa Airport,SRA,2,2,2,2,0.0,1.0
+Alferez Fap David Figueroa Fernandini Airport,HUU,2,2,2,2,0.0,1.0
+Mayor General FAP Armando Revoredo Iglesias Airport,CJA,2,2,2,2,0.0,1.0
+Virac Airport,VRC,2,2,2,2,0.0,1.0
+Calbayog Airport,CYP,2,2,2,2,0.0,1.0
+Catarman National Airport,CRM,2,2,2,2,0.0,1.0
+Moises R. Espinosa Airport,MBT,2,2,2,2,0.0,1.0
+Roxas Airport,RXS,2,2,2,2,0.0,1.0
+Orlando Bezerra de Menezes Airport,JDO,10,10,10,10,0.0,1.0
+Coronel Horácio de Mattos Airport,LEC,2,2,2,2,0.0,1.0
+Macaé Airport,MEA,6,6,6,6,0.0,1.0
+Frank Miloye Milenkowichi–Marília State Airport,MII,4,4,4,4,0.0,1.0
+Vitória da Conquista Airport,VDC,8,8,8,8,0.0,1.0
+Santa Maria Airport,RIA,6,6,6,6,0.0,1.0
+San Cristóbal Airport,SCY,2,2,2,2,0.0,1.0
+Camilo Ponce Enriquez Airport,LOH,4,4,4,4,0.0,1.0
+General Rivadeneira Airport,ESM,6,6,6,6,0.0,1.0
+Caucaya Airport,LQM,2,2,2,2,0.0,1.0
+La Pedrera Airport,LPD,2,2,2,2,0.0,1.0
+Reyes Murillo Airport,NQU,2,2,2,2,0.0,1.0
+Obando Airport,PDA,4,4,4,4,0.0,1.0
+El Yopal Airport,EYP,2,2,2,2,0.0,1.0
+Capitán de Av. Emilio Beltrán Airport,GYA,2,2,2,2,0.0,1.0
+Capitán Av. Selin Zeitun Lopez Airport,RIB,2,2,2,2,0.0,1.0
+Île Art - Waala Airport,BMY,3,3,3,3,0.0,1.0
+Ipota Airport,IPA,6,6,6,6,0.0,1.0
+Anqing Tianzhushan Airport,AQG,14,14,14,14,0.0,1.0
+Logroño-Agoncillo Airport,RJL,2,2,2,2,0.0,1.0
+Adirondack Regional Airport,SLK,2,2,2,2,0.0,1.0
+Salina Municipal Airport,SLN,2,2,2,2,0.0,1.0
+Santa Maria Pub/Capt G Allan Hancock Field,SMX,4,4,4,4,0.0,1.0
+Tupelo Regional Airport,TUP,4,4,4,4,0.0,1.0
+Quincy Regional Baldwin Field,UIN,2,2,2,2,0.0,1.0
+Victoria Regional Airport,VCT,2,2,2,2,0.0,1.0
+Valdosta Regional Airport,VLD,2,2,2,2,0.0,1.0
+Worland Municipal Airport,WRL,2,2,2,2,0.0,1.0
+Yakima Air Terminal McAllister Field,YKM,2,2,2,2,0.0,1.0
+Ercan International Airport,ECN,16,16,16,16,0.0,1.0
+Syros Airport,JSY,2,2,2,2,0.0,1.0
+La Isabela International Airport,JBQ,4,4,4,4,0.0,1.0
+Corvo Airport,CVU,4,4,4,4,0.0,1.0
+Banja Luka International Airport,BNX,6,6,6,6,0.0,1.0
+Kars Airport,KSY,6,6,6,6,0.0,1.0
+Kahramanmaraş Airport,KCM,6,6,6,6,0.0,1.0
+Ağrı Airport,AJI,4,4,4,4,0.0,1.0
+Adıyaman Airport,ADF,4,4,4,4,0.0,1.0
+Süleyman Demirel International Airport,ISE,2,2,2,2,0.0,1.0
+Balıkesir Körfez Airport,EDO,2,2,2,2,0.0,1.0
+JAGS McCartney International Airport,GDT,6,6,6,6,0.0,1.0
+Salt Cay Airport,SLX,2,2,2,2,0.0,1.0
+Sheridan County Airport,SHR,2,2,2,2,0.0,1.0
+San Luis County Regional Airport,SBP,6,6,6,6,0.0,1.0
+Rutland - Southern Vermont Regional Airport,RUT,2,2,2,2,0.0,1.0
+Southwest Wyoming Regional Airport,RKS,6,6,6,6,0.0,1.0
+Central Nebraska Regional Airport,GRI,6,6,6,6,0.0,1.0
+Memorial Field,HOT,4,4,4,4,0.0,1.0
+Tri-State/Milton J. Ferguson Field,HTS,8,8,8,8,0.0,1.0
+Kirksville Regional Airport,IRK,2,2,2,2,0.0,1.0
+Laramie Regional Airport,LAR,2,2,2,2,0.0,1.0
+Arnold Palmer Regional Airport,LBE,6,6,6,6,0.0,1.0
+North Platte Regional Airport Lee Bird Field,LBF,2,2,2,2,0.0,1.0
+Lebanon Municipal Airport,LEB,4,4,4,4,0.0,1.0
+Crater Lake-Klamath Regional Airport,LMT,4,4,4,4,0.0,1.0
+Lancaster Airport,LNS,2,2,2,2,0.0,1.0
+Lynchburg Regional Preston Glenn Field,LYH,2,2,2,2,0.0,1.0
+Muskegon County Airport,MKG,2,2,2,2,0.0,1.0
+Northwest Alabama Regional Airport,MSL,2,2,2,2,0.0,1.0
+Southwest Oregon Regional Airport,OTH,4,4,4,4,0.0,1.0
+Owensboro Daviess County Airport,OWB,4,4,4,4,0.0,1.0
+Hattiesburg Laurel Regional Airport,PIB,2,2,2,2,0.0,1.0
+Pocatello Regional Airport,PIH,2,2,2,2,0.0,1.0
+Pierre Regional Airport,PIR,6,6,6,6,0.0,1.0
+Pellston Regional Airport of Emmet County Airport,PLN,2,2,2,2,0.0,1.0
+Portsmouth International at Pease Airport,PSM,2,2,2,2,0.0,1.0
+Rhinelander Oneida County Airport,RHI,4,4,4,4,0.0,1.0
+Samaná El Catey International Airport,AZS,9,9,9,9,0.0,1.0
+Puerto Lempira Airport,PEU,4,4,4,4,0.0,1.0
+Futuna Airport,FTA,4,4,4,4,0.0,1.0
+Maewo-Naone Airport,MWF,2,2,2,2,0.0,1.0
+Mota Lava Airport,MTV,6,6,6,6,0.0,1.0
+Sola Airport,SLH,6,6,6,6,0.0,1.0
+Torres Airstrip,TOH,6,6,6,6,0.0,1.0
+Siwo Airport,EAE,2,2,2,2,0.0,1.0
+Craig Cove Airport,CCV,7,7,7,7,0.0,1.0
+Longana Airport,LOD,4,4,4,4,0.0,1.0
+Sara Airport,SSR,2,2,2,2,0.0,1.0
+Tavie Airport,PBJ,4,4,4,4,0.0,1.0
+Lamap Airport,LPM,4,4,4,4,0.0,1.0
+Lamen Bay Airport,LNB,4,4,4,4,0.0,1.0
+Lonorore Airport,LNE,6,6,6,6,0.0,1.0
+El Lencero Airport,JAL,2,2,2,2,0.0,1.0
+Norsup Airport,NUS,10,10,10,10,0.0,1.0
+Gaua Island Airport,ZGU,6,6,6,6,0.0,1.0
+Santo Pekoa International Airport,SON,20,20,20,20,0.0,1.0
+Tongoa Airport,TGH,2,2,2,2,0.0,1.0
+Uléi Airport,ULB,5,5,5,5,0.0,1.0
+Valesdir Airport,VLS,2,2,2,2,0.0,1.0
+Southwest Bay Airport,SWJ,4,4,4,4,0.0,1.0
+Aneityum Airport,AUY,2,2,2,2,0.0,1.0
+Aniwa Airport,AWD,4,4,4,4,0.0,1.0
+Dillon's Bay Airport,DLY,4,4,4,4,0.0,1.0
+Ua Huka Airport,UAH,6,6,6,6,0.0,1.0
+Ua Pou Airport,UAP,6,6,6,6,0.0,1.0
+Hiva Oa-Atuona Airport,AUQ,8,8,8,8,0.0,1.0
+Ahe Airport,AHE,5,5,5,5,0.0,1.0
+Jaqué Airport,JQE,1,1,1,1,0.0,1.0
+Aerotortuguero Airport,TTQ,2,2,2,2,0.0,1.0
+Puerto Jimenez Airport,PJM,4,4,4,4,0.0,1.0
+Tobias Bolanos International Airport,SYQ,2,2,2,2,0.0,1.0
+Arthur's Town Airport,ATC,4,4,4,4,0.0,1.0
+New Bight Airport,TBI,4,4,4,4,0.0,1.0
+Colonel Hill Airport,CRI,4,4,4,4,0.0,1.0
+Enua Airport,AIU,3,3,3,3,0.0,1.0
+Mangaia Island Airport,MGS,2,2,2,2,0.0,1.0
+Mauke Airport,MUK,2,2,2,2,0.0,1.0
+Mitiaro Island Airport,MOI,2,2,2,2,0.0,1.0
+Cicia Airport,ICI,2,2,2,2,0.0,1.0
+Vunisea Airport,KDV,4,4,4,4,0.0,1.0
+Lakeba Island Airport,LKB,2,2,2,2,0.0,1.0
+Labasa Airport,LBS,4,4,4,4,0.0,1.0
+Matei Airport,TVU,6,6,6,6,0.0,1.0
+Rotuma Airport,RTA,2,2,2,2,0.0,1.0
+Savusavu Airport,SVU,6,6,6,6,0.0,1.0
+Vanua Balavu Airport,VBV,2,2,2,2,0.0,1.0
+Niue International Airport,IUE,1,1,1,1,0.0,1.0
+Pointe Vele Airport,FUT,2,2,2,2,0.0,1.0
+Petrozavodsk Airport,PES,2,2,2,2,0.0,1.0
+Kyzyl Airport,KYZ,2,2,2,2,0.0,1.0
+Spichenkovo Airport,NOZ,4,4,4,4,0.0,1.0
+Tongliao Airport,TGO,16,16,16,16,0.0,1.0
+Whyalla Airport,WYA,2,2,2,2,0.0,1.0
+Winton Airport,WIN,4,4,4,4,0.0,1.0
+Wynyard Airport,BWT,6,6,6,6,0.0,1.0
+Beijing Nanyuan Airport,NAY,80,80,80,80,0.0,1.0
+Chifeng Airport,CIF,20,20,20,20,0.0,1.0
+Changzhi Airport,CIH,22,22,22,22,0.0,1.0
+Datong Airport,DAT,14,14,14,14,0.0,1.0
+Baita International Airport,HET,72,72,72,72,0.0,1.0
+Baotou Airport,BAV,34,34,34,34,0.0,1.0
+Shijiazhuang Daguocun International Airport,SJW,66,66,66,66,0.0,1.0
+Ulanhot Airport,HLH,8,8,8,8,0.0,1.0
+Yichang Sanxia Airport,YIH,28,28,28,28,0.0,1.0
+Xilinhot Airport,XIL,6,6,6,6,0.0,1.0
+Beihai Airport,BHY,30,30,30,30,0.0,1.0
+Changde Airport,CGD,16,16,16,16,0.0,1.0
+Dayong Airport,DYG,24,24,24,24,0.0,1.0
+Meixian Airport,MXZ,10,10,10,10,0.0,1.0
+Zhuhai Jinwan Airport,ZUH,60,60,60,60,0.0,1.0
+Liuzhou Bailian Airport,LZH,26,26,26,26,0.0,1.0
+Zhanjiang Airport,ZHA,26,26,26,26,0.0,1.0
+Enshi Airport,ENH,2,2,2,2,0.0,1.0
+Nanyang Jiangying Airport,NNY,14,14,14,14,0.0,1.0
+Windorah Airport,WNR,4,4,4,4,0.0,1.0
+Thargomindah Airport,XTG,2,2,2,2,0.0,1.0
+St George Airport,SGO,4,4,4,4,0.0,1.0
+Roma Airport,RMA,4,4,4,4,0.0,1.0
+McArthur River Mine Airport,MCV,2,2,2,2,0.0,1.0
+Mildura Airport,MQL,8,8,8,8,0.0,1.0
+Moree Airport,MRZ,2,2,2,2,0.0,1.0
+Moranbah Airport,MOV,4,4,4,4,0.0,1.0
+Moruya Airport,MYA,4,4,4,4,0.0,1.0
+Mount Gambier Airport,MGB,4,4,4,4,0.0,1.0
+Mornington Island Airport,ONG,6,6,6,6,0.0,1.0
+Narrandera Airport,NRA,4,4,4,4,0.0,1.0
+Normanton Airport,NTN,4,4,4,4,0.0,1.0
+Newman Airport,ZNE,2,2,2,2,0.0,1.0
+Olympic Dam Airport,OLP,2,2,2,2,0.0,1.0
+Port Augusta Airport,PUG,2,2,2,2,0.0,1.0
+Paraburdoo Airport,PBO,2,2,2,2,0.0,1.0
+Cocos (Keeling) Islands Airport,CCK,2,2,2,2,0.0,1.0
+Gove Airport,GOV,6,6,6,6,0.0,1.0
+Parkes Airport,PKE,4,4,4,4,0.0,1.0
+Port Lincoln Airport,PLO,2,2,2,2,0.0,1.0
+Pormpuraaw Airport,EDR,4,4,4,4,0.0,1.0
+Port Macquarie Airport,PQQ,6,6,6,6,0.0,1.0
+Portland Airport,PTJ,1,1,1,1,0.0,1.0
+Quilpie Airport,ULP,4,4,4,4,0.0,1.0
+Xiangyang Liuji Airport,XFN,18,18,18,18,0.0,1.0
+Golmud Airport,GOQ,4,4,4,4,0.0,1.0
+Igarka Airport,IAA,2,2,2,2,0.0,1.0
+Wanxian Airport,WXN,16,16,16,16,0.0,1.0
+Yancheng Airport,YNZ,23,23,23,23,0.0,1.0
+Yiwu Airport,YIW,28,28,28,28,0.0,1.0
+Zhoushan Airport,HSN,14,14,14,14,0.0,1.0
+Qamdo Bangda Airport,BPX,4,4,4,4,0.0,1.0
+Dachuan Airport,DAX,10,10,10,10,0.0,1.0
+Guangyuan Airport,GYS,8,8,8,8,0.0,1.0
+Luzhou Airport,LZO,22,22,22,22,0.0,1.0
+Mianyang Airport,MIG,31,31,31,31,0.0,1.0
+Nanchong Airport,NAO,12,12,12,12,0.0,1.0
+Nyingchi Airport,LZY,4,4,4,4,0.0,1.0
+Aksu Airport,AKU,4,4,4,4,0.0,1.0
+Qingyang Airport,IQN,6,6,6,6,0.0,1.0
+Kuqa Airport,KCA,2,2,2,2,0.0,1.0
+Korla Airport,KRL,10,10,10,10,0.0,1.0
+Karamay Airport,KRY,2,2,2,2,0.0,1.0
+Yining Airport,YIN,4,4,4,4,0.0,1.0
+Heihe Airport,HEK,4,4,4,4,0.0,1.0
+Jiamusi Airport,JMU,14,14,14,14,0.0,1.0
+Jinzhou Airport,JNZ,6,6,6,6,0.0,1.0
+Qiqihar Sanjiazi Airport,NDG,8,8,8,8,0.0,1.0
+Yanji Chaoyangchuan Airport,YNJ,12,12,12,12,0.0,1.0
+Worcester Regional Airport,ORH,4,4,4,4,0.0,1.0
+Wenzhou Longwan International Airport,WNZ,66,66,66,66,0.0,1.0
+Nanping Wuyishan Airport,WUS,18,18,18,18,0.0,1.0
+Sunan Shuofang International Airport,WUX,38,38,38,38,0.0,1.0
+Weifang Airport,WEF,14,14,14,14,0.0,1.0
+Xining Caojiabu Airport,XNN,36,36,36,36,0.0,1.0
+Yan'an Ershilipu Airport,ENY,8,8,8,8,0.0,1.0
+Yulin Yuyang Airport,UYN,14,14,14,14,0.0,1.0
+Altai Airport,LTI,2,2,2,2,0.0,1.0
+Bayankhongor Airport,BYN,4,4,4,4,0.0,1.0
+Dalanzadgad Airport,DLZ,1,1,1,1,0.0,1.0
+Khovd Airport,HVD,2,2,2,2,0.0,1.0
+Mörön Airport,MXV,2,2,2,2,0.0,1.0
+Diqing Airport,DIG,10,10,10,10,0.0,1.0
+Mangshi Airport,LUM,8,8,8,8,0.0,1.0
+Pu'er Simao Airport,SYM,2,2,2,2,0.0,1.0
+Zhaotong Airport,ZAT,4,4,4,4,0.0,1.0
+Ganzhou Airport,KOW,20,20,20,20,0.0,1.0
+Jingdezhen Airport,JDZ,16,16,16,16,0.0,1.0
+Jiujiang Lushan Airport,JIU,8,8,8,8,0.0,1.0
+Quzhou Airport,JUZ,6,6,6,6,0.0,1.0
+Lianyungang Airport,LYG,26,26,26,26,0.0,1.0
+Huangyan Luqiao Airport,HYN,14,14,14,14,0.0,1.0
+Shubuling Airport,LYI,28,28,28,28,0.0,1.0
+Quanzhou Jinjiang International Airport,JJN,36,36,36,36,0.0,1.0
+Tunxi International Airport,TXN,36,36,36,36,0.0,1.0
+Maningrida Airport,MNG,6,6,6,6,0.0,1.0
+Milingimbi Airport,MGT,2,2,2,2,0.0,1.0
+Merimbula Airport,MIM,6,6,6,6,0.0,1.0
+Ban Huoeisay Airport,HOE,2,2,2,2,0.0,1.0
+Cheboksary Airport,CSY,4,4,4,4,0.0,1.0
+Orsk Airport,OSW,2,2,2,2,0.0,1.0
+Penza Airport,PEZ,2,2,2,2,0.0,1.0
+Saransk Airport,SKX,4,4,4,4,0.0,1.0
+Hubli Airport,HBX,4,4,4,4,0.0,1.0
+Koggala Airport,KCT,2,2,2,2,0.0,1.0
+Shillong Airport,SHL,2,2,2,2,0.0,1.0
+Lokpriya Gopinath Bordoloi International Airport,GAU,24,24,24,24,0.0,1.0
+Dimapur Airport,DMU,4,4,4,4,0.0,1.0
+Barisal Airport,BZL,2,2,2,2,0.0,1.0
+Bharatpur Airport,BHR,2,2,2,2,0.0,1.0
+Longreach Airport,LRE,6,6,6,6,0.0,1.0
+Bhadrapur Airport,BDP,2,2,2,2,0.0,1.0
+Nepalgunj Airport,KEP,2,2,2,2,0.0,1.0
+Gan International Airport,GAN,6,6,6,6,0.0,1.0
+Hanimaadhoo Airport,HAQ,4,4,4,4,0.0,1.0
+Kadhdhoo Airport,KDO,4,4,4,4,0.0,1.0
+Mae Sot Airport,MAQ,2,2,2,2,0.0,1.0
+Buon Ma Thuot Airport,BMV,8,8,8,8,0.0,1.0
+Cat Bi International Airport,HPH,4,4,4,4,0.0,1.0
+Cam Ranh Airport,CXR,8,8,8,8,0.0,1.0
+Co Ong Airport,VCS,4,4,4,4,0.0,1.0
+Bugulma Airport,UUA,6,6,6,6,0.0,1.0
+Vorkuta Airport,VKT,4,4,4,4,0.0,1.0
+Kursk East Airport,URS,2,2,2,2,0.0,1.0
+Belgorod International Airport,EGO,18,18,18,18,0.0,1.0
+Beslan Airport,OGZ,2,2,2,2,0.0,1.0
+Elista Airport,ESL,2,2,2,2,0.0,1.0
+Mid Delta Regional Airport,GLH,2,2,2,2,0.0,1.0
+Tri Cities Airport,PSC,16,16,16,16,0.0,1.0
+Akutan Seaplane Base,KQA,2,2,2,2,0.0,1.0
+Salekhard Airport,SLY,16,16,16,16,0.0,1.0
+Khanty Mansiysk Airport,HMA,16,16,16,16,0.0,1.0
+Nyagan Airport,NYA,6,6,6,6,0.0,1.0
+Sovetskiy Airport,OVS,10,10,10,10,0.0,1.0
+Izhevsk Airport,IJK,6,6,6,6,0.0,1.0
+Pobedilovo Airport,KVX,6,6,6,6,0.0,1.0
+Nadym Airport,NYM,14,14,14,14,0.0,1.0
+Kurgan Airport,KRO,4,4,4,4,0.0,1.0
+Khudzhand Airport,LBD,38,38,38,38,0.0,1.0
+Andizhan Airport,AZN,6,6,6,6,0.0,1.0
+Fergana International Airport,FEG,12,12,12,12,0.0,1.0
+Namangan Airport,NMA,18,18,18,18,0.0,1.0
+Nukus Airport,NCU,6,6,6,6,0.0,1.0
+Urgench Airport,UGC,11,11,11,11,0.0,1.0
+Karshi Khanabad Airport,KSQ,6,6,6,6,0.0,1.0
+Termez Airport,TMJ,4,4,4,4,0.0,1.0
+Can Tho International Airport,VCA,6,6,6,6,0.0,1.0
+Dien Bien Phu Airport,DIN,2,2,2,2,0.0,1.0
+Phu Cat Airport,UIH,4,4,4,4,0.0,1.0
+Boulia Airport,BQL,4,4,4,4,0.0,1.0
+Coober Pedy Airport,CPD,2,2,2,2,0.0,1.0
+Cloncurry Airport,CNJ,6,6,6,6,0.0,1.0
+Ceduna Airport,CED,2,2,2,2,0.0,1.0
+Cunnamulla Airport,CMA,4,4,4,4,0.0,1.0
+Coen Airport,CUQ,3,3,3,3,0.0,1.0
+Doomadgee Airport,DMD,6,6,6,6,0.0,1.0
+Devonport Airport,DPO,2,2,2,2,0.0,1.0
+Elcho Island Airport,ELC,2,2,2,2,0.0,1.0
+Esperance Airport,EPR,3,3,3,3,0.0,1.0
+Flinders Island Airport,FLS,3,3,3,3,0.0,1.0
+Geraldton Airport,GET,2,2,2,2,0.0,1.0
+Gladstone Airport,GLT,6,6,6,6,0.0,1.0
+Groote Eylandt Airport,GTE,6,6,6,6,0.0,1.0
+Griffith Airport,GFF,4,4,4,4,0.0,1.0
+Horn Island Airport,HID,2,2,2,2,0.0,1.0
+Julia Creek Airport,JCK,4,4,4,4,0.0,1.0
+King Island Airport,KNS,4,4,4,4,0.0,1.0
+Kowanyama Airport,KWM,4,4,4,4,0.0,1.0
+Lord Howe Island Airport,LDH,6,6,6,6,0.0,1.0
+Lockhart River Airport,IRG,4,4,4,4,0.0,1.0
+Lismore Airport,LSY,2,2,2,2,0.0,1.0
+Bathurst Airport,BHS,4,4,4,4,0.0,1.0
+Burketown Airport,BUC,4,4,4,4,0.0,1.0
+Pleiku Airport,PXU,6,6,6,6,0.0,1.0
+Bedourie Airport,BEU,4,4,4,4,0.0,1.0
+Vinh Airport,VII,10,10,10,10,0.0,1.0
+Dawei Airport,TVY,4,4,4,4,0.0,1.0
+Kawthoung Airport,KAW,2,2,2,2,0.0,1.0
+Tambolaka Airport,TMC,4,4,4,4,0.0,1.0
+Kalimarau Airport,BEJ,2,2,2,2,0.0,1.0
+Dumatumbun Airport,LUV,5,5,5,5,0.0,1.0
+Long Lellang Airport,LGL,4,4,4,4,0.0,1.0
+Long Seridan Airport,ODN,4,4,4,4,0.0,1.0
+Mukah Airport,MKM,4,4,4,4,0.0,1.0
+Bakalalan Airport,BKM,2,2,2,2,0.0,1.0
+Lawas Airport,LWY,6,6,6,6,0.0,1.0
+Bario Airport,BBN,4,4,4,4,0.0,1.0
+Kudat Airport,KUD,4,4,4,4,0.0,1.0
+Radin Inten II (Branti) Airport,TKG,5,5,5,5,0.0,1.0
+Ranai Airport,NTX,2,2,2,2,0.0,1.0
+Albany Airport,ALH,4,4,4,4,0.0,1.0
+Aurukun Airport,AUU,4,4,4,4,0.0,1.0
+Barcaldine Airport,BCI,2,2,2,2,0.0,1.0
+Birdsville Airport,BVI,4,4,4,4,0.0,1.0
+Broken Hill Airport,BHQ,8,8,8,8,0.0,1.0
+Hamilton Island Airport,HTI,8,8,8,8,0.0,1.0
+Sunshine Coast Airport,MCY,4,4,4,4,0.0,1.0
+Charleville Airport,CTL,8,8,8,8,0.0,1.0
+Madang Airport,MAG,14,14,14,14,0.0,1.0
+Juba International Airport,JUB,15,15,15,15,0.0,1.0
+Nairobi Wilson Airport,WIL,21,21,21,21,0.0,1.0
+Wajir Airport,WJR,9,9,9,9,0.0,1.0
+Ghat Airport,GHT,2,2,2,2,0.0,1.0
+Kufra Airport,AKF,4,4,4,4,0.0,1.0
+Benina International Airport,BEN,22,22,22,22,0.0,1.0
+Tripoli International Airport,TIP,48,48,48,48,0.0,1.0
+Ghadames East Airport,LTD,2,2,2,2,0.0,1.0
+Kigali International Airport,KGL,33,33,33,33,0.0,1.0
+Kamembe Airport,KME,2,2,2,2,0.0,1.0
+El Fasher Airport,ELF,2,2,2,2,0.0,1.0
+Khartoum International Airport,KRT,44,44,44,44,0.0,1.0
+Varna Airport,VAR,18,18,18,18,0.0,1.0
+Arusha Airport,ARK,2,2,2,2,0.0,1.0
+Julius Nyerere International Airport,DAR,41,41,41,41,0.0,1.0
+Kilimanjaro International Airport,JRO,20,20,20,20,0.0,1.0
+Mtwara Airport,MYW,2,2,2,2,0.0,1.0
+Mwanza Airport,MWZ,8,8,8,8,0.0,1.0
+Abeid Amani Karume International Airport,ZNZ,14,14,14,14,0.0,1.0
+Entebbe International Airport,EBB,34,34,34,34,0.0,1.0
+Tirana International Airport Mother Teresa,TIA,36,36,36,36,0.0,1.0
+Burgas Airport,BOJ,22,22,22,22,0.0,1.0
+Plovdiv International Airport,PDV,4,4,4,4,0.0,1.0
+Mombasa Moi International Airport,MBA,17,17,17,17,0.0,1.0
+Manda Airstrip,LAU,4,4,4,4,0.0,1.0
+Lodwar Airport,LOK,3,3,3,3,0.0,1.0
+Kitale Airport,KTL,2,2,2,2,0.0,1.0
+Addis Ababa Bole International Airport,ADD,137,137,137,137,0.0,1.0
+Arba Minch Airport,AMH,3,3,3,3,0.0,1.0
+Axum Airport,AXU,4,4,4,4,0.0,1.0
+Bahir Dar Airport,BJR,3,3,3,3,0.0,1.0
+Aba Tenna Dejazmach Yilma International Airport,DIR,6,6,6,6,0.0,1.0
+Gambella Airport,GMB,3,3,3,3,0.0,1.0
+Gonder Airport,GDQ,4,4,4,4,0.0,1.0
+Jimma Airport,JIM,3,3,3,3,0.0,1.0
+Lalibella Airport,LLI,6,6,6,6,0.0,1.0
+Mekele Airport,MQX,2,2,2,2,0.0,1.0
+Asosa Airport,ASO,3,3,3,3,0.0,1.0
+Bujumbura International Airport,BJM,7,7,7,7,0.0,1.0
+Egal International Airport,HGA,12,12,12,12,0.0,1.0
+Berbera Airport,BBO,11,11,11,11,0.0,1.0
+Abu Simbel Airport,ABS,2,2,2,2,0.0,1.0
+Cairo International Airport,CAI,161,161,161,161,0.0,1.0
+Hurghada International Airport,HRG,51,51,51,51,0.0,1.0
+Luxor International Airport,LXR,14,14,14,14,0.0,1.0
+Aswan International Airport,ASW,6,6,6,6,0.0,1.0
+Eldoret International Airport,EDL,5,5,5,5,0.0,1.0
+Kisumu Airport,KIS,3,3,3,3,0.0,1.0
+Sofia Airport,SOF,82,82,82,82,0.0,1.0
+Larnaca International Airport,LCA,108,108,108,108,0.0,1.0
+Preguiça Airport,SNE,4,4,4,4,0.0,1.0
+Bergerac-Roumanière Airport,EGC,18,18,18,18,0.0,1.0
+San Sebastian Airport,EAS,4,4,4,4,0.0,1.0
+Santiago de Compostela Airport,SCQ,43,43,43,43,0.0,1.0
+Valencia Airport,VLC,114,114,114,114,0.0,1.0
+Valladolid Airport,VLL,3,3,3,3,0.0,1.0
+Vigo Airport,VGO,10,10,10,10,0.0,1.0
+Santander Airport,SDR,34,34,34,34,0.0,1.0
+Zaragoza Air Base,ZAZ,16,16,16,16,0.0,1.0
+Sevilla Airport,SVQ,76,76,76,76,0.0,1.0
+Agen-La Garenne Airport,AGF,4,4,4,4,0.0,1.0
+Bordeaux-Mérignac Airport,BOD,98,98,98,98,0.0,1.0
+Poitiers-Biard Airport,PIS,10,10,10,10,0.0,1.0
+Paphos International Airport,PFO,50,50,50,50,0.0,1.0
+Limoges Airport,LIG,20,20,20,20,0.0,1.0
+Toulouse-Blagnac Airport,TLS,93,93,93,93,0.0,1.0
+Pau Pyrénées Airport,PUF,8,8,8,8,0.0,1.0
+Tarbes-Lourdes-Pyrénées Airport,LDE,10,10,10,10,0.0,1.0
+Angoulême-Brie-Champniers Airport,ANG,2,2,2,2,0.0,1.0
+Brive Souillac Airport,BVE,9,9,9,9,0.0,1.0
+Périgueux-Bassillac Airport,PGX,4,4,4,4,0.0,1.0
+Biarritz-Anglet-Bayonne Airport,BIQ,26,26,26,26,0.0,1.0
+Castres-Mazamet Airport,DCM,6,6,6,6,0.0,1.0
+Rodez-Marcillac Airport,RDZ,8,8,8,8,0.0,1.0
+Salamanca Airport,SLM,2,2,2,2,0.0,1.0
+Reus Air Base,REU,32,32,32,32,0.0,1.0
+Pamplona Airport,PNA,2,2,2,2,0.0,1.0
+Menorca Airport,MAH,48,48,48,48,0.0,1.0
+Dubrovnik Airport,DBV,82,82,82,82,0.0,1.0
+Osijek Airport,OSI,8,8,8,8,0.0,1.0
+Pula Airport,PUY,27,27,27,27,0.0,1.0
+Rijeka Airport,RJK,14,14,14,14,0.0,1.0
+Split Airport,SPU,72,72,72,72,0.0,1.0
+Zagreb Airport,ZAG,55,55,55,55,0.0,1.0
+Zadar Airport,ZAD,48,48,48,48,0.0,1.0
+Alicante International Airport,ALC,192,192,192,192,0.0,1.0
+Almería International Airport,LEI,29,29,29,29,0.0,1.0
+Asturias Airport,OVD,20,20,20,20,0.0,1.0
+Bilbao Airport,BIO,70,70,70,70,0.0,1.0
+Barcelona International Airport,BCN,326,326,326,326,0.0,1.0
+Badajoz Airport,BJZ,4,4,4,4,0.0,1.0
+A Coruña Airport,LCG,12,12,12,12,0.0,1.0
+Girona Airport,GRO,98,98,98,98,0.0,1.0
+Federico Garcia Lorca Airport,GRX,10,10,10,10,0.0,1.0
+Ibiza Airport,IBZ,116,116,116,116,0.0,1.0
+Jerez Airport,XRY,30,30,30,30,0.0,1.0
+San Javier Airport,MJV,34,34,34,34,0.0,1.0
+Adolfo Suárez Madrid–Barajas Airport,MAD,314,314,314,314,0.0,1.0
+Málaga Airport,AGP,230,230,230,230,0.0,1.0
+São Pedro Airport,VXE,10,10,10,10,0.0,1.0
+Maio Airport,MMO,2,2,2,2,0.0,1.0
+Le Puy-Loudes Airport,LPY,2,2,2,2,0.0,1.0
+Libreville Leon M'ba International Airport,LBV,31,31,31,31,0.0,1.0
+Nova Lisboa Airport,NOV,6,6,6,6,0.0,1.0
+Kuito Airport,SVP,4,4,4,4,0.0,1.0
+Quatro de Fevereiro Airport,LAD,72,72,72,72,0.0,1.0
+Malanje Airport,MEG,4,4,4,4,0.0,1.0
+Menongue Airport,SPP,6,6,6,6,0.0,1.0
+Saurimo Airport,VHC,4,4,4,4,0.0,1.0
+Soyo Airport,SZA,4,4,4,4,0.0,1.0
+Lubango Airport,SDD,6,6,6,6,0.0,1.0
+Luena Airport,LUO,2,2,2,2,0.0,1.0
+Port Gentil Airport,POG,2,2,2,2,0.0,1.0
+São Tomé International Airport,TMS,6,6,6,6,0.0,1.0
+N'Djamena International Airport,NDJ,18,18,18,18,0.0,1.0
+Beira Airport,BEW,12,12,12,12,0.0,1.0
+Inhambane Airport,INH,6,6,6,6,0.0,1.0
+Lichinga Airport,VXC,4,4,4,4,0.0,1.0
+Maputo Airport,MPM,30,30,30,30,0.0,1.0
+Nampula Airport,APL,14,14,14,14,0.0,1.0
+Pemba Airport,POL,12,12,12,12,0.0,1.0
+Quelimane Airport,UEL,6,6,6,6,0.0,1.0
+Chingozi Airport,TET,12,12,12,12,0.0,1.0
+Vilankulo Airport,VNX,6,6,6,6,0.0,1.0
+Seychelles International Airport,SEZ,18,18,18,18,0.0,1.0
+Cabinda Airport,CAB,4,4,4,4,0.0,1.0
+Mbanza Congo Airport,SSY,2,2,2,2,0.0,1.0
+Toliara Airport,TLE,6,6,6,6,0.0,1.0
+Tôlanaro Airport,FTU,4,4,4,4,0.0,1.0
+N'Gaoundéré Airport,NGE,2,2,2,2,0.0,1.0
+Garoua International Airport,GOU,4,4,4,4,0.0,1.0
+Livingstone Airport,LVI,8,8,8,8,0.0,1.0
+Kenneth Kaunda International Airport Lusaka,LUN,31,31,31,31,0.0,1.0
+Mfuwe Airport,MFU,2,2,2,2,0.0,1.0
+Simon Mwansa Kapwepwe International Airport,NLA,11,11,11,11,0.0,1.0
+Prince Said Ibrahim International Airport,HAH,13,13,13,13,0.0,1.0
+Dzaoudzi Pamandzi International Airport,DZA,17,17,17,17,0.0,1.0
+Roland Garros Airport,RUN,26,26,26,26,0.0,1.0
+Pierrefonds Airport,ZSE,2,2,2,2,0.0,1.0
+Ivato Airport,TNR,41,41,41,41,0.0,1.0
+Sainte Marie Airport,SMS,6,6,6,6,0.0,1.0
+Toamasina Airport,TMM,12,12,12,12,0.0,1.0
+Morondava Airport,MOQ,4,4,4,4,0.0,1.0
+Arrachart Airport,DIE,10,10,10,10,0.0,1.0
+Mananara Nord Airport,WMR,2,2,2,2,0.0,1.0
+Antsirabato Airport,ANM,6,6,6,6,0.0,1.0
+Amborovy Airport,MJN,4,4,4,4,0.0,1.0
+Fascene Airport,NOS,8,8,8,8,0.0,1.0
+Maroantsetra Airport,WMN,8,8,8,8,0.0,1.0
+Sambava Airport,SVB,6,6,6,6,0.0,1.0
+Praslin Airport,PRI,2,2,2,2,0.0,1.0
+Joshua Mqabuko Nkomo International Airport,BUQ,6,6,6,6,0.0,1.0
+Rabil Airport,BVC,19,19,19,19,0.0,1.0
+Mohammed V International Airport,CMN,173,173,173,173,0.0,1.0
+Tenerife Norte Airport,TFN,34,34,34,34,0.0,1.0
+Melilla Airport,MLN,8,8,8,8,0.0,1.0
+Lungi International Airport,FNA,22,22,22,22,0.0,1.0
+Spriggs Payne Airport,MLW,4,4,4,4,0.0,1.0
+Roberts International Airport,ROB,12,12,12,12,0.0,1.0
+Al Massira Airport,AGA,41,41,41,41,0.0,1.0
+Tan Tan Airport,TTA,1,1,1,1,0.0,1.0
+Saïss Airport,FEZ,32,32,32,32,0.0,1.0
+Angads Airport,OUD,18,18,18,18,0.0,1.0
+Rabat-Salé Airport,RBA,18,18,18,18,0.0,1.0
+Menara Airport,RAK,97,97,97,97,0.0,1.0
+Victoria Falls International Airport,VFA,10,10,10,10,0.0,1.0
+Ouarzazate Airport,OZZ,4,4,4,4,0.0,1.0
+Cherif Al Idrissi Airport,AHU,2,2,2,2,0.0,1.0
+Saniat R'mel Airport,TTU,2,2,2,2,0.0,1.0
+Ibn Batouta Airport,TNG,24,24,24,24,0.0,1.0
+Ziguinchor Airport,ZIG,3,3,3,3,0.0,1.0
+Cap Skirring Airport,CSK,2,2,2,2,0.0,1.0
+Léopold Sédar Senghor International Airport,DKR,62,62,62,62,0.0,1.0
+Nouakchott–Oumtounsy International Airport,NKC,18,18,18,18,0.0,1.0
+Nouadhibou International Airport,NDB,6,6,6,6,0.0,1.0
+Amílcar Cabral International Airport,SID,24,24,24,24,0.0,1.0
+Tenerife South Airport,TFS,166,166,166,166,0.0,1.0
+Lanzarote Airport,ACE,111,111,111,111,0.0,1.0
+Gran Canaria Airport,LPA,161,161,161,161,0.0,1.0
+La Palma Airport,SPC,14,14,14,14,0.0,1.0
+Robert Gabriel Mugabe International Airport,HRE,25,25,25,25,0.0,1.0
+Chileka International Airport,BLZ,8,8,8,8,0.0,1.0
+Lilongwe International Airport,LLW,13,13,13,13,0.0,1.0
+Moshoeshoe I International Airport,MSU,2,2,2,2,0.0,1.0
+Ndjili International Airport,FIH,35,35,35,35,0.0,1.0
+Mbandaka Airport,MDK,5,5,5,5,0.0,1.0
+Gemena Airport,GMA,2,2,2,2,0.0,1.0
+Bangoka International Airport,FKI,5,5,5,5,0.0,1.0
+Matari Airport,IRP,2,2,2,2,0.0,1.0
+Bunia Airport,BUX,4,4,4,4,0.0,1.0
+Bukavu Kavumu Airport,BKY,4,4,4,4,0.0,1.0
+Goma International Airport,GOM,6,6,6,6,0.0,1.0
+Kindu Airport,KND,4,4,4,4,0.0,1.0
+Lubumbashi International Airport,FBM,13,13,13,13,0.0,1.0
+Kalemie Airport,FMI,1,1,1,1,0.0,1.0
+Kananga Airport,KGA,6,6,6,6,0.0,1.0
+Mbuji Mayi Airport,MJM,4,4,4,4,0.0,1.0
+Modibo Keita International Airport,BKO,32,32,32,32,0.0,1.0
+Banjul International Airport,BJL,14,14,14,14,0.0,1.0
+Fuerteventura Airport,FUE,104,104,104,104,0.0,1.0
+Hierro Airport,VDE,6,6,6,6,0.0,1.0
+Dole-Tavaux Airport,DLE,6,6,6,6,0.0,1.0
+Metz-Nancy-Lorraine Airport,ETZ,10,10,10,10,0.0,1.0
+Cairns International Airport,CNS,59,59,59,59,0.0,1.0
+Craiova Airport,CRA,4,4,4,4,0.0,1.0
+Francisco de Sá Carneiro Airport,OPO,122,122,122,122,0.0,1.0
+Porto Santo Airport,PXO,2,2,2,2,0.0,1.0
+Humberto Delgado Airport (Lisbon Portela Airport),LIS,204,204,204,204,0.0,1.0
+São Jorge Airport,SJZ,4,4,4,4,0.0,1.0
+Mostar International Airport,OMO,2,2,2,2,0.0,1.0
+Sarajevo International Airport,SJJ,26,26,26,26,0.0,1.0
+Arad International Airport,ARW,2,2,2,2,0.0,1.0
+Tautii Magheraus Airport,BAY,2,2,2,2,0.0,1.0
+Mihail Kogălniceanu International Airport,CND,2,2,2,2,0.0,1.0
+Cluj-Napoca International Airport,CLJ,36,36,36,36,0.0,1.0
+Iaşi Airport,IAS,14,14,14,14,0.0,1.0
+Esenboğa International Airport,ESB,88,88,88,88,0.0,1.0
+Oradea International Airport,OMR,2,2,2,2,0.0,1.0
+Henri Coandă International Airport,OTP,134,134,134,134,0.0,1.0
+Sibiu International Airport,SBZ,5,5,5,5,0.0,1.0
+Satu Mare Airport,SUJ,2,2,2,2,0.0,1.0
+Transilvania Târgu Mureş International Airport,TGM,6,6,6,6,0.0,1.0
+Timişoara Traian Vuia Airport,TSR,24,24,24,24,0.0,1.0
+Geneva Cointrin International Airport,GVA,201,201,201,201,0.0,1.0
+Lugano Airport,LUG,4,4,4,4,0.0,1.0
+Bern Belp Airport,BRN,24,24,24,24,0.0,1.0
+Zürich Airport,ZRH,273,273,273,273,0.0,1.0
+Pico Airport,PIX,5,5,5,5,0.0,1.0
+João Paulo II Airport,PDL,33,33,33,33,0.0,1.0
+Lajes Airport,TER,16,16,16,16,0.0,1.0
+Horta Airport,HOR,10,10,10,10,0.0,1.0
+Ljubljana Jože Pučnik Airport,LJU,44,44,44,44,0.0,1.0
+Karlovy Vary International Airport,KLV,6,6,6,6,0.0,1.0
+Ostrava Leos Janáček Airport,OSR,6,6,6,6,0.0,1.0
+Pardubice Airport,PED,4,4,4,4,0.0,1.0
+Václav Havel Airport Prague,PRG,188,188,188,188,0.0,1.0
+Brno-Tuřany Airport,BRQ,2,2,2,2,0.0,1.0
+Ben Gurion International Airport,TLV,157,157,157,157,0.0,1.0
+Eilat Airport,ETH,6,6,6,6,0.0,1.0
+Haifa International Airport,HFA,4,4,4,4,0.0,1.0
+Ovda International Airport,VDA,1,1,1,1,0.0,1.0
+Sde Dov Airport,SDV,4,4,4,4,0.0,1.0
+Malta International Airport,MLA,152,152,152,152,0.0,1.0
+Graz Airport,GRZ,22,22,22,22,0.0,1.0
+Innsbruck Airport,INN,12,12,12,12,0.0,1.0
+Linz Hörsching Airport,LNZ,15,15,15,15,0.0,1.0
+Salzburg Airport,SZG,39,39,39,39,0.0,1.0
+Vienna International Airport,VIE,275,275,275,275,0.0,1.0
+Santa Maria Airport,SMA,3,3,3,3,0.0,1.0
+Flores Airport,FLW,8,8,8,8,0.0,1.0
+Faro Airport,FAO,124,124,124,124,0.0,1.0
+Graciosa Airport,GRW,2,2,2,2,0.0,1.0
+St Gallen Altenrhein Airport,ACH,4,4,4,4,0.0,1.0
+Adana Airport,ADA,20,20,20,20,0.0,1.0
+Peretola Airport,FLR,52,52,52,52,0.0,1.0
+Ramón Villeda Morales International Airport,SAP,30,30,30,30,0.0,1.0
+Košice Airport,KSC,8,8,8,8,0.0,1.0
+Providenciales Airport,PLS,40,40,40,40,0.0,1.0
+South Caicos Airport,XSC,4,4,4,4,0.0,1.0
+Casa De Campo International Airport,LRM,16,16,16,16,0.0,1.0
+Punta Cana International Airport,PUJ,89,89,89,89,0.0,1.0
+Gregorio Luperon International Airport,POP,25,25,25,25,0.0,1.0
+Las Américas International Airport,SDQ,55,55,55,55,0.0,1.0
+Cibao International Airport,STI,16,16,16,16,0.0,1.0
+La Aurora Airport,GUA,40,40,40,40,0.0,1.0
+Goloson International Airport,LCE,13,13,13,13,0.0,1.0
+La Laguna Airport,GJA,2,2,2,2,0.0,1.0
+Antalya International Airport,AYT,127,127,127,127,0.0,1.0
+Juan Manuel Galvez International Airport,RTB,19,19,19,19,0.0,1.0
+Toncontín International Airport,TGU,22,22,22,22,0.0,1.0
+Norman Manley International Airport,KIN,38,38,38,38,0.0,1.0
+Sangster International Airport,MBJ,53,53,53,53,0.0,1.0
+General Juan N Alvarez International Airport,ACA,10,10,10,10,0.0,1.0
+Jesús Terán Paredo International Airport,AGU,14,14,14,14,0.0,1.0
+Bahías de Huatulco International Airport,HUX,4,4,4,4,0.0,1.0
+Ciudad del Carmen International Airport,CME,4,4,4,4,0.0,1.0
+Bachigualato Federal International Airport,CUL,14,14,14,14,0.0,1.0
+Chetumal International Airport,CTM,2,2,2,2,0.0,1.0
+M. R. Štefánik Airport,BTS,36,36,36,36,0.0,1.0
+Tivat Airport,TIV,12,12,12,12,0.0,1.0
+Priština International Airport,PRN,34,34,34,34,0.0,1.0
+Podgorica Airport,TGD,24,24,24,24,0.0,1.0
+Gaziantep International Airport,GZT,10,10,10,10,0.0,1.0
+Konya Airport,KYA,5,5,5,5,0.0,1.0
+Amasya Merzifon Airport,MZH,4,4,4,4,0.0,1.0
+Sivas Nuri Demirağ Airport,VAS,6,6,6,6,0.0,1.0
+Malatya Erhaç Airport,MLX,6,6,6,6,0.0,1.0
+Kayseri Erkilet Airport,ASR,10,10,10,10,0.0,1.0
+Çardak Airport,DNZ,4,4,4,4,0.0,1.0
+Adnan Menderes International Airport,ADB,89,89,89,89,0.0,1.0
+Cengiz Topel Airport,KCO,2,2,2,2,0.0,1.0
+Dalaman International Airport,DLM,56,56,56,56,0.0,1.0
+Elazığ Airport,EZS,8,8,8,8,0.0,1.0
+Diyarbakir Airport,DIY,8,8,8,8,0.0,1.0
+Erzincan Airport,ERC,6,6,6,6,0.0,1.0
+Erzurum International Airport,ERZ,6,6,6,6,0.0,1.0
+Trabzon International Airport,TZX,14,14,14,14,0.0,1.0
+Van Ferit Melen Airport,VAN,8,8,8,8,0.0,1.0
+Batman Airport,BAL,6,6,6,6,0.0,1.0
+Chişinău International Airport,KIV,50,50,50,50,0.0,1.0
+Skopje Alexander the Great Airport,SKP,44,44,44,44,0.0,1.0
+Gibraltar Airport,GIB,10,10,10,10,0.0,1.0
+Belgrade Nikola Tesla Airport,BEG,102,102,102,102,0.0,1.0
+Perugia San Francesco d'Assisi – Umbria International Airport,PEG,10,10,10,10,0.0,1.0
+Pisa International Airport,PSA,130,130,130,130,0.0,1.0
+Bastia-Poretta Airport,BIA,46,46,46,46,0.0,1.0
+St Pierre Airport,FSP,6,6,6,6,0.0,1.0
+Caen-Carpiquet Airport,CFR,8,8,8,8,0.0,1.0
+Rennes-Saint-Jacques Airport,RNS,18,18,18,18,0.0,1.0
+Lannion-Côte de Granit Airport,LAI,2,2,2,2,0.0,1.0
+Quimper-Cornouaille Airport,UIP,2,2,2,2,0.0,1.0
+Nantes Atlantique Airport,NTE,111,111,111,111,0.0,1.0
+EuroAirport Basel-Mulhouse-Freiburg Airport,BSL,131,131,131,131,0.0,1.0
+Dijon-Bourgogne Airport,DIJ,2,2,2,2,0.0,1.0
+Strasbourg Airport,SXB,52,52,52,52,0.0,1.0
+Toulon-Hyères Airport,TLN,6,6,6,6,0.0,1.0
+Nîmes-Arles-Camargue Airport,FNI,8,8,8,8,0.0,1.0
+Dimokritos Airport,AXD,4,4,4,4,0.0,1.0
+Kasos Airport,KSJ,4,4,4,4,0.0,1.0
+Nea Anchialos Airport,VOL,8,8,8,8,0.0,1.0
+Chios Island National Airport,JKH,9,9,9,9,0.0,1.0
+Ioannina Airport,IOA,2,2,2,2,0.0,1.0
+Heraklion International Nikos Kazantzakis Airport,HER,117,117,117,117,0.0,1.0
+Kastoria National Airport,KSO,2,2,2,2,0.0,1.0
+Kithira Airport,KIT,6,6,6,6,0.0,1.0
+Kefallinia Airport,EFL,11,11,11,11,0.0,1.0
+Kalamata Airport,KLX,14,14,14,14,0.0,1.0
+Kos Airport,KGS,58,58,58,58,0.0,1.0
+Karpathos Airport,AOK,7,7,7,7,0.0,1.0
+Lorient South Brittany (Bretagne Sud) Airport,LRT,4,4,4,4,0.0,1.0
+Deauville-Saint-Gatien Airport,DOL,2,2,2,2,0.0,1.0
+Dinard-Pleurtuit-Saint-Malo Airport,DNR,6,6,6,6,0.0,1.0
+Brest Bretagne Airport,BES,22,22,22,22,0.0,1.0
+Calvi-Sainte-Catherine Airport,CLY,22,22,22,22,0.0,1.0
+Figari Sud-Corse Airport,FSC,18,18,18,18,0.0,1.0
+Ajaccio-Napoléon Bonaparte Airport,AJA,50,50,50,50,0.0,1.0
+Clermont-Ferrand Auvergne Airport,CFE,12,12,12,12,0.0,1.0
+Lyon Saint-Exupéry Airport,LYS,153,153,153,153,0.0,1.0
+Aurillac Airport,AUR,2,2,2,2,0.0,1.0
+Saint-Étienne-Bouthéon Airport,EBU,8,8,8,8,0.0,1.0
+Carcassonne Airport,CCF,20,20,20,20,0.0,1.0
+Marseille Provence Airport,MRS,169,169,169,169,0.0,1.0
+Nice-Côte d'Azur Airport,NCE,178,178,178,178,0.0,1.0
+Perpignan-Rivesaltes (Llabanère) Airport,PGF,10,10,10,10,0.0,1.0
+Montpellier-Méditerranée Airport,MPL,40,40,40,40,0.0,1.0
+Béziers-Vias Airport,BZR,18,18,18,18,0.0,1.0
+Avignon-Caumont Airport,AVN,4,4,4,4,0.0,1.0
+Paris Beauvais Tillé Airport,BVA,118,118,118,118,0.0,1.0
+Le Havre Octeville Airport,LEH,2,2,2,2,0.0,1.0
+Châlons-Vatry Airport,XCR,4,4,4,4,0.0,1.0
+Tours-Val-de-Loire Airport,TUF,10,10,10,10,0.0,1.0
+Charles de Gaulle International Airport,CDG,470,470,470,470,0.0,1.0
+Paris-Orly Airport,ORY,237,237,237,237,0.0,1.0
+Lille-Lesquin Airport,LIL,59,59,59,59,0.0,1.0
+Ioannis Kapodistrias International Airport,CFU,75,75,75,75,0.0,1.0
+Alexander the Great International Airport,KVA,10,10,10,10,0.0,1.0
+Naples International Airport,NAP,102,102,102,102,0.0,1.0
+Parma Airport,PMF,8,8,8,8,0.0,1.0
+Reggio Calabria Airport,REG,8,8,8,8,0.0,1.0
+Vincenzo Florio Airport Trapani-Birgi,TPS,56,56,56,56,0.0,1.0
+Alghero-Fertilia Airport,AHO,62,62,62,62,0.0,1.0
+Cagliari Elmas Airport,CAG,76,76,76,76,0.0,1.0
+Olbia Costa Smeralda Airport,OLB,64,64,64,64,0.0,1.0
+Malpensa International Airport,MXP,218,218,218,218,0.0,1.0
+Il Caravaggio International Airport,BGY,160,160,160,160,0.0,1.0
+Turin Airport,TRN,58,58,58,58,0.0,1.0
+Genoa Cristoforo Colombo Airport,GOA,34,34,34,34,0.0,1.0
+Milano Linate Airport,LIN,66,66,66,66,0.0,1.0
+Cuneo International Airport,CUF,10,10,10,10,0.0,1.0
+Filippos Airport,KZI,1,1,1,1,0.0,1.0
+Bolzano Airport,BZO,2,2,2,2,0.0,1.0
+Bologna Guglielmo Marconi Airport,BLQ,128,128,128,128,0.0,1.0
+Treviso-Sant'Angelo Airport,TSF,76,76,76,76,0.0,1.0
+Trieste–Friuli Venezia Giulia Airport,TRS,22,22,22,22,0.0,1.0
+Federico Fellini International Airport,RMI,4,4,4,4,0.0,1.0
+Verona Villafranca Airport,VRN,45,45,45,45,0.0,1.0
+Venice Marco Polo Airport,VCE,146,146,146,146,0.0,1.0
+Ciampino–G. B. Pastine International Airport,CIA,100,100,100,100,0.0,1.0
+Leonardo da Vinci–Fiumicino Airport,FCO,316,316,316,316,0.0,1.0
+Marina Di Campo Airport,EBA,10,10,10,10,0.0,1.0
+Falcone–Borsellino Airport,PMO,77,77,77,77,0.0,1.0
+Pantelleria Airport,PNL,6,6,6,6,0.0,1.0
+Lampedusa Airport,LMP,6,6,6,6,0.0,1.0
+Catania-Fontanarossa Airport,CTA,97,97,97,97,0.0,1.0
+Leros Airport,LRS,6,6,6,6,0.0,1.0
+Limnos Airport,LXS,8,8,8,8,0.0,1.0
+Mikonos Airport,JMK,19,19,19,19,0.0,1.0
+Mytilene International Airport,MJT,15,15,15,15,0.0,1.0
+Aktion National Airport,PVK,18,18,18,18,0.0,1.0
+Diagoras Airport,RHO,97,97,97,97,0.0,1.0
+Araxos Airport,GPA,6,6,6,6,0.0,1.0
+Chania International Airport,CHQ,75,75,75,75,0.0,1.0
+Skiathos Island National Airport,JSI,2,2,2,2,0.0,1.0
+Samos Airport,SMI,15,15,15,15,0.0,1.0
+Santorini Airport,JTR,19,19,19,19,0.0,1.0
+Sitia Airport,JSH,8,8,8,8,0.0,1.0
+Skiros Airport,SKU,4,4,4,4,0.0,1.0
+Thessaloniki Macedonia International Airport,SKG,109,109,109,109,0.0,1.0
+"Zakynthos International Airport ""Dionysios Solomos""",ZTH,24,24,24,24,0.0,1.0
+Budapest Liszt Ferenc International Airport,BUD,154,154,154,154,0.0,1.0
+Debrecen International Airport,DEB,4,4,4,4,0.0,1.0
+Bari Karol Wojtyła Airport,BRI,82,82,82,82,0.0,1.0
+Pescara International Airport,PSR,18,18,18,18,0.0,1.0
+Brindisi – Salento Airport,BDS,38,38,38,38,0.0,1.0
+Lamezia Terme Airport,SUF,42,42,42,42,0.0,1.0
+Salak Airport,MVR,2,2,2,2,0.0,1.0
+Douala International Airport,DLA,40,40,40,40,0.0,1.0
+Sir Charles Gaetan Duval Airport,RRG,2,2,2,2,0.0,1.0
+Cheikh Larbi Tébessi Airport,TEE,2,2,2,2,0.0,1.0
+Port Hardy Airport,YZT,2,2,2,2,0.0,1.0
+Sept-Îles Airport,YZV,22,22,22,22,0.0,1.0
+Fort Mcpherson Airport,ZFM,2,2,2,2,0.0,1.0
+Soummam Airport,BJA,8,8,8,8,0.0,1.0
+Houari Boumediene Airport,ALG,128,128,128,128,0.0,1.0
+Djanet Inedbirene Airport,DJG,3,3,3,3,0.0,1.0
+Aguenar – Hadj Bey Akhamok Airport,TMR,8,8,8,8,0.0,1.0
+Mecheria Airport,MZW,2,2,2,2,0.0,1.0
+Rabah Bitat Airport,AAE,14,14,14,14,0.0,1.0
+Mohamed Boudiaf International Airport,CZL,22,22,22,22,0.0,1.0
+Hassi R'Mel Airport,HRM,4,4,4,4,0.0,1.0
+Touggourt Sidi Madhi Airport,TGR,2,2,2,2,0.0,1.0
+Bou Chekif Airport,TID,3,3,3,3,0.0,1.0
+Ech Cheliff Airport,CFK,2,2,2,2,0.0,1.0
+Zenata – Messali El Hadj Airport,TLM,8,8,8,8,0.0,1.0
+Es Senia Airport,ORN,44,44,44,44,0.0,1.0
+Ghriss Airport,MUW,3,3,3,3,0.0,1.0
+Touat Cheikh Sidi Mohamed Belkebir Airport,AZR,11,11,11,11,0.0,1.0
+Biskra Airport,BSK,6,6,6,6,0.0,1.0
+El Golea Airport,ELG,4,4,4,4,0.0,1.0
+Noumérat - Moufdi Zakaria Airport,GHA,8,8,8,8,0.0,1.0
+Oued Irara Airport,HME,12,12,12,12,0.0,1.0
+Chris Hadfield Airport,YZR,2,2,2,2,0.0,1.0
+Sandspit Airport,YZP,2,2,2,2,0.0,1.0
+Yellowknife Airport,YZF,36,36,36,36,0.0,1.0
+Lester B. Pearson International Airport,YYZ,293,293,293,293,0.0,1.0
+Fort St John Airport,YXJ,10,10,10,10,0.0,1.0
+Sioux Lookout Airport,YXL,30,30,30,30,0.0,1.0
+Pangnirtung Airport,YXP,4,4,4,4,0.0,1.0
+Prince George Airport,YXS,16,16,16,16,0.0,1.0
+Northwest Regional Airport Terrace-Kitimat,YXT,6,6,6,6,0.0,1.0
+London Airport,YXU,10,10,10,10,0.0,1.0
+Abbotsford Airport,YXX,4,4,4,4,0.0,1.0
+Whitehorse / Erik Nielsen International Airport,YXY,8,8,8,8,0.0,1.0
+North Bay Jack Garland Airport,YYB,4,4,4,4,0.0,1.0
+Calgary International Airport,YYC,119,119,119,119,0.0,1.0
+Smithers Airport,YYD,6,6,6,6,0.0,1.0
+Fort Nelson Airport,YYE,6,6,6,6,0.0,1.0
+Penticton Airport,YYF,2,2,2,2,0.0,1.0
+Charlottetown Airport,YYG,6,6,6,6,0.0,1.0
+Taloyoak Airport,YYH,6,6,6,6,0.0,1.0
+Victoria International Airport,YYJ,16,16,16,16,0.0,1.0
+Churchill Airport,YYQ,8,8,8,8,0.0,1.0
+Goose Bay Airport,YYR,22,22,22,22,0.0,1.0
+St. John's International Airport,YYT,25,25,25,25,0.0,1.0
+Kapuskasing Airport,YYU,3,3,3,3,0.0,1.0
+Mont Joli Airport,YYY,12,12,12,12,0.0,1.0
+In Salah Airport,INZ,5,5,5,5,0.0,1.0
+Ain el Beida Airport,OGX,11,11,11,11,0.0,1.0
+Saskatoon John G. Diefenbaker International Airport,YXE,18,18,18,18,0.0,1.0
+Berlin-Schönefeld Airport,SXF,137,137,137,137,0.0,1.0
+Gabès Matmata International Airport,GAE,4,4,4,4,0.0,1.0
+Djerba Zarzis International Airport,DJE,46,46,46,46,0.0,1.0
+Sfax Thyna International Airport,SFA,8,8,8,8,0.0,1.0
+Tozeur Nefta International Airport,TOE,6,6,6,6,0.0,1.0
+Lomé-Tokoin Airport,LFW,28,28,28,28,0.0,1.0
+Antwerp International Airport (Deurne),ANR,2,2,2,2,0.0,1.0
+Brussels Airport,BRU,293,293,293,293,0.0,1.0
+Brussels South Charleroi Airport,CRL,166,166,166,166,0.0,1.0
+Liège Airport,LGG,13,13,13,13,0.0,1.0
+Ostend-Bruges International Airport,OST,2,2,2,2,0.0,1.0
+Dresden Airport,DRS,36,36,36,36,0.0,1.0
+In Aménas Airport,IAM,4,4,4,4,0.0,1.0
+Erfurt Airport,ERF,12,12,12,12,0.0,1.0
+Frankfurt am Main Airport,FRA,477,477,477,477,0.0,1.0
+Münster Osnabrück Airport,FMO,22,22,22,22,0.0,1.0
+Hamburg Airport,HAM,174,174,174,174,0.0,1.0
+Cologne Bonn Airport,CGN,184,184,184,184,0.0,1.0
+Düsseldorf Airport,DUS,294,294,294,294,0.0,1.0
+Munich Airport,MUC,380,380,380,380,0.0,1.0
+Nuremberg Airport,NUE,62,62,62,62,0.0,1.0
+Leipzig/Halle Airport,LEJ,55,55,55,55,0.0,1.0
+Saarbrücken Airport,SCN,8,8,8,8,0.0,1.0
+Gafsa Ksar International Airport,GAF,3,3,3,3,0.0,1.0
+Tunis Carthage International Airport,TUN,118,118,118,118,0.0,1.0
+Monastir Habib Bourguiba International Airport,MIR,20,20,20,20,0.0,1.0
+Diori Hamani International Airport,NIM,17,17,17,17,0.0,1.0
+Cadjehoun Airport,COO,37,37,37,37,0.0,1.0
+Ouagadougou Airport,OUA,29,29,29,29,0.0,1.0
+Bobo Dioulasso Airport,BOY,4,4,4,4,0.0,1.0
+Kotoka International Airport,ACC,58,58,58,58,0.0,1.0
+Tamale Airport,TML,2,2,2,2,0.0,1.0
+Sunyani Airport,NYI,2,2,2,2,0.0,1.0
+Takoradi Airport,TKD,2,2,2,2,0.0,1.0
+Port Bouet Airport,ABJ,41,41,41,41,0.0,1.0
+Nnamdi Azikiwe International Airport,ABV,50,50,50,50,0.0,1.0
+Benin Airport,BNI,4,4,4,4,0.0,1.0
+Margaret Ekpo International Airport,CBQ,4,4,4,4,0.0,1.0
+Akanu Ibiam International Airport,ENU,6,6,6,6,0.0,1.0
+Ibadan Airport,IBA,2,2,2,2,0.0,1.0
+Ilorin International Airport,ILR,2,2,2,2,0.0,1.0
+Yakubu Gowon Airport,JOS,2,2,2,2,0.0,1.0
+Kaduna Airport,KAD,2,2,2,2,0.0,1.0
+Mallam Aminu International Airport,KAN,14,14,14,14,0.0,1.0
+Murtala Muhammed International Airport,LOS,85,85,85,85,0.0,1.0
+Port Harcourt International Airport,PHC,4,4,4,4,0.0,1.0
+Sadiq Abubakar III International Airport,SKO,2,2,2,2,0.0,1.0
+Yola Airport,YOL,2,2,2,2,0.0,1.0
+Medicine Hat Airport,YXH,2,2,2,2,0.0,1.0
+Cranbrook/Canadian Rockies International Airport,YXC,6,6,6,6,0.0,1.0
+Sir Seewoosagur Ramgoolam International Airport,MRU,49,49,49,49,0.0,1.0
+Fort Simpson Airport,YFS,2,2,2,2,0.0,1.0
+Clyde River Airport,YCY,4,4,4,4,0.0,1.0
+Coral Harbour Airport,YZS,8,8,8,8,0.0,1.0
+Deer Lake Airport,YDF,9,9,9,9,0.0,1.0
+Dawson Creek Airport,YDQ,4,4,4,4,0.0,1.0
+Edmonton International Airport,YEG,75,75,75,75,0.0,1.0
+Arviat Airport,YEK,6,6,6,6,0.0,1.0
+Inuvik Mike Zubko Airport,YEV,14,14,14,14,0.0,1.0
+Iqaluit Airport,YFB,20,20,20,20,0.0,1.0
+Fredericton Airport,YFC,8,8,8,8,0.0,1.0
+Flin Flon Airport,YFO,6,6,6,6,0.0,1.0
+Kingston Norman Rogers Airport,YGK,2,2,2,2,0.0,1.0
+Stephenville Airport,YJT,2,2,2,2,0.0,1.0
+La Grande Rivière Airport,YGL,6,6,6,6,0.0,1.0
+Gaspé (Michel-Pouliot) Airport,YGP,4,4,4,4,0.0,1.0
+Îles-de-la-Madeleine Airport,YGR,6,6,6,6,0.0,1.0
+Dryden Regional Airport,YHD,7,7,7,7,0.0,1.0
+Ulukhaktok Holman Airport,YHI,6,6,6,6,0.0,1.0
+Gjoa Haven Airport,YHK,6,6,6,6,0.0,1.0
+John C. Munro Hamilton International Airport,YHM,8,8,8,8,0.0,1.0
+Montréal / Saint-Hubert Airport,YHU,8,8,8,8,0.0,1.0
+Hay River / Merlyn Carter Airport,YHY,6,6,6,6,0.0,1.0
+Halifax / Stanfield International Airport,YHZ,61,61,61,61,0.0,1.0
+Kugluktuk Airport,YCO,6,6,6,6,0.0,1.0
+Charlo Airport,YCL,4,4,4,4,0.0,1.0
+Castlegar/West Kootenay Regional Airport,YCG,4,4,4,4,0.0,1.0
+Nanaimo Airport,YCD,4,4,4,4,0.0,1.0
+Mount Hagen Kagamuga Airport,HGU,17,17,17,17,0.0,1.0
+Nadzab Airport,LAE,18,18,18,18,0.0,1.0
+Port Moresby Jacksons International Airport,POM,66,66,66,66,0.0,1.0
+Wewak International Airport,WWK,8,8,8,8,0.0,1.0
+Narsarsuaq Airport,UAK,10,10,10,10,0.0,1.0
+Godthaab / Nuuk Airport,GOH,16,16,16,16,0.0,1.0
+Kangerlussuaq Airport,SFJ,14,14,14,14,0.0,1.0
+Thule Air Base,THU,2,2,2,2,0.0,1.0
+Akureyri Airport,AEY,2,2,2,2,0.0,1.0
+Egilsstaðir Airport,EGS,2,2,2,2,0.0,1.0
+Ísafjörður Airport,IFJ,2,2,2,2,0.0,1.0
+Keflavik International Airport,KEF,66,66,66,66,0.0,1.0
+Reykjavik Airport,RKV,8,8,8,8,0.0,1.0
+Sault Ste Marie Airport,YAM,8,8,8,8,0.0,1.0
+St. Anthony Airport,YAY,6,6,6,6,0.0,1.0
+Baie Comeau Airport,YBC,8,8,8,8,0.0,1.0
+CFB Bagotville,YBG,8,8,8,8,0.0,1.0
+Baker Lake Airport,YBK,7,7,7,7,0.0,1.0
+Campbell River Airport,YBL,4,4,4,4,0.0,1.0
+Brandon Municipal Airport,YBR,2,2,2,2,0.0,1.0
+Cambridge Bay Airport,YCB,8,8,8,8,0.0,1.0
+Pond Inlet Airport,YIO,4,4,4,4,0.0,1.0
+Kamloops Airport,YKA,6,6,6,6,0.0,1.0
+Williams Lake Airport,YWL,4,4,4,4,0.0,1.0
+Tuktoyaktuk Airport,YUB,2,2,2,2,0.0,1.0
+Resolute Bay Airport,YRB,4,4,4,4,0.0,1.0
+Rankin Inlet Airport,YRT,21,21,21,21,0.0,1.0
+Sudbury Airport,YSB,11,11,11,11,0.0,1.0
+Saint John Airport,YSJ,6,6,6,6,0.0,1.0
+Fort Smith Airport,YSM,8,8,8,8,0.0,1.0
+Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,YSY,4,4,4,4,0.0,1.0
+Cape Dorset Airport,YTE,4,4,4,4,0.0,1.0
+Thompson Airport,YTH,11,11,11,11,0.0,1.0
+Timmins/Victor M. Power,YTS,11,11,11,11,0.0,1.0
+Billy Bishop Toronto City Centre Airport,YTZ,26,26,26,26,0.0,1.0
+Montreal / Pierre Elliott Trudeau International Airport,YUL,185,185,185,185,0.0,1.0
+Waterloo Airport,YKF,4,4,4,4,0.0,1.0
+Repulse Bay Airport,YUT,6,6,6,6,0.0,1.0
+Hall Beach Airport,YUX,4,4,4,4,0.0,1.0
+Rouyn Noranda Airport,YUY,6,6,6,6,0.0,1.0
+Qikiqtarjuaq Airport,YVM,2,2,2,2,0.0,1.0
+Val-d'Or Airport,YVO,10,10,10,10,0.0,1.0
+Kuujjuaq Airport,YVP,19,19,19,19,0.0,1.0
+Norman Wells Airport,YVQ,8,8,8,8,0.0,1.0
+Vancouver International Airport,YVR,150,150,150,150,0.0,1.0
+Winnipeg / James Armstrong Richardson International Airport,YWG,46,46,46,46,0.0,1.0
+Wabush Airport,YWK,19,19,19,19,0.0,1.0
+Quesnel Airport,YQZ,4,4,4,4,0.0,1.0
+Sydney / J.A. Douglas McCurdy Airport,YQY,4,4,4,4,0.0,1.0
+Gander International Airport,YQX,6,6,6,6,0.0,1.0
+Grande Prairie Airport,YQU,4,4,4,4,0.0,1.0
+Schefferville Airport,YKL,8,8,8,8,0.0,1.0
+Lloydminster Airport,YLL,2,2,2,2,0.0,1.0
+Kelowna International Airport,YLW,22,22,22,22,0.0,1.0
+Fort McMurray Airport,YMM,14,14,14,14,0.0,1.0
+Moosonee Airport,YMO,6,6,6,6,0.0,1.0
+Natashquan Airport,YNA,8,8,8,8,0.0,1.0
+High Level Airport,YOJ,4,4,4,4,0.0,1.0
+Ottawa Macdonald-Cartier International Airport,YOW,52,52,52,52,0.0,1.0
+Pickle Lake Airport,YPL,2,2,2,2,0.0,1.0
+Port Menier Airport,YPN,4,4,4,4,0.0,1.0
+Prince Rupert Airport,YPR,2,2,2,2,0.0,1.0
+Fort Chipewyan Airport,YPY,4,4,4,4,0.0,1.0
+Quebec Jean Lesage International Airport,YQB,36,36,36,36,0.0,1.0
+Red Deer Regional Airport,YQF,6,6,6,6,0.0,1.0
+Windsor Airport,YQG,6,6,6,6,0.0,1.0
+Kenora Airport,YQK,6,6,6,6,0.0,1.0
+Lethbridge County Airport,YQL,2,2,2,2,0.0,1.0
+Greater Moncton International Airport,YQM,14,14,14,14,0.0,1.0
+Comox Airport,YQQ,8,8,8,8,0.0,1.0
+Regina International Airport,YQR,18,18,18,18,0.0,1.0
+Thunder Bay Airport,YQT,20,20,20,20,0.0,1.0
+Stuttgart Airport,STR,160,160,160,160,0.0,1.0
+Berlin-Tegel Airport,TXL,219,219,219,219,0.0,1.0
+Hannover Airport,HAJ,100,100,100,100,0.0,1.0
+Warsaw Chopin Airport,WAW,156,156,156,156,0.0,1.0
+"Tromsø Airport,",TOS,40,40,40,40,0.0,1.0
+"Sandefjord Airport, Torp",TRF,60,60,60,60,0.0,1.0
+Trondheim Airport Værnes,TRD,61,61,61,61,0.0,1.0
+Stavanger Airport Sola,SVG,72,72,72,72,0.0,1.0
+Gdańsk Lech Wałęsa Airport,GDN,94,94,94,94,0.0,1.0
+Kraków John Paul II International Airport,KRK,104,104,104,104,0.0,1.0
+Katowice International Airport,KTW,54,54,54,54,0.0,1.0
+Poznań-Ławica Airport,POZ,38,38,38,38,0.0,1.0
+Rzeszów-Jasionka Airport,RZE,22,22,22,22,0.0,1.0
+"Szczecin-Goleniów ""Solidarność"" Airport",SZZ,14,14,14,14,0.0,1.0
+Copernicus Wrocław Airport,WRO,62,62,62,62,0.0,1.0
+Växjö Kronoberg Airport,VXO,11,11,11,11,0.0,1.0
+Ronneby Airport,RNB,4,4,4,4,0.0,1.0
+Gothenburg-Landvetter Airport,GOT,64,64,64,64,0.0,1.0
+Jönköping Airport,JKG,4,4,4,4,0.0,1.0
+Gothenburg City Airport,GSE,40,40,40,40,0.0,1.0
+Trollhättan-Vänersborg Airport,THN,2,2,2,2,0.0,1.0
+Mora Airport,MXX,4,4,4,4,0.0,1.0
+Stockholm Skavsta Airport,NYO,62,62,62,62,0.0,1.0
+Kristianstad Airport,KID,2,2,2,2,0.0,1.0
+Kalmar Airport,KLR,4,4,4,4,0.0,1.0
+Malmö Sturup Airport,MMX,26,26,26,26,0.0,1.0
+Sandnessjøen Airport (Stokka),SSJ,9,9,9,9,0.0,1.0
+Stord Airport,SRP,6,6,6,6,0.0,1.0
+Skien Airport,SKE,2,2,2,2,0.0,1.0
+"Svalbard Airport, Longyear",LYR,4,4,4,4,0.0,1.0
+Alta Airport,ALF,13,13,13,13,0.0,1.0
+Brønnøysund Airport,BNN,10,10,10,10,0.0,1.0
+Bodø Airport,BOO,29,29,29,29,0.0,1.0
+Bergen Airport Flesland,BGO,96,96,96,96,0.0,1.0
+Båtsfjord Airport,BJF,8,8,8,8,0.0,1.0
+Kristiansand Airport,KRS,16,16,16,16,0.0,1.0
+Bardufoss Airport,BDU,2,2,2,2,0.0,1.0
+"Harstad/Narvik Airport, Evenes",EVE,14,14,14,14,0.0,1.0
+Leirin Airport,VDB,2,2,2,2,0.0,1.0
+Florø Airport,FRO,8,8,8,8,0.0,1.0
+Oslo Lufthavn,OSL,206,206,206,206,0.0,1.0
+Haugesund Airport,HAU,20,20,20,20,0.0,1.0
+Hasvik Airport,HAA,4,4,4,4,0.0,1.0
+Kristiansund Airport (Kvernberget),KSU,13,13,13,13,0.0,1.0
+Kirkenes Airport (Høybuktmoen),KKN,11,11,11,11,0.0,1.0
+Molde Airport,MOL,12,12,12,12,0.0,1.0
+Mosjøen Airport (Kjærstad),MJF,9,9,9,9,0.0,1.0
+Banak Airport,LKL,4,4,4,4,0.0,1.0
+Ørland Airport,OLA,2,2,2,2,0.0,1.0
+Røros Airport,RRS,2,2,2,2,0.0,1.0
+"Moss Airport, Rygge",RYG,70,70,70,70,0.0,1.0
+Halmstad Airport,HAD,7,7,7,7,0.0,1.0
+Sveg Airport,EVG,4,4,4,4,0.0,1.0
+Bremen Airport,BRE,86,86,86,86,0.0,1.0
+Pierre Van Ryneveld Airport,UTN,4,4,4,4,0.0,1.0
+OR Tambo International Airport,JNB,162,162,162,162,0.0,1.0
+Kimberley Airport,KIM,4,4,4,4,0.0,1.0
+Lanseria Airport,HLA,4,4,4,4,0.0,1.0
+Margate Airport,MGH,2,2,2,2,0.0,1.0
+Port Elizabeth Airport,PLZ,8,8,8,8,0.0,1.0
+Plettenberg Bay Airport,PBZ,3,3,3,3,0.0,1.0
+Hendrik Van Eck Airport,PHW,2,2,2,2,0.0,1.0
+Pietermaritzburg Airport,PZB,2,2,2,2,0.0,1.0
+Polokwane International Airport,PTG,2,2,2,2,0.0,1.0
+Richards Bay Airport,RCB,2,2,2,2,0.0,1.0
+K. D. Matanzima Airport,UTT,2,2,2,2,0.0,1.0
+Gällivare Airport,GEV,8,8,8,8,0.0,1.0
+Francistown Airport,FRW,4,4,4,4,0.0,1.0
+Kasane Airport,BBK,6,6,6,6,0.0,1.0
+Maun Airport,MUB,12,12,12,12,0.0,1.0
+Sir Seretse Khama International Airport,GBE,16,16,16,16,0.0,1.0
+Maya-Maya Airport,BZV,25,25,25,25,0.0,1.0
+Pointe Noire Airport,PNR,18,18,18,18,0.0,1.0
+Matsapha Airport,MTS,2,2,2,2,0.0,1.0
+Bangui M'Poko International Airport,BGF,5,5,5,5,0.0,1.0
+Bata Airport,BSG,4,4,4,4,0.0,1.0
+Malabo Airport,SSG,17,17,17,17,0.0,1.0
+Hoedspruit Air Force Base Airport,HDS,4,4,4,4,0.0,1.0
+George Airport,GRJ,6,6,6,6,0.0,1.0
+Ben Schoeman Airport,ELS,8,8,8,8,0.0,1.0
+King Shaka International Airport,DUR,26,26,26,26,0.0,1.0
+Kramfors Sollefteå Airport,KRF,4,4,4,4,0.0,1.0
+Lycksele Airport,LYC,4,4,4,4,0.0,1.0
+Sundsvall-Härnösand Airport,SDL,8,8,8,8,0.0,1.0
+Örnsköldsvik Airport,OER,2,2,2,2,0.0,1.0
+Kiruna Airport,KRN,4,4,4,4,0.0,1.0
+Skellefteå Airport,SFT,6,6,6,6,0.0,1.0
+Umeå Airport,UME,12,12,12,12,0.0,1.0
+Vilhelmina Airport,VHM,4,4,4,4,0.0,1.0
+Arvidsjaur Airport,AJR,2,2,2,2,0.0,1.0
+Örebro Airport,ORB,4,4,4,4,0.0,1.0
+Stockholm Västerås Airport,VST,6,6,6,6,0.0,1.0
+Luleå Airport,LLA,10,10,10,10,0.0,1.0
+Stockholm-Arlanda Airport,ARN,246,246,246,246,0.0,1.0
+Stockholm-Bromma Airport,BMA,30,30,30,30,0.0,1.0
+Borlange Airport,BLE,4,4,4,4,0.0,1.0
+Linköping City Airport,LPI,4,4,4,4,0.0,1.0
+Norrköping Airport,NRK,2,2,2,2,0.0,1.0
+Visby Airport,VBY,8,8,8,8,0.0,1.0
+Rostock-Laage Airport,RLG,10,10,10,10,0.0,1.0
+Bram Fischer International Airport,BFN,6,6,6,6,0.0,1.0
+Cape Town International Airport,CPT,45,45,45,45,0.0,1.0
+Andøya Airport,ANX,7,7,7,7,0.0,1.0
+Ålesund Airport,AES,20,20,20,20,0.0,1.0
+Luxembourg-Findel International Airport,LUX,108,108,108,108,0.0,1.0
+City of Derry Airport,LDY,10,10,10,10,0.0,1.0
+Mariehamn Airport,MHQ,6,6,6,6,0.0,1.0
+Oulu Airport,OUL,6,6,6,6,0.0,1.0
+Pori Airport,POR,6,6,6,6,0.0,1.0
+Rovaniemi Airport,RVN,2,2,2,2,0.0,1.0
+Savonlinna Airport,SVL,2,2,2,2,0.0,1.0
+Tampere-Pirkkala Airport,TMP,20,20,20,20,0.0,1.0
+Turku Airport,TKU,14,14,14,14,0.0,1.0
+Vaasa Airport,VAA,4,4,4,4,0.0,1.0
+Belfast International Airport,BFS,56,56,56,56,0.0,1.0
+George Best Belfast City Airport,BHD,36,36,36,36,0.0,1.0
+Birmingham International Airport,BHX,162,162,162,162,0.0,1.0
+Aalborg Airport,AAL,26,26,26,26,0.0,1.0
+Gloucestershire Airport,GLO,2,2,2,2,0.0,1.0
+Manchester Airport,MAN,290,290,290,290,0.0,1.0
+Newquay Cornwall Airport,NQY,10,10,10,10,0.0,1.0
+Cardiff International Airport,CWL,39,39,39,39,0.0,1.0
+Bristol Airport,BRS,145,145,145,145,0.0,1.0
+Liverpool John Lennon Airport,LPL,96,96,96,96,0.0,1.0
+London Luton Airport,LTN,170,170,170,170,0.0,1.0
+Bournemouth Airport,BOH,34,34,34,34,0.0,1.0
+Southampton Airport,SOU,46,46,46,46,0.0,1.0
+Alderney Airport,ACI,4,4,4,4,0.0,1.0
+Lappeenranta Airport,LPP,6,6,6,6,0.0,1.0
+Kuopio Airport,KUO,2,2,2,2,0.0,1.0
+Kittilä Airport,KTT,2,2,2,2,0.0,1.0
+Kuusamo Airport,KAO,2,2,2,2,0.0,1.0
+Frankfurt-Hahn Airport,HHN,94,94,94,94,0.0,1.0
+Mannheim-City Airport,MHG,2,2,2,2,0.0,1.0
+Hamburg-Finkenwerder Airport,XFW,2,2,2,2,0.0,1.0
+Lübeck Blankensee Airport,LBC,8,8,8,8,0.0,1.0
+Paderborn Lippstadt Airport,PAD,16,16,16,16,0.0,1.0
+Dortmund Airport,DTM,57,57,57,57,0.0,1.0
+Augsburg Airport,AGB,2,2,2,2,0.0,1.0
+Friedrichshafen Airport,FDH,24,24,24,24,0.0,1.0
+Zweibrücken Airport,ZQW,11,11,11,11,0.0,1.0
+Kassel-Calden Airport,KSF,4,4,4,4,0.0,1.0
+Westerland Sylt Airport,GWT,14,14,14,14,0.0,1.0
+Kuressaare Airport,URE,2,2,2,2,0.0,1.0
+Lennart Meri Tallinn Airport,TLL,56,56,56,56,0.0,1.0
+Tartu Airport,TAY,2,2,2,2,0.0,1.0
+Helsinki Vantaa Airport,HEL,176,176,176,176,0.0,1.0
+Ivalo Airport,IVL,2,2,2,2,0.0,1.0
+Joensuu Airport,JOE,2,2,2,2,0.0,1.0
+Jyvaskyla Airport,JYV,3,3,3,3,0.0,1.0
+Kemi-Tornio Airport,KEM,3,3,3,3,0.0,1.0
+Kajaani Airport,KAJ,2,2,2,2,0.0,1.0
+Kokkola-Pietarsaari Airport,KOK,4,4,4,4,0.0,1.0
+Guernsey Airport,GCI,29,29,29,29,0.0,1.0
+Jersey Airport,JER,59,59,59,59,0.0,1.0
+London Gatwick Airport,LGW,330,330,330,330,0.0,1.0
+Norwich International Airport,NWI,16,16,16,16,0.0,1.0
+Exeter International Airport,EXT,38,38,38,38,0.0,1.0
+Mount Pleasant Airport,MPN,2,2,2,2,0.0,1.0
+Amsterdam Airport Schiphol,AMS,463,463,463,463,0.0,1.0
+Maastricht Aachen Airport,MST,19,19,19,19,0.0,1.0
+Eindhoven Airport,EIN,123,123,123,123,0.0,1.0
+Eelde Airport,GRQ,11,11,11,11,0.0,1.0
+Rotterdam The Hague Airport,RTM,58,58,58,58,0.0,1.0
+Cork Airport,ORK,60,60,60,60,0.0,1.0
+Dublin Airport,DUB,288,288,288,288,0.0,1.0
+Ireland West Knock Airport,NOC,30,30,30,30,0.0,1.0
+Kerry Airport,KIR,12,12,12,12,0.0,1.0
+Shannon Airport,SNN,52,52,52,52,0.0,1.0
+Waterford Airport,WAT,4,4,4,4,0.0,1.0
+Aarhus Airport,AAR,16,16,16,16,0.0,1.0
+Billund Airport,BLL,78,78,78,78,0.0,1.0
+Copenhagen Kastrup Airport,CPH,241,241,241,241,0.0,1.0
+Esbjerg Airport,EBJ,4,4,4,4,0.0,1.0
+Karup Airport,KRP,2,2,2,2,0.0,1.0
+Bornholm Airport,RNN,2,2,2,2,0.0,1.0
+Sønderborg Airport,SGD,2,2,2,2,0.0,1.0
+Vagar Airport,FAE,8,8,8,8,0.0,1.0
+London Stansted Airport,STN,305,305,305,305,0.0,1.0
+Tiree Airport,TRE,2,2,2,2,0.0,1.0
+London City Airport,LCY,71,71,71,71,0.0,1.0
+Stornoway Airport,SYY,10,10,10,10,0.0,1.0
+London Heathrow Airport,LHR,342,342,342,342,0.0,1.0
+Southend Airport,SEN,28,28,28,28,0.0,1.0
+Blackpool International Airport,BLK,18,18,18,18,0.0,1.0
+Humberside Airport,HUY,8,8,8,8,0.0,1.0
+Leeds Bradford Airport,LBA,102,102,102,102,0.0,1.0
+Hawarden Airport,CEG,4,4,4,4,0.0,1.0
+Isle of Man Airport,IOM,20,20,20,20,0.0,1.0
+Newcastle Airport,NCL,97,97,97,97,0.0,1.0
+Durham Tees Valley Airport,MME,4,4,4,4,0.0,1.0
+East Midlands Airport,EMA,114,114,114,114,0.0,1.0
+Kirkwall Airport,KOI,22,22,22,22,0.0,1.0
+Sumburgh Airport,LSI,10,10,10,10,0.0,1.0
+Wick Airport,WIC,4,4,4,4,0.0,1.0
+Aberdeen Dyce Airport,ABZ,58,58,58,58,0.0,1.0
+Inverness Airport,INV,21,21,21,21,0.0,1.0
+Glasgow International Airport,GLA,125,125,125,125,0.0,1.0
+Edinburgh Airport,EDI,177,177,177,177,0.0,1.0
+Islay Airport,ILY,2,2,2,2,0.0,1.0
+Glasgow Prestwick Airport,PIK,42,42,42,42,0.0,1.0
+Benbecula Airport,BEB,4,4,4,4,0.0,1.0
+Dundee Airport,DND,2,2,2,2,0.0,1.0
+Ciudad Obregón International Airport,CEN,8,8,8,8,0.0,1.0
+Ingeniero Alberto Acuña Ongay International Airport,CPE,2,2,2,2,0.0,1.0
+Abraham González International Airport,CJS,12,12,12,12,0.0,1.0
+V.C. Bird International Airport,ANU,44,44,44,44,0.0,1.0
+Maturín Airport,MUN,4,4,4,4,0.0,1.0
+Cacique Aramare Airport,PYH,2,2,2,2,0.0,1.0
+General Bartolome Salom International Airport,PBL,4,4,4,4,0.0,1.0
+General Manuel Carlos Piar International Airport,PZO,12,12,12,12,0.0,1.0
+San Antonio Del Tachira Airport,SVZ,2,2,2,2,0.0,1.0
+Santa Elena de Uairen Airport,SNV,2,2,2,2,0.0,1.0
+Mayor Buenaventura Vivas International Airport,STD,4,4,4,4,0.0,1.0
+San Tomé Airport,SOM,2,2,2,2,0.0,1.0
+Arturo Michelena International Airport,VLN,12,12,12,12,0.0,1.0
+Dr. Antonio Nicolás Briceño Airport,VLV,2,2,2,2,0.0,1.0
+Sir Grantley Adams International Airport,BGI,35,35,35,35,0.0,1.0
+Robert L. Bradshaw International Airport,SKB,11,11,11,11,0.0,1.0
+Douglas-Charles Airport,DOM,16,16,16,16,0.0,1.0
+Martinique Aimé Césaire International Airport,FDF,21,21,21,21,0.0,1.0
+L'Espérance Airport,SFG,4,4,4,4,0.0,1.0
+Pointe-à-Pitre Le Raizet,PTP,25,25,25,25,0.0,1.0
+Point Salines International Airport,GND,16,16,16,16,0.0,1.0
+Cyril E. King Airport,STT,37,37,37,37,0.0,1.0
+Henry E Rohlsen Airport,STX,10,10,10,10,0.0,1.0
+Rafael Hernandez Airport,BQN,8,8,8,8,0.0,1.0
+Eugenio Maria De Hostos Airport,MAZ,2,2,2,2,0.0,1.0
+Mercedita Airport,PSE,4,4,4,4,0.0,1.0
+Simón Bolívar International Airport,CCS,92,92,92,92,0.0,1.0
+Del Caribe Santiago Mariño International Airport,PMV,28,28,28,28,0.0,1.0
+Alberto Carnevalli Airport,MRD,2,2,2,2,0.0,1.0
+La Chinita International Airport,MAR,16,16,16,16,0.0,1.0
+Jorge Chávez International Airport,LIM,114,114,114,114,0.0,1.0
+Francisco Carle Airport,JAU,2,2,2,2,0.0,1.0
+Inca Manco Capac International Airport,JUL,6,6,6,6,0.0,1.0
+Capitan FAP Pedro Canga Rodriguez Airport,TBP,2,2,2,2,0.0,1.0
+Coronel FAP Francisco Secada Vignetta International Airport,IQT,8,8,8,8,0.0,1.0
+Rodríguez Ballón International Airport,AQP,10,10,10,10,0.0,1.0
+Capitan FAP Carlos Martinez De Pinillos International Airport,TRU,2,2,2,2,0.0,1.0
+Cadete FAP Guillermo Del Castillo Paredes Airport,TPP,6,6,6,6,0.0,1.0
+Coronel FAP Carlos Ciriani Santa Rosa International Airport,TCQ,4,4,4,4,0.0,1.0
+Padre Aldamiz International Airport,PEM,4,4,4,4,0.0,1.0
+Capitán FAP Guillermo Concha Iberico International Airport,PIU,2,2,2,2,0.0,1.0
+Alejandro Velasco Astete International Airport,CUZ,10,10,10,10,0.0,1.0
+Carrasco International /General C L Berisso Airport,MVD,24,24,24,24,0.0,1.0
+General José Antonio Anzoategui International Airport,BLA,12,12,12,12,0.0,1.0
+Barinas Airport,BNS,2,2,2,2,0.0,1.0
+Barquisimeto International Airport,BRM,6,6,6,6,0.0,1.0
+Canaima Airport,CAJ,2,2,2,2,0.0,1.0
+José Leonardo Chirinos Airport,CZE,2,2,2,2,0.0,1.0
+Cumaná (Antonio José de Sucre) Airport,CUM,2,2,2,2,0.0,1.0
+Josefa Camejo International Airport,LSP,6,6,6,6,0.0,1.0
+La Fria Airport,LFR,2,2,2,2,0.0,1.0
+Luis Munoz Marin International Airport,SJU,97,97,97,97,0.0,1.0
+George F. L. Charles Airport,SLU,12,12,12,12,0.0,1.0
+Andahuaylas Airport,ANS,2,2,2,2,0.0,1.0
+Donetsk International Airport,DOK,24,24,24,24,0.0,1.0
+Sokol Airport,GDX,8,8,8,8,0.0,1.0
+Pevek Airport,PWE,2,2,2,2,0.0,1.0
+Yelizovo Airport,PKC,8,8,8,8,0.0,1.0
+Yuzhno-Sakhalinsk Airport,UUS,20,20,20,20,0.0,1.0
+Vladivostok International Airport,VVO,30,30,30,30,0.0,1.0
+Chita-Kadala Airport,HTA,18,18,18,18,0.0,1.0
+Bratsk Airport,BTK,8,8,8,8,0.0,1.0
+Irkutsk Airport,IKT,56,56,56,56,0.0,1.0
+Ulan-Ude Airport (Mukhino),UUD,20,20,20,20,0.0,1.0
+Boryspil International Airport,KBP,123,123,123,123,0.0,1.0
+Dnipropetrovsk International Airport,DNK,18,18,18,18,0.0,1.0
+Hewanorra International Airport,UVF,22,22,22,22,0.0,1.0
+Simferopol International Airport,SIP,10,10,10,10,0.0,1.0
+Kiev Zhuliany International Airport,IEV,40,40,40,40,0.0,1.0
+Lviv International Airport,LWO,32,32,32,32,0.0,1.0
+Odessa International Airport,ODS,24,24,24,24,0.0,1.0
+Pulkovo Airport,LED,222,222,222,222,0.0,1.0
+Murmansk Airport,MMK,10,10,10,10,0.0,1.0
+Khrabrovo Airport,KGD,20,20,20,20,0.0,1.0
+Minsk National Airport,MSQ,82,82,82,82,0.0,1.0
+Abakan Airport,ABA,8,8,8,8,0.0,1.0
+Barnaul Airport,BAX,4,4,4,4,0.0,1.0
+Khabarovsk-Novy Airport,KHV,44,44,44,44,0.0,1.0
+Ignatyevo Airport,BQS,10,10,10,10,0.0,1.0
+Mirny Airport,MJZ,12,12,12,12,0.0,1.0
+Yakutsk Airport,YKS,46,46,46,46,0.0,1.0
+Queen Beatrix International Airport,AUA,50,50,50,50,0.0,1.0
+Flamingo International Airport,BON,12,12,12,12,0.0,1.0
+Hato International Airport,CUR,38,38,38,38,0.0,1.0
+F. D. Roosevelt Airport,EUX,2,2,2,2,0.0,1.0
+Princess Juliana International Airport,SXM,66,66,66,66,0.0,1.0
+Clayton J Lloyd International Airport,AXA,8,8,8,8,0.0,1.0
+Tobago-Crown Point Airport,TAB,8,8,8,8,0.0,1.0
+Piarco International Airport,POS,42,42,42,42,0.0,1.0
+Terrance B. Lettsome International Airport,EIS,9,9,9,9,0.0,1.0
+Argyle International Airport,SVD,9,9,9,9,0.0,1.0
+Almaty Airport,ALA,90,90,90,90,0.0,1.0
+Astana International Airport,TSE,68,68,68,68,0.0,1.0
+Taraz Airport,DMB,7,7,7,7,0.0,1.0
+Manas International Airport,FRU,44,44,44,44,0.0,1.0
+Osh Airport,OSS,26,26,26,26,0.0,1.0
+Shymkent Airport,CIT,17,17,17,17,0.0,1.0
+Uralsk Airport,URA,6,6,6,6,0.0,1.0
+Pavlodar Airport,PWQ,6,6,6,6,0.0,1.0
+Semipalatinsk Airport,PLX,6,6,6,6,0.0,1.0
+Aktobe Airport,AKX,8,8,8,8,0.0,1.0
+Heydar Aliyev International Airport,GYD,78,78,78,78,0.0,1.0
+Comandante FAP German Arias Graziani Airport,ATA,2,2,2,2,0.0,1.0
+Coronel FAP Alfredo Mendivil Duarte Airport,AYP,2,2,2,2,0.0,1.0
+Senador Nilo Coelho Airport,PNZ,8,8,8,8,0.0,1.0
+Mariscal Lamar Airport,CUE,4,4,4,4,0.0,1.0
+Diego Aracena Airport,IQQ,10,10,10,10,0.0,1.0
+Comodoro Arturo Merino Benítez International Airport,SCL,79,79,79,79,0.0,1.0
+Andrés Sabella Gálvez International Airport,ANF,11,11,11,11,0.0,1.0
+Carriel Sur Airport,CCP,8,8,8,8,0.0,1.0
+Mataveri Airport,IPC,4,4,4,4,0.0,1.0
+Cañal Bajo Carlos - Hott Siebert Airport,ZOS,2,2,2,2,0.0,1.0
+La Florida Airport,LSC,8,8,8,8,0.0,1.0
+El Tepual Airport,PMC,10,10,10,10,0.0,1.0
+Pichoy Airport,ZAL,4,4,4,4,0.0,1.0
+Francisco De Orellana Airport,OCC,4,4,4,4,0.0,1.0
+Seymour Airport,GPS,2,2,2,2,0.0,1.0
+El Dorado International Airport,BOG,148,148,148,148,0.0,1.0
+José Joaquín de Olmedo International Airport,GYE,37,37,37,37,0.0,1.0
+Cotopaxi International Airport,LTX,4,4,4,4,0.0,1.0
+Coronel E Carvajal Airport,XMS,2,2,2,2,0.0,1.0
+Eloy Alfaro International Airport,MEC,2,2,2,2,0.0,1.0
+Mariscal Sucre International Airport,UIO,45,45,45,45,0.0,1.0
+Santa Rosa International Airport,ETR,2,2,2,2,0.0,1.0
+Teniente Coronel Luis a Mantilla Airport,TUA,1,1,1,1,0.0,1.0
+Silvio Pettirossi International Airport,ASU,20,20,20,20,0.0,1.0
+El Eden Airport,AXM,4,4,4,4,0.0,1.0
+Tres De Mayo Airport,PUU,6,6,6,6,0.0,1.0
+Pdte. Carlos Ibañez del Campo Airport,PUQ,8,8,8,8,0.0,1.0
+El Loa Airport,CJC,8,8,8,8,0.0,1.0
+Balmaceda Airport,BBA,6,6,6,6,0.0,1.0
+Chacalluta Airport,ARI,7,7,7,7,0.0,1.0
+Plácido de Castro Airport,RBR,6,6,6,6,0.0,1.0
+Guararapes - Gilberto Freyre International Airport,REC,36,36,36,36,0.0,1.0
+Santos Dumont Airport,SDU,36,36,36,36,0.0,1.0
+Leite Lopes Airport,RAO,24,24,24,24,0.0,1.0
+Professor Urbano Ernesto Stumpf Airport,SJK,4,4,4,4,0.0,1.0
+Marechal Cunha Machado International Airport,SLZ,16,16,16,16,0.0,1.0
+Congonhas Airport,CGH,52,52,52,52,0.0,1.0
+Prof. Eribelto Manoel Reino State Airport,SJP,12,12,12,12,0.0,1.0
+Deputado Luiz Eduardo Magalhães International Airport,SSA,58,58,58,58,0.0,1.0
+Trombetas Airport,TMT,2,2,2,2,0.0,1.0
+Senador Petrônio Portela Airport,THE,14,14,14,14,0.0,1.0
+Tefé Airport,TFF,10,10,10,10,0.0,1.0
+Tabatinga Airport,TBT,2,2,2,2,0.0,1.0
+Tucuruí Airport,TUR,2,2,2,2,0.0,1.0
+São Gabriel da Cachoeira Airport,SJL,2,2,2,2,0.0,1.0
+Paulo Afonso Airport,PAV,2,2,2,2,0.0,1.0
+Rubem Berta Airport,URG,2,2,2,2,0.0,1.0
+Ten. Cel. Aviador César Bombonato Airport,UDI,18,18,18,18,0.0,1.0
+Mário de Almeida Franco Airport,UBA,8,8,8,8,0.0,1.0
+Brigadeiro Camarão Airport,BVH,2,2,2,2,0.0,1.0
+Eurico de Aguiar Salles Airport,VIX,18,18,18,18,0.0,1.0
+Palonegro Airport,BGA,6,6,6,6,0.0,1.0
+Ernesto Cortissoz International Airport,BAQ,12,12,12,12,0.0,1.0
+Capitan FAP Jose A Quinones Gonzales International Airport,CIX,2,2,2,2,0.0,1.0
+Capitán Aníbal Arab Airport,CIJ,5,5,5,5,0.0,1.0
+Jorge E. Gonzalez Torres Airport,SJE,2,2,2,2,0.0,1.0
+Simón Bolívar International Airport,SMR,4,4,4,4,0.0,1.0
+Gustavo Rojas Pinilla International Airport,ADZ,16,16,16,16,0.0,1.0
+Eduardo Falla Solano Airport,SVI,4,4,4,4,0.0,1.0
+Gustavo Vargas Airport,TME,4,4,4,4,0.0,1.0
+Santiago Perez Airport,AUC,2,2,2,2,0.0,1.0
+El Caraño Airport,UIB,6,6,6,6,0.0,1.0
+Alfonso López Pumarejo Airport,VUP,2,2,2,2,0.0,1.0
+Vanguardia Airport,VVC,8,8,8,8,0.0,1.0
+Jorge Wilsterman International Airport,CBB,14,14,14,14,0.0,1.0
+El Alto International Airport,LPB,32,32,32,32,0.0,1.0
+José Celestino Mutis Airport,BSC,2,2,2,2,0.0,1.0
+Juan Mendoza Airport,ORU,3,3,3,3,0.0,1.0
+Capitan Nicolas Rojas Airport,POI,2,2,2,2,0.0,1.0
+Juana Azurduy De Padilla Airport,SRE,8,8,8,8,0.0,1.0
+Capitan Oriel Lea Plaza Airport,TJA,10,10,10,10,0.0,1.0
+Teniente Av. Jorge Henrich Arauz Airport,TDD,14,14,14,14,0.0,1.0
+Viru Viru International Airport,VVI,23,23,23,23,0.0,1.0
+Yacuiba Airport,BYC,4,4,4,4,0.0,1.0
+Johan Adolf Pengel International Airport,PBM,14,14,14,14,0.0,1.0
+Cayenne-Rochambeau Airport,CAY,8,8,8,8,0.0,1.0
+Cap FAP David Abenzur Rengifo International Airport,PCL,6,6,6,6,0.0,1.0
+Almirante Padilla Airport,RCH,2,2,2,2,0.0,1.0
+Jose Maria Córdova International Airport,MDE,36,36,36,36,0.0,1.0
+El Embrujo Airport,PVA,2,2,2,2,0.0,1.0
+Antonio Narino Airport,PSO,4,4,4,4,0.0,1.0
+Gerardo Tobar López Airport,BUN,2,2,2,2,0.0,1.0
+Camilo Daza International Airport,CUC,6,6,6,6,0.0,1.0
+Rafael Nuñez International Airport,CTG,16,16,16,16,0.0,1.0
+Alfonso Bonilla Aragon International Airport,CLO,36,36,36,36,0.0,1.0
+La Florida Airport,TCO,2,2,2,2,0.0,1.0
+Las Brujas Airport,CZU,2,2,2,2,0.0,1.0
+Yariguíes Airport,EJA,2,2,2,2,0.0,1.0
+Gustavo Artunduaga Paredes Airport,FLA,2,2,2,2,0.0,1.0
+Juan Casiano Airport,GPI,2,2,2,2,0.0,1.0
+Perales Airport,IBE,4,4,4,4,0.0,1.0
+San Luis Airport,IPI,2,2,2,2,0.0,1.0
+Antonio Roldan Betancourt Airport,APO,4,4,4,4,0.0,1.0
+Alfredo Vásquez Cobo International Airport,LET,4,4,4,4,0.0,1.0
+Enrique Olaya Herrera Airport,EOH,16,16,16,16,0.0,1.0
+Los Garzones Airport,MTR,4,4,4,4,0.0,1.0
+Fabio Alberto Leon Bentley Airport,MVP,4,4,4,4,0.0,1.0
+La Nubia Airport,MZL,2,2,2,2,0.0,1.0
+Benito Salas Airport,NVA,2,2,2,2,0.0,1.0
+German Olano Airport,PCR,4,4,4,4,0.0,1.0
+Matecaña International Airport,PEI,8,8,8,8,0.0,1.0
+Guillermo León Valencia Airport,PPN,2,2,2,2,0.0,1.0
+Kemerovo Airport,KEJ,4,4,4,4,0.0,1.0
+Omsk Central Airport,OMS,30,30,30,30,0.0,1.0
+Krasnodar Pashkovsky International Airport,KRR,67,67,67,67,0.0,1.0
+Mandalay International Airport,MDL,16,16,16,16,0.0,1.0
+Loei Airport,LOE,2,2,2,2,0.0,1.0
+Da Nang International Airport,DAD,40,40,40,40,0.0,1.0
+Noi Bai International Airport,HAN,92,92,92,92,0.0,1.0
+Phu Bai Airport,HUI,4,4,4,4,0.0,1.0
+Phu Quoc International Airport,PQC,6,6,6,6,0.0,1.0
+Tan Son Nhat International Airport,SGN,106,106,106,106,0.0,1.0
+Bagan Airport,NYU,5,5,5,5,0.0,1.0
+Heho Airport,HEH,7,7,7,7,0.0,1.0
+Kengtung Airport,KET,2,2,2,2,0.0,1.0
+Kyaukpyu Airport,KYP,2,2,2,2,0.0,1.0
+Myeik Airport,MGZ,4,4,4,4,0.0,1.0
+Wamena Airport,WMX,2,2,2,2,0.0,1.0
+Myitkyina Airport,MYT,6,6,6,6,0.0,1.0
+Putao Airport,PBU,2,2,2,2,0.0,1.0
+Sittwe Airport,AKY,4,4,4,4,0.0,1.0
+Thandwe Airport,SNW,4,4,4,4,0.0,1.0
+Tachileik Airport,THL,7,7,7,7,0.0,1.0
+Yangon International Airport,RGN,57,57,57,57,0.0,1.0
+Hasanuddin International Airport,UPG,46,46,46,46,0.0,1.0
+Frans Kaisiepo Airport,BIK,4,4,4,4,0.0,1.0
+Nabire Airport,NBX,6,6,6,6,0.0,1.0
+Moses Kilangin Airport,TIM,6,6,6,6,0.0,1.0
+Sakon Nakhon Airport,SNO,2,2,2,2,0.0,1.0
+Udon Thani Airport,UTH,8,8,8,8,0.0,1.0
+Trang Airport,TST,2,2,2,2,0.0,1.0
+Hat Yai International Airport,HDY,10,10,10,10,0.0,1.0
+Calicut International Airport,CCJ,34,34,34,34,0.0,1.0
+Madurai Airport,IXM,6,6,6,6,0.0,1.0
+Mangalore International Airport,IXE,15,15,15,15,0.0,1.0
+Chennai International Airport,MAA,76,76,76,76,0.0,1.0
+Vir Savarkar International Airport,IXZ,6,6,6,6,0.0,1.0
+Rajahmundry Airport,RJA,2,2,2,2,0.0,1.0
+Tirupati Airport,TIR,2,2,2,2,0.0,1.0
+Tiruchirapally Civil Airport Airport,TRZ,8,8,8,8,0.0,1.0
+Trivandrum International Airport,TRV,34,34,34,34,0.0,1.0
+Paro Airport,PBH,10,10,10,10,0.0,1.0
+Malé International Airport,MLE,54,54,54,54,0.0,1.0
+Don Mueang International Airport,DMK,96,96,96,96,0.0,1.0
+U-Tapao International Airport,UTP,4,4,4,4,0.0,1.0
+Lampang Airport,LPT,2,2,2,2,0.0,1.0
+Phrae Airport,PRH,2,2,2,2,0.0,1.0
+Phitsanulok Airport,PHS,4,4,4,4,0.0,1.0
+Narathiwat Airport,NAW,2,2,2,2,0.0,1.0
+Krabi Airport,KBV,12,12,12,12,0.0,1.0
+Samui Airport,USM,20,20,20,20,0.0,1.0
+Phuket International Airport,HKT,63,63,63,63,0.0,1.0
+Ranong Airport,UNN,2,2,2,2,0.0,1.0
+Sentani International Airport,DJJ,18,18,18,18,0.0,1.0
+Mopah Airport,MKQ,2,2,2,2,0.0,1.0
+Uytash Airport,MCX,8,8,8,8,0.0,1.0
+Sultan Azlan Shah Airport,IPH,2,2,2,2,0.0,1.0
+Ketapang(Rahadi Usman) Airport,KTG,4,4,4,4,0.0,1.0
+Supadio Airport,PNK,8,8,8,8,0.0,1.0
+Sultan Thaha Airport,DJB,4,4,4,4,0.0,1.0
+Fatmawati Soekarno Airport,BKS,4,4,4,4,0.0,1.0
+Sultan Mahmud Badaruddin II Airport,PLM,15,15,15,15,0.0,1.0
+Sultan Iskandar Muda International Airport,BTJ,6,6,6,6,0.0,1.0
+Sultan Abdul Halim Airport,AOR,4,4,4,4,0.0,1.0
+Sultan Ismail Petra Airport,KBR,14,14,14,14,0.0,1.0
+Kuantan Airport,KUA,6,6,6,6,0.0,1.0
+Kerteh Airport,KTE,2,2,2,2,0.0,1.0
+Senai International Airport,JHB,24,24,24,24,0.0,1.0
+Jalaluddin Airport,GTO,4,4,4,4,0.0,1.0
+Kuala Lumpur International Airport,KUL,223,223,223,223,0.0,1.0
+Langkawi International Airport,LGK,10,10,10,10,0.0,1.0
+Sultan Mahmud Airport,TGG,8,8,8,8,0.0,1.0
+Penang International Airport,PEN,40,40,40,40,0.0,1.0
+Presidente Nicolau Lobato International Airport,DIL,6,6,6,6,0.0,1.0
+Singapore Changi Airport,SIN,250,250,250,250,0.0,1.0
+Northern Peninsula Airport,ABM,2,2,2,2,0.0,1.0
+Alice Springs Airport,ASP,16,16,16,16,0.0,1.0
+Brisbane International Airport,BNE,114,114,114,114,0.0,1.0
+Gold Coast Airport,OOL,26,26,26,26,0.0,1.0
+Minangkabau International Airport,PDG,6,6,6,6,0.0,1.0
+Soekarno-Hatta International Airport,CGK,127,127,127,127,0.0,1.0
+Sultan Syarif Kasim Ii (Simpang Tiga) Airport,PKU,14,14,14,14,0.0,1.0
+Brunei International Airport,BWN,26,26,26,26,0.0,1.0
+Mutiara Airport,PLW,7,7,7,7,0.0,1.0
+Sam Ratulangi Airport,MDC,22,22,22,22,0.0,1.0
+Kasiguncu Airport,PSJ,2,2,2,2,0.0,1.0
+Sultan Khairun Babullah Airport,TTE,6,6,6,6,0.0,1.0
+Syukuran Aminuddin Amir Airport,LUW,2,2,2,2,0.0,1.0
+"Pattimura Airport, Ambon",AMQ,17,17,17,17,0.0,1.0
+Fakfak Airport,FKQ,7,7,7,7,0.0,1.0
+Kaimana Airport,KNG,5,5,5,5,0.0,1.0
+Babo Airport,BXB,2,2,2,2,0.0,1.0
+Rendani Airport,MKW,10,10,10,10,0.0,1.0
+Dominique Edward Osok Airport,SOQ,12,12,12,12,0.0,1.0
+Bintulu Airport,BTU,10,10,10,10,0.0,1.0
+Kuching International Airport,KCH,26,26,26,26,0.0,1.0
+Limbang Airport,LMN,2,2,2,2,0.0,1.0
+Marudi Airport,MUR,10,10,10,10,0.0,1.0
+Miri Airport,MYY,40,40,40,40,0.0,1.0
+Sibu Airport,SBW,12,12,12,12,0.0,1.0
+Lahad Datu Airport,LDU,2,2,2,2,0.0,1.0
+Kota Kinabalu International Airport,BKI,60,60,60,60,0.0,1.0
+Labuan Airport,LBU,6,6,6,6,0.0,1.0
+Tawau Airport,TWU,10,10,10,10,0.0,1.0
+Cochin International Airport,COK,44,44,44,44,0.0,1.0
+Coimbatore International Airport,CJB,16,16,16,16,0.0,1.0
+Vijayawada Airport,VGA,4,4,4,4,0.0,1.0
+Jabalpur Airport,JLR,4,4,4,4,0.0,1.0
+Sardar Vallabhbhai Patel International Airport,AMD,36,36,36,36,0.0,1.0
+Aurangabad Airport,IXU,4,4,4,4,0.0,1.0
+Chhatrapati Shivaji International Airport,BOM,165,165,165,165,0.0,1.0
+Bhuj Airport,BHJ,2,2,2,2,0.0,1.0
+Belgaum Airport,IXG,2,2,2,2,0.0,1.0
+Vadodara Airport,BDQ,4,4,4,4,0.0,1.0
+Raja Bhoj International Airport,BHO,5,5,5,5,0.0,1.0
+Bhavnagar Airport,BHU,2,2,2,2,0.0,1.0
+Dabolim Airport,GOI,24,24,24,24,0.0,1.0
+Devi Ahilyabai Holkar Airport,IDR,14,14,14,14,0.0,1.0
+Jamnagar Airport,JGA,2,2,2,2,0.0,1.0
+Kempegowda International Airport,BLR,81,81,81,81,0.0,1.0
+Khajuraho Airport,HJR,2,2,2,2,0.0,1.0
+Dr. Babasaheb Ambedkar International Airport,NAG,15,15,15,15,0.0,1.0
+Pune Airport,PNQ,25,25,25,25,0.0,1.0
+Porbandar Airport,PBD,2,2,2,2,0.0,1.0
+Rajkot Airport,RAJ,2,2,2,2,0.0,1.0
+Raipur Airport,RPR,13,13,13,13,0.0,1.0
+Surat Airport,STV,4,4,4,4,0.0,1.0
+Maharana Pratap Airport,UDR,4,4,4,4,0.0,1.0
+Bandaranaike International Colombo Airport,CMB,82,82,82,82,0.0,1.0
+Batticaloa Airport,BTC,2,2,2,2,0.0,1.0
+Kurumoch International Airport,KUF,40,40,40,40,0.0,1.0
+Ufa International Airport,UFA,38,38,38,38,0.0,1.0
+Orenburg Central Airport,REN,12,12,12,12,0.0,1.0
+Kazan International Airport,KZN,42,42,42,42,0.0,1.0
+Mineralnyye Vody Airport,MRV,32,32,32,32,0.0,1.0
+Stavropol Shpakovskoye Airport,STW,6,6,6,6,0.0,1.0
+Platov International Airport,ROV,44,44,44,44,0.0,1.0
+Sochi International Airport,AER,35,35,35,35,0.0,1.0
+Astrakhan Airport,ASF,14,14,14,14,0.0,1.0
+Volgograd International Airport,VOG,20,20,20,20,0.0,1.0
+Chelyabinsk Balandino Airport,CEK,28,28,28,28,0.0,1.0
+Magnitogorsk International Airport,MQF,4,4,4,4,0.0,1.0
+Nizhnevartovsk Airport,NJC,18,18,18,18,0.0,1.0
+Bolshoye Savino Airport,PEE,10,10,10,10,0.0,1.0
+Surgut Airport,SGC,24,24,24,24,0.0,1.0
+Koltsovo Airport,SVX,131,131,131,131,0.0,1.0
+Ashgabat International Airport,ASB,22,22,22,22,0.0,1.0
+Dushanbe Airport,DYU,61,61,61,61,0.0,1.0
+Bukhara Airport,BHK,7,7,7,7,0.0,1.0
+Samarkand Airport,SKD,11,11,11,11,0.0,1.0
+Tashkent International Airport,TAS,113,113,113,113,0.0,1.0
+Sheremetyevo International Airport,SVO,288,288,288,288,0.0,1.0
+Voronezh International Airport,VOZ,12,12,12,12,0.0,1.0
+Vnukovo International Airport,VKO,147,147,147,147,0.0,1.0
+Syktyvkar Airport,SCW,14,14,14,14,0.0,1.0
+China Bay Airport,TRR,2,2,2,2,0.0,1.0
+Phnom Penh International Airport,PNH,30,30,30,30,0.0,1.0
+Siem Reap International Airport,REP,40,40,40,40,0.0,1.0
+Chandigarh Airport,IXC,6,6,6,6,0.0,1.0
+Dehradun Airport,DED,4,4,4,4,0.0,1.0
+Indira Gandhi International Airport,DEL,194,194,194,194,0.0,1.0
+Gwalior Airport,GWL,2,2,2,2,0.0,1.0
+Jodhpur Airport,JDH,4,4,4,4,0.0,1.0
+Jaipur International Airport,JAI,18,18,18,18,0.0,1.0
+Jammu Airport,IXJ,8,8,8,8,0.0,1.0
+Ludhiana Airport,LUH,2,2,2,2,0.0,1.0
+Leh Kushok Bakula Rimpochee Airport,IXL,6,6,6,6,0.0,1.0
+Chaudhary Charan Singh International Airport,LKO,18,18,18,18,0.0,1.0
+Sheikh ul Alam Airport,SXR,12,12,12,12,0.0,1.0
+Luang Phabang International Airport,LPQ,14,14,14,14,0.0,1.0
+Pakse International Airport,PKZ,10,10,10,10,0.0,1.0
+Savannakhet Airport,ZVK,6,6,6,6,0.0,1.0
+Wattay International Airport,VTE,34,34,34,34,0.0,1.0
+Macau International Airport,MFM,76,76,76,76,0.0,1.0
+Gautam Buddha Airport,BWA,2,2,2,2,0.0,1.0
+Janakpur Airport,JKR,2,2,2,2,0.0,1.0
+Tribhuvan International Airport,KTM,64,64,64,64,0.0,1.0
+Pokhara Airport,PKR,2,2,2,2,0.0,1.0
+Biratnagar Airport,BIR,2,2,2,2,0.0,1.0
+Agatti Airport,AGX,2,2,2,2,0.0,1.0
+Kanpur Airport,KNU,2,2,2,2,0.0,1.0
+Kullu Manali Airport,KUU,2,2,2,2,0.0,1.0
+Agartala Airport,IXA,6,6,6,6,0.0,1.0
+Lal Bahadur Shastri Airport,VNS,10,10,10,10,0.0,1.0
+Lengpui Airport,AJL,6,6,6,6,0.0,1.0
+Bagdogra Airport,IXB,10,10,10,10,0.0,1.0
+Biju Patnaik Airport,BBI,13,13,13,13,0.0,1.0
+Netaji Subhash Chandra Bose International Airport,CCU,74,74,74,74,0.0,1.0
+Imphal Airport,IMF,10,10,10,10,0.0,1.0
+Silchar Airport,IXS,6,6,6,6,0.0,1.0
+Dibrugarh Airport,DIB,7,7,7,7,0.0,1.0
+Lok Nayak Jayaprakash Airport,PAT,9,9,9,9,0.0,1.0
+Birsa Munda Airport,IXR,7,7,7,7,0.0,1.0
+Vishakhapatnam Airport,VTZ,17,17,17,17,0.0,1.0
+Cox's Bazar Airport,CXB,2,2,2,2,0.0,1.0
+Shah Amanat International Airport,CGP,20,20,20,20,0.0,1.0
+Jessore Airport,JSR,2,2,2,2,0.0,1.0
+Shah Mokhdum Airport,RJH,2,2,2,2,0.0,1.0
+Saidpur Airport,SPD,3,3,3,3,0.0,1.0
+Osmany International Airport,ZYL,5,5,5,5,0.0,1.0
+Hazrat Shahjalal International Airport,DAC,67,67,67,67,0.0,1.0
+Hong Kong International Airport,HKG,265,265,265,265,0.0,1.0
+Agra Airport,AGR,4,4,4,4,0.0,1.0
+Allahabad Airport,IXD,4,4,4,4,0.0,1.0
+Sri Guru Ram Dass Jee International Airport,ATQ,12,12,12,12,0.0,1.0
+Governador Jorge Teixeira de Oliveira Airport,PVH,8,8,8,8,0.0,1.0
+João Simões Lopes Neto International Airport,PET,2,2,2,2,0.0,1.0
+General Roberto Fierro Villalobos International Airport,CUU,20,20,20,20,0.0,1.0
+Invercargill Airport,IVC,4,4,4,4,0.0,1.0
+Taupo Airport,TUO,4,4,4,4,0.0,1.0
+Christchurch International Airport,CHC,41,41,41,41,0.0,1.0
+Dunedin Airport,DUD,7,7,7,7,0.0,1.0
+Gisborne Airport,GIS,4,4,4,4,0.0,1.0
+Hokitika Airfield,HKK,2,2,2,2,0.0,1.0
+Hamilton International Airport,HLZ,8,8,8,8,0.0,1.0
+Kerikeri Airport,KKE,2,2,2,2,0.0,1.0
+Kaitaia Airport,KAT,2,2,2,2,0.0,1.0
+New Plymouth Airport,NPL,6,6,6,6,0.0,1.0
+Nelson Airport,NSN,8,8,8,8,0.0,1.0
+Palmerston North Airport,PMR,10,10,10,10,0.0,1.0
+Herat Airport,HEA,8,8,8,8,0.0,1.0
+Paraparaumu Airport,PPQ,4,4,4,4,0.0,1.0
+Queenstown International Airport,ZQN,10,10,10,10,0.0,1.0
+Rotorua Regional Airport,ROT,6,6,6,6,0.0,1.0
+Tauranga Airport,TRG,6,6,6,6,0.0,1.0
+Timaru Airport,TIU,2,2,2,2,0.0,1.0
+Woodbourne Airport,BHE,6,6,6,6,0.0,1.0
+Whakatane Airport,WHK,2,2,2,2,0.0,1.0
+Wellington International Airport,WLG,42,42,42,42,0.0,1.0
+Whangarei Airport,WRE,4,4,4,4,0.0,1.0
+Westport Airport,WSZ,2,2,2,2,0.0,1.0
+Auckland International Airport,AKL,95,95,95,95,0.0,1.0
+La Tontouta International Airport,NOU,18,18,18,18,0.0,1.0
+Ouvéa Airport,UVE,4,4,4,4,0.0,1.0
+Touho Airport,TOU,2,2,2,2,0.0,1.0
+Totegegie Airport,GMR,2,2,2,2,0.0,1.0
+Kaukura Airport,KKR,2,2,2,2,0.0,1.0
+Makemo Airport,MKP,2,2,2,2,0.0,1.0
+Takapoto Airport,TKP,2,2,2,2,0.0,1.0
+Arutua Airport,AXR,2,2,2,2,0.0,1.0
+Mataiva Airport,MVT,4,4,4,4,0.0,1.0
+Takaroa Airport,TKX,5,5,5,5,0.0,1.0
+Nuku Hiva Airport,NHV,8,8,8,8,0.0,1.0
+Bora Bora Airport,BOB,12,12,12,12,0.0,1.0
+Rangiroa Airport,RGI,11,11,11,11,0.0,1.0
+Huahine-Fare Airport,HUH,8,8,8,8,0.0,1.0
+Moorea Airport,MOZ,7,7,7,7,0.0,1.0
+Hao Airport,HOI,3,3,3,3,0.0,1.0
+Maupiti Airport,MAU,6,6,6,6,0.0,1.0
+Raiatea Airport,RFP,9,9,9,9,0.0,1.0
+Bauerfield International Airport,VLI,40,40,40,40,0.0,1.0
+Koné Airport,KNQ,2,2,2,2,0.0,1.0
+Koumac Airport,KOC,4,4,4,4,0.0,1.0
+Lifou Airport,LIF,6,6,6,6,0.0,1.0
+Nouméa Magenta Airport,GEA,17,17,17,17,0.0,1.0
+Maré Airport,MEE,2,2,2,2,0.0,1.0
+Wanganui Airport,WAG,2,2,2,2,0.0,1.0
+Hamid Karzai International Airport,KBL,28,28,28,28,0.0,1.0
+Fakarava Airport,FAV,4,4,4,4,0.0,1.0
+Esfahan Shahid Beheshti International Airport,IFN,28,28,28,28,0.0,1.0
+Dezful Airport,DEF,2,2,2,2,0.0,1.0
+Gachsaran Airport,GCH,2,2,2,2,0.0,1.0
+Mahshahr Airport,MRX,4,4,4,4,0.0,1.0
+Ahwaz Airport,AWZ,26,26,26,26,0.0,1.0
+Bushehr Airport,BUZ,8,8,8,8,0.0,1.0
+Kish International Airport,KIH,15,15,15,15,0.0,1.0
+Bandar Lengeh Airport,BDH,4,4,4,4,0.0,1.0
+Sirri Island Airport,SXI,2,2,2,2,0.0,1.0
+Shahid Ashrafi Esfahani Airport,KSH,6,6,6,6,0.0,1.0
+Sanandaj Airport,SDG,2,2,2,2,0.0,1.0
+Sardar-e-Jangal Airport,RAS,14,14,14,14,0.0,1.0
+Kandahar Airport,KDH,8,8,8,8,0.0,1.0
+Mehrabad International Airport,THR,72,72,72,72,0.0,1.0
+Bandar Abbas International Airport,BND,24,24,24,24,0.0,1.0
+Kerman Airport,KER,8,8,8,8,0.0,1.0
+Birjand Airport,XBJ,4,4,4,4,0.0,1.0
+Ramsar Airport,RZR,4,4,4,4,0.0,1.0
+Lamerd Airport,LFM,6,6,6,6,0.0,1.0
+Shiraz Shahid Dastghaib International Airport,SYZ,50,50,50,50,0.0,1.0
+Khoy Airport,KHY,2,2,2,2,0.0,1.0
+Tabriz International Airport,TBZ,20,20,20,20,0.0,1.0
+Shahid Sadooghi Airport,AZD,8,8,8,8,0.0,1.0
+Abadan Airport,ABD,6,6,6,6,0.0,1.0
+Prince Abdulmohsin Bin Abdulaziz Airport,YNB,15,15,15,15,0.0,1.0
+Al Wajh Domestic Airport,EJH,2,2,2,2,0.0,1.0
+Turaif Domestic Airport,TUI,2,2,2,2,0.0,1.0
+Mazar I Sharif Airport,MZR,6,6,6,6,0.0,1.0
+Bahrain International Airport,BAH,80,80,80,80,0.0,1.0
+Abha Regional Airport,AHB,21,21,21,21,0.0,1.0
+Al Ahsa Airport,HOF,6,6,6,6,0.0,1.0
+Al Baha Airport,ABT,6,6,6,6,0.0,1.0
+Bisha Airport,BHH,6,6,6,6,0.0,1.0
+King Fahd International Airport,DMM,96,96,96,96,0.0,1.0
+Jizan Regional Airport,GIZ,8,8,8,8,0.0,1.0
+Gassim Airport,ELQ,19,19,19,19,0.0,1.0
+Gurayat Domestic Airport,URY,4,4,4,4,0.0,1.0
+Ha'il Airport,HAS,10,10,10,10,0.0,1.0
+King Abdulaziz International Airport,JED,207,207,207,207,0.0,1.0
+Prince Mohammad Bin Abdulaziz Airport,MED,70,70,70,70,0.0,1.0
+Nejran Airport,EAM,6,6,6,6,0.0,1.0
+Al Qaisumah/Hafr Al Batin Airport,AQI,4,4,4,4,0.0,1.0
+Rafha Domestic Airport,RAH,2,2,2,2,0.0,1.0
+King Khaled International Airport,RUH,161,161,161,161,0.0,1.0
+Arar Domestic Airport,RAE,4,4,4,4,0.0,1.0
+Sharurah Airport,SHW,4,4,4,4,0.0,1.0
+Tabuk Airport,TUU,14,14,14,14,0.0,1.0
+Ta’if Regional Airport,TIF,18,18,18,18,0.0,1.0
+Manihi Airport,XMH,6,6,6,6,0.0,1.0
+Tikehau Airport,TIH,5,5,5,5,0.0,1.0
+Lauro Kurtz Airport,PFB,8,8,8,8,0.0,1.0
+General Abelardo L. Rodríguez International Airport,TIJ,63,63,63,63,0.0,1.0
+Piedras Negras International Airport,PDS,2,2,2,2,0.0,1.0
+Licenciado y General Ignacio Lopez Rayon Airport,UPN,4,4,4,4,0.0,1.0
+Licenciado Gustavo Díaz Ordaz International Airport,PVR,42,42,42,42,0.0,1.0
+Puerto Escondido International Airport,PXM,2,2,2,2,0.0,1.0
+Querétaro Intercontinental Airport,QRO,10,10,10,10,0.0,1.0
+General Lucio Blanco International Airport,REX,10,10,10,10,0.0,1.0
+Los Cabos International Airport,SJD,44,44,44,44,0.0,1.0
+Ponciano Arriaga International Airport,SLP,12,12,12,12,0.0,1.0
+Francisco Sarabia International Airport,TRC,12,12,12,12,0.0,1.0
+Angel Albino Corzo International Airport,TGZ,10,10,10,10,0.0,1.0
+General Francisco Javier Mina International Airport,TAM,10,10,10,10,0.0,1.0
+Enrique Malek International Airport,DAV,4,4,4,4,0.0,1.0
+Licenciado Adolfo Lopez Mateos International Airport,TLC,20,20,20,20,0.0,1.0
+Tapachula International Airport,TAP,4,4,4,4,0.0,1.0
+Cancún International Airport,CUN,156,156,156,156,0.0,1.0
+Carlos Rovirosa Pérez International Airport,VSA,16,16,16,16,0.0,1.0
+General Heriberto Jara International Airport,VER,18,18,18,18,0.0,1.0
+General Leobardo C. Ruiz International Airport,ZCL,10,10,10,10,0.0,1.0
+Ixtapa Zihuatanejo International Airport,ZIH,10,10,10,10,0.0,1.0
+Playa De Oro International Airport,ZLO,8,8,8,8,0.0,1.0
+Augusto C. Sandino (Managua) International Airport,MGA,16,16,16,16,0.0,1.0
+Bocas Del Toro International Airport,BOC,5,5,5,5,0.0,1.0
+Hermanos Serdán International Airport,PBC,12,12,12,12,0.0,1.0
+El Tajín National Airport,PAZ,6,6,6,6,0.0,1.0
+Xoxocotlán International Airport,OAX,10,10,10,10,0.0,1.0
+Quetzalcóatl International Airport,NLD,2,2,2,2,0.0,1.0
+General Pedro Jose Mendez International Airport,CVM,2,2,2,2,0.0,1.0
+Cozumel International Airport,CZM,18,18,18,18,0.0,1.0
+General Guadalupe Victoria International Airport,DGO,8,8,8,8,0.0,1.0
+Amado Nervo National Airport,TPQ,4,4,4,4,0.0,1.0
+Don Miguel Hidalgo Y Costilla International Airport,GDL,82,82,82,82,0.0,1.0
+General Ignacio P. Garcia International Airport,HMO,26,26,26,26,0.0,1.0
+Licenciado Miguel de la Madrid Airport,CLQ,4,4,4,4,0.0,1.0
+Plan De Guadalupe International Airport,SLW,4,4,4,4,0.0,1.0
+Lázaro Cárdenas Airport,LZC,2,2,2,2,0.0,1.0
+Valle del Fuerte International Airport,LMM,10,10,10,10,0.0,1.0
+Del Bajío International Airport,BJX,20,20,20,20,0.0,1.0
+Manuel Márquez de León International Airport,LAP,12,12,12,12,0.0,1.0
+Loreto International Airport,LTO,2,2,2,2,0.0,1.0
+General Servando Canales International Airport,MAM,2,2,2,2,0.0,1.0
+Licenciado Manuel Crescencio Rejon Int Airport,MID,16,16,16,16,0.0,1.0
+General Rodolfo Sánchez Taboada International Airport,MXL,6,6,6,6,0.0,1.0
+General Francisco J. Mujica International Airport,MLM,14,14,14,14,0.0,1.0
+Minatitlán/Coatzacoalcos National Airport,MTT,2,2,2,2,0.0,1.0
+Licenciado Benito Juarez International Airport,MEX,189,189,189,189,0.0,1.0
+General Mariano Escobedo International Airport,MTY,64,64,64,64,0.0,1.0
+General Rafael Buelna International Airport,MZT,18,18,18,18,0.0,1.0
+Cap Manuel Niño International Airport,CHX,2,2,2,2,0.0,1.0
+Marcos A. Gelabert International Airport,PAC,8,8,8,8,0.0,1.0
+Tubuai Airport,TUB,5,5,5,5,0.0,1.0
+San Salvador Airport,ZSA,6,6,6,6,0.0,1.0
+North Eleuthera Airport,ELH,8,8,8,8,0.0,1.0
+Governor's Harbour Airport,GHB,5,5,5,5,0.0,1.0
+Rock Sound Airport,RSD,2,2,2,2,0.0,1.0
+Grand Bahama International Airport,FPO,20,20,20,20,0.0,1.0
+Inagua Airport,IGA,4,4,4,4,0.0,1.0
+Deadman's Cay Airport,LGI,2,2,2,2,0.0,1.0
+Stella Maris Airport,SML,2,2,2,2,0.0,1.0
+Mayaguana Airport,MYG,4,4,4,4,0.0,1.0
+Lynden Pindling International Airport,NAS,79,79,79,79,0.0,1.0
+Rum Cay Airport,RCY,2,2,2,2,0.0,1.0
+Philip S. W. Goldson International Airport,BZE,28,28,28,28,0.0,1.0
+Tocumen International Airport,PTY,144,144,144,144,0.0,1.0
+Aitutaki Airport,AIT,3,3,3,3,0.0,1.0
+Rarotonga International Airport,RAR,18,18,18,18,0.0,1.0
+Nadi International Airport,NAN,47,47,47,47,0.0,1.0
+Nausori International Airport,SUV,23,23,23,23,0.0,1.0
+Fua'amotu International Airport,TBU,8,8,8,8,0.0,1.0
+Bonriki International Airport,TRW,6,6,6,6,0.0,1.0
+Hihifo Airport,WLS,6,6,6,6,0.0,1.0
+Faleolo International Airport,APW,8,8,8,8,0.0,1.0
+Pago Pago International Airport,PPG,2,2,2,2,0.0,1.0
+Rurutu Airport,RUR,5,5,5,5,0.0,1.0
+Exuma International Airport,GGT,11,11,11,11,0.0,1.0
+South Bimini Airport,BIM,2,2,2,2,0.0,1.0
+Treasure Cay Airport,TCB,2,2,2,2,0.0,1.0
+Spring Point Airport,AXP,4,4,4,4,0.0,1.0
+Golfito Airport,GLF,4,4,4,4,0.0,1.0
+Daniel Oduber Quiros International Airport,LIR,28,28,28,28,0.0,1.0
+Nosara Airport,NOB,2,2,2,2,0.0,1.0
+Juan Santamaria International Airport,SJO,73,73,73,73,0.0,1.0
+Palmar Sur Airport,PMZ,3,3,3,3,0.0,1.0
+Quepos Managua Airport,XQP,4,4,4,4,0.0,1.0
+Monseñor Óscar Arnulfo Romero International Airport,SAL,63,63,63,63,0.0,1.0
+Cap Haitien International Airport,CAP,4,4,4,4,0.0,1.0
+Toussaint Louverture International Airport,PAP,24,24,24,24,0.0,1.0
+Jardines Del Rey Airport,CCC,10,10,10,10,0.0,1.0
+Vilo Acuña International Airport,CYO,5,5,5,5,0.0,1.0
+Ignacio Agramonte International Airport,CMW,6,6,6,6,0.0,1.0
+Antonio Maceo International Airport,SCU,9,9,9,9,0.0,1.0
+Mariana Grajales Airport,GAO,2,2,2,2,0.0,1.0
+José Martí International Airport,HAV,61,61,61,61,0.0,1.0
+Frank Pais International Airport,HOG,13,13,13,13,0.0,1.0
+Abel Santamaria Airport,SNU,8,8,8,8,0.0,1.0
+Juan Gualberto Gomez International Airport,VRA,17,17,17,17,0.0,1.0
+Gerrard Smith International Airport,CYB,5,5,5,5,0.0,1.0
+Owen Roberts International Airport,GCM,37,37,37,37,0.0,1.0
+Leonard M Thompson International Airport,MHH,12,12,12,12,0.0,1.0
+Zabol Airport,ACZ,2,2,2,2,0.0,1.0
+Konarak Airport,ZBR,11,11,11,11,0.0,1.0
+Zahedan International Airport,ZAH,14,14,14,14,0.0,1.0
+Almirante Marco Andres Zar Airport,REL,11,11,11,11,0.0,1.0
+Domingo Faustino Sarmiento Airport,UAQ,3,3,3,3,0.0,1.0
+Brigadier Mayor D Cesar Raul Ojeda Airport,LUQ,3,3,3,3,0.0,1.0
+Resistencia International Airport,RES,2,2,2,2,0.0,1.0
+Formosa Airport,FMA,2,2,2,2,0.0,1.0
+Cataratas Del Iguazú International Airport,IGR,6,6,6,6,0.0,1.0
+Libertador Gral D Jose De San Martin Airport,PSS,2,2,2,2,0.0,1.0
+Martin Miguel De Guemes International Airport,SLA,8,8,8,8,0.0,1.0
+Gobernador Horacio Guzman International Airport,JUJ,4,4,4,4,0.0,1.0
+General E. Mosconi Airport,CRD,10,10,10,10,0.0,1.0
+Brigadier Antonio Parodi Airport,EQS,6,6,6,6,0.0,1.0
+Gobernador Castello Airport,VDM,2,2,2,2,0.0,1.0
+Araraquara Airport,AQA,2,2,2,2,0.0,1.0
+El Tehuelche Airport,PMY,2,2,2,2,0.0,1.0
+Hermes Quijada International Airport,RGA,4,4,4,4,0.0,1.0
+Piloto Civil N. Fernández Airport,RGL,9,9,9,9,0.0,1.0
+Malvinas Argentinas Airport,USH,7,7,7,7,0.0,1.0
+Comandante Espora Airport,BHI,6,6,6,6,0.0,1.0
+Ástor Piazzola International Airport,MDQ,4,4,4,4,0.0,1.0
+Presidente Peron Airport,NQN,6,6,6,6,0.0,1.0
+Santa Rosa Airport,RSA,2,2,2,2,0.0,1.0
+San Carlos De Bariloche Airport,BRC,12,12,12,12,0.0,1.0
+Aviador C. Campos Airport,CPC,2,2,2,2,0.0,1.0
+Teniente Benjamin Matienzo Airport,TUC,2,2,2,2,0.0,1.0
+Capitan V A Almonacid Airport,IRJ,2,2,2,2,0.0,1.0
+Vicecomodoro Angel D. La Paz Aragonés Airport,SDE,2,2,2,2,0.0,1.0
+Catamarca Airport,CTC,2,2,2,2,0.0,1.0
+Miyako Airport,MMY,6,6,6,6,0.0,1.0
+Ninoy Aquino International Airport,MNL,156,156,156,156,0.0,1.0
+Awang Airport,CBO,2,2,2,2,0.0,1.0
+Pagadian Airport,PAG,4,4,4,4,0.0,1.0
+General Santos International Airport,GES,6,6,6,6,0.0,1.0
+Zamboanga International Airport,ZAM,8,8,8,8,0.0,1.0
+San Jose Airport,SJI,2,2,2,2,0.0,1.0
+Daniel Z. Romualdez Airport,TAC,4,4,4,4,0.0,1.0
+Bacolod-Silay Airport,BCD,8,8,8,8,0.0,1.0
+Sibulan Airport,DGT,4,4,4,4,0.0,1.0
+Godofredo P. Ramos Airport,MPH,4,4,4,4,0.0,1.0
+Iloilo International Airport,ILO,16,16,16,16,0.0,1.0
+Kalibo International Airport,KLO,16,16,16,16,0.0,1.0
+Puerto Princesa Airport,PPS,10,10,10,10,0.0,1.0
+General Urquiza Airport,PRA,2,2,2,2,0.0,1.0
+Islas Malvinas Airport,ROS,10,10,10,10,0.0,1.0
+Sauce Viejo Airport,SFN,2,2,2,2,0.0,1.0
+Jorge Newbery Airpark,AEP,85,85,85,85,0.0,1.0
+Ingeniero Ambrosio Taravella Airport,COR,22,22,22,22,0.0,1.0
+El Plumerillo Airport,MDZ,15,15,15,15,0.0,1.0
+Suboficial Ay Santiago Germano Airport,AFA,4,4,4,4,0.0,1.0
+Conceição do Araguaia Airport,CDJ,2,2,2,2,0.0,1.0
+Santa Maria Airport,AJU,16,16,16,16,0.0,1.0
+Queen Alia International Airport,AMM,113,113,113,113,0.0,1.0
+Bom Jesus da Lapa Airport,LAZ,2,2,2,2,0.0,1.0
+Altamira Airport,ATM,5,5,5,5,0.0,1.0
+Itaituba Airport,ITB,2,2,2,2,0.0,1.0
+Bahia - Jorge Amado Airport,IOS,14,14,14,14,0.0,1.0
+Usiminas Airport,IPN,6,6,6,6,0.0,1.0
+Prefeito Renato Moreira Airport,IMP,9,9,9,9,0.0,1.0
+Presidente Castro Pinto International Airport,JPA,12,12,12,12,0.0,1.0
+Lauro Carneiro de Loyola Airport,JOI,8,8,8,8,0.0,1.0
+Presidente João Suassuna Airport,CPV,4,4,4,4,0.0,1.0
+Viracopos International Airport,VCP,102,102,102,102,0.0,1.0
+Governador José Richa Airport,LDB,14,14,14,14,0.0,1.0
+João Correa da Rocha Airport,MAB,12,12,12,12,0.0,1.0
+Piloto Osvaldo Marques Dias Airport,AFL,2,2,2,2,0.0,1.0
+Monte Dourado Airport,MEU,5,5,5,5,0.0,1.0
+Regional de Maringá - Sílvio Nane Junior Airport,MGF,16,16,16,16,0.0,1.0
+Mário Ribeiro Airport,MOC,4,4,4,4,0.0,1.0
+Zumbi dos Palmares Airport,MCZ,14,14,14,14,0.0,1.0
+Alberto Alcolumbre Airport,MCP,2,2,2,2,0.0,1.0
+Ministro Victor Konder International Airport,NVT,10,10,10,10,0.0,1.0
+Santo Ângelo Airport,GEL,4,4,4,4,0.0,1.0
+Governador Aluízio Alves International Airport,NAT,19,19,19,19,0.0,1.0
+Salgado Filho Airport,POA,52,52,52,52,0.0,1.0
+Prefeito Doutor João Silva Filho Airport,PHB,4,4,4,4,0.0,1.0
+Guarulhos - Governador André Franco Montoro International Airport,GRU,182,182,182,182,0.0,1.0
+Santa Genoveva Airport,GYN,22,22,22,22,0.0,1.0
+Rio Galeão – Tom Jobim International Airport,GIG,99,99,99,99,0.0,1.0
+Pinto Martins International Airport,FOR,38,38,38,38,0.0,1.0
+Araçatuba Airport,ARU,4,4,4,4,0.0,1.0
+Val de Cans/Júlio Cezar Ribeiro International Airport,BEL,36,36,36,36,0.0,1.0
+Pampulha - Carlos Drummond de Andrade Airport,PLU,23,23,23,23,0.0,1.0
+Presidente Juscelino Kubistschek International Airport,BSB,89,89,89,89,0.0,1.0
+Atlas Brasil Cantanhede Airport,BVB,2,2,2,2,0.0,1.0
+Cascavel Airport,CAC,6,6,6,6,0.0,1.0
+Tancredo Neves International Airport,CNF,66,66,66,66,0.0,1.0
+Campo Grande Airport,CGR,20,20,20,20,0.0,1.0
+Serafin Enoss Bertaso Airport,XAP,8,8,8,8,0.0,1.0
+Diomício Freitas Airport,CCM,4,4,4,4,0.0,1.0
+Bartolomeu Lisandro Airport,CAW,6,6,6,6,0.0,1.0
+Corumbá International Airport,CMG,2,2,2,2,0.0,1.0
+Afonso Pena Airport,CWB,47,47,47,47,0.0,1.0
+Hugo Cantergiani Regional Airport,CXJ,6,6,6,6,0.0,1.0
+Marechal Rondon Airport,CGB,36,36,36,36,0.0,1.0
+Cruzeiro do Sul Airport,CZS,2,2,2,2,0.0,1.0
+Presidente Prudente Airport,PPB,4,4,4,4,0.0,1.0
+Eduardo Gomes International Airport,MAO,36,36,36,36,0.0,1.0
+Cataratas International Airport,IGU,14,14,14,14,0.0,1.0
+Hercílio Luz International Airport,FLN,24,24,24,24,0.0,1.0
+Fernando de Noronha Airport,FEN,4,4,4,4,0.0,1.0
+Kumejima Airport,UEO,2,2,2,2,0.0,1.0
+New Ishigaki Airport,ISG,14,14,14,14,0.0,1.0
+Naha Airport,OKA,62,62,62,62,0.0,1.0
+Yap International Airport,YAP,4,4,4,4,0.0,1.0
+Rota International Airport,ROP,4,4,4,4,0.0,1.0
+Saipan International Airport,SPN,19,19,19,19,0.0,1.0
+Antonio B. Won Pat International Airport,GUM,38,38,38,38,0.0,1.0
+Marshall Islands International Airport,MAJ,8,8,8,8,0.0,1.0
+Bucholz Army Air Field,KWA,6,6,6,6,0.0,1.0
+Cassidy International Airport,CXI,4,4,4,4,0.0,1.0
+Chuuk International Airport,TKK,4,4,4,4,0.0,1.0
+Pohnpei International Airport,PNI,6,6,6,6,0.0,1.0
+Babelthuap Airport,ROR,12,12,12,12,0.0,1.0
+Kosrae International Airport,KSA,4,4,4,4,0.0,1.0
+Kinmen Airport,KNH,8,8,8,8,0.0,1.0
+Daegu Airport,TAE,8,8,8,8,0.0,1.0
+Taitung Airport,TTT,2,2,2,2,0.0,1.0
+Kaohsiung International Airport,KHH,74,74,74,74,0.0,1.0
+Taichung Ching Chuang Kang Airport,RMQ,46,46,46,46,0.0,1.0
+Tainan Airport,TNN,2,2,2,2,0.0,1.0
+Makung Airport,MZG,8,8,8,8,0.0,1.0
+Taipei Songshan Airport,TSA,38,38,38,38,0.0,1.0
+Taiwan Taoyuan International Airport,TPE,201,201,201,201,0.0,1.0
+Hualien Airport,HUN,8,8,8,8,0.0,1.0
+Narita International Airport,NRT,206,206,206,206,0.0,1.0
+Matsumoto Airport,MMJ,4,4,4,4,0.0,1.0
+Basrah International Airport,BSR,14,14,14,14,0.0,1.0
+Zhob Airport,PZH,4,4,4,4,0.0,1.0
+Sukkur Airport,SKZ,9,9,9,9,0.0,1.0
+Shaikh Zaid Airport,RYK,6,6,6,6,0.0,1.0
+Aqaba King Hussein International Airport,AQJ,4,4,4,4,0.0,1.0
+Kuwait International Airport,KWI,114,114,114,114,0.0,1.0
+Beirut Rafic Hariri International Airport,BEY,89,89,89,89,0.0,1.0
+Abu Dhabi International Airport,AUH,176,176,176,176,0.0,1.0
+Bateen Airport,AZI,6,6,6,6,0.0,1.0
+Dubai International Airport,DXB,368,368,368,368,0.0,1.0
+Fujairah International Airport,FJR,2,2,2,2,0.0,1.0
+Sharjah International Airport,SHJ,156,156,156,156,0.0,1.0
+Khasab Air Base,KHS,2,2,2,2,0.0,1.0
+Muscat International Airport,MCT,107,107,107,107,0.0,1.0
+Salalah Airport,SLL,12,12,12,12,0.0,1.0
+Faisalabad International Airport,LYP,2,2,2,2,0.0,1.0
+Gwadar International Airport,GWD,6,6,6,6,0.0,1.0
+Gilgit Airport,GIL,2,2,2,2,0.0,1.0
+Jinnah International Airport,KHI,73,73,73,73,0.0,1.0
+Alama Iqbal International Airport,LHE,62,62,62,62,0.0,1.0
+Moenjodaro Airport,MJD,4,4,4,4,0.0,1.0
+Multan International Airport,MUX,16,16,16,16,0.0,1.0
+Panjgur Airport,PJG,2,2,2,2,0.0,1.0
+Peshawar International Airport,PEW,34,34,34,34,0.0,1.0
+Quetta International Airport,UET,16,16,16,16,0.0,1.0
+Hyakuri Airport,IBR,10,10,10,10,0.0,1.0
+Nanki Shirahama Airport,SHM,2,2,2,2,0.0,1.0
+Tokachi-Obihiro Airport,OBO,2,2,2,2,0.0,1.0
+Miho Yonago Airport,YGJ,12,12,12,12,0.0,1.0
+Matsuyama Airport,MYJ,16,16,16,16,0.0,1.0
+Osaka International Airport,ITM,44,44,44,44,0.0,1.0
+Tottori Airport,TTJ,2,2,2,2,0.0,1.0
+Tokushima Airport/JMSDF Air Base,TKS,2,2,2,2,0.0,1.0
+Takamatsu Airport,TAK,12,12,12,12,0.0,1.0
+Aomori Airport,AOJ,10,10,10,10,0.0,1.0
+Yamagata Airport,GAJ,6,6,6,6,0.0,1.0
+Hanamaki Airport,HNA,8,8,8,8,0.0,1.0
+Akita Airport,AXT,10,10,10,10,0.0,1.0
+Misawa Air Base,MSJ,4,4,4,4,0.0,1.0
+Sendai Airport,SDJ,29,29,29,29,0.0,1.0
+Hachijojima Airport,HAC,2,2,2,2,0.0,1.0
+Oshima Airport,OIM,2,2,2,2,0.0,1.0
+Tokyo Haneda International Airport,HND,147,147,147,147,0.0,1.0
+Gwangju Airport,KWJ,4,4,4,4,0.0,1.0
+Yeosu Airport,RSU,4,4,4,4,0.0,1.0
+Jeju International Airport,CJU,66,66,66,66,0.0,1.0
+Gimhae International Airport,PUS,72,72,72,72,0.0,1.0
+Ulsan Airport,USN,4,4,4,4,0.0,1.0
+Gimpo International Airport,GMP,26,26,26,26,0.0,1.0
+Pohang Airport (G-815/K-3),KPO,4,4,4,4,0.0,1.0
+Kōchi Ryōma Airport,KCZ,6,6,6,6,0.0,1.0
+Izumo Airport,IZO,2,2,2,2,0.0,1.0
+New Chitose Airport,CTS,71,71,71,71,0.0,1.0
+Okayama Airport,OKJ,16,16,16,16,0.0,1.0
+Hakodate Airport,HKD,12,12,12,12,0.0,1.0
+Memanbetsu Airport,MMB,6,6,6,6,0.0,1.0
+Nakashibetsu Airport,SHB,4,4,4,4,0.0,1.0
+Wakkanai Airport,WKJ,4,4,4,4,0.0,1.0
+Iki Airport,IKI,2,2,2,2,0.0,1.0
+Yamaguchi Ube Airport,UBJ,4,4,4,4,0.0,1.0
+Tsushima Airport,TSJ,4,4,4,4,0.0,1.0
+Monbetsu Airport,MBE,2,2,2,2,0.0,1.0
+Asahikawa Airport,AKJ,6,6,6,6,0.0,1.0
+Fukue Airport,FUJ,4,4,4,4,0.0,1.0
+Fukuoka Airport,FUK,72,72,72,72,0.0,1.0
+Kagoshima Airport,KOJ,22,22,22,22,0.0,1.0
+Miyazaki Airport,KMI,14,14,14,14,0.0,1.0
+Oita Airport,OIT,10,10,10,10,0.0,1.0
+Kitakyūshū Airport,KKJ,2,2,2,2,0.0,1.0
+Kumamoto Airport,KMJ,12,12,12,12,0.0,1.0
+Nagasaki Airport,NGS,22,22,22,22,0.0,1.0
+Amami Airport,ASJ,4,4,4,4,0.0,1.0
+Komatsu Airport,KMQ,18,18,18,18,0.0,1.0
+Toyama Airport,TOY,12,12,12,12,0.0,1.0
+Hiroshima Airport,HIJ,18,18,18,18,0.0,1.0
+Desierto de Atacama Airport,CPO,6,6,6,6,0.0,1.0
